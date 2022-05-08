@@ -1,0 +1,251 @@
+category;description;COG;name;odds_ratio_log10_corr;0
+B;Chromatin structure and dynamics;COG5531;DNA-binding SWIB/MDM2 domain;-3.0;1
+S;Function unknown;COG5317;Uncharacterized conserved protein, DUF1465 domain;-3.0;1
+S;Function unknown;COG4253;Uncharacterized conserved protein, DUF2345 family;-3.0;1
+S;Function unknown;COG4259;Uncharacterized conserved protein, DUF4810 domain;-3.0;1
+S;Function unknown;COG4380;Uncharacterized conserved protein, DUF799 domain;-3.0;1
+S;Function unknown;COG4390;Uncharacterized conserved protein, DUF2322 domain;-3.0;1
+S;Function unknown;COG4517;Uncharacterized conserved protein, DUF1820 domain;-3.0;1
+S;Function unknown;COG4519;Uncharacterized conserved protein;-3.0;1
+S;Function unknown;COG4530;Uncharacterized conserved protein;-3.0;1
+S;Function unknown;COG4648;Uncharacterized membrane protein;-3.0;1
+S;Function unknown;COG4649;TPR-like repeat domain;-3.0;1
+S;Function unknown;COG4731;Uncharacterized conserved protein, DUF2147 family;-3.0;1
+S;Function unknown;COG4765;Uncharacterized conserved protein, DUF2155 domain;-3.0;1
+S;Function unknown;COG4944;Uncharacterized conserved protein;-3.0;1
+S;Function unknown;COG4949;Uncharacterized membrane-anchored protein;-3.0;1
+S;Function unknown;COG5321;Uncharacterized conserved protein;-3.0;1
+S;Function unknown;COG5454;Predicted secreted protein;-3.0;1
+S;Function unknown;COG5328;Uncharacterized conserved protein, UPF0262 family;-3.0;1
+S;Function unknown;COG5331;Uncharacterized conserved protein;-3.0;1
+S;Function unknown;COG5345;Uncharacterized conserved protein, DUF2333 domain;-3.0;1
+S;Function unknown;COG5349;Uncharacterized conserved protein, DUF983 family;-3.0;1
+S;Function unknown;COG5352;Uncharacterized conserved protein;-3.0;1
+S;Function unknown;COG5375;Uncharacterized conserved protein;-3.0;1
+S;Function unknown;COG5388;Uncharacterized conserved protein;-3.0;1
+S;Function unknown;COG5389;Uncharacterized conserved protein, DUF721 domain;-3.0;1
+S;Function unknown;COG5400;Uncharacterized conserved protein;-3.0;1
+S;Function unknown;COG5425;Usg protein (tryptophan operon, function unknown);-3.0;1
+S;Function unknown;COG5447;Uncharacterized conserved protein, DUF1491 domain;-3.0;1
+S;Function unknown;COG5449;Uncharacterized conserved protein, DUF2163 domain;-3.0;1
+S;Function unknown;COG5452;Uncharacterized conserved protein;-3.0;1
+S;Function unknown;COG4094;Uncharacterized membrane protein;-3.0;1
+S;Function unknown;COG4093;Uncharacterized conserved protein, DUF2125 domain;-3.0;1
+S;Function unknown;COG3908;Uncharacterized conserved protein, DUF2093 domain;-3.0;1
+S;Function unknown;COG3898;Uncharacterized protein HemY, contains HemY_N domain and TPR repeats (unrelated to HemY-type protoporphyrinogen oxidase);-3.0;1
+S;Function unknown;COG3198;Uncharacterized conserved protein;-3.0;1
+S;Function unknown;COG3235;Uncharacterized membrane protein;-3.0;1
+S;Function unknown;COG3242;Uncharacterized conserved protein YjeT, DUF2065 family;-3.0;1
+S;Function unknown;COG3249;Uncharacterized conserved protein, DUF2066 domain;-3.0;1
+S;Function unknown;COG3308;Uncharacterized membrane protein;-3.0;1
+S;Function unknown;COG3318;Uncharacterized conserved protein YecA, UPF0149 family, contains C-terminal Zn-binding SEC-C motif;-3.0;1
+S;Function unknown;COG3492;Uncharacterized conserved protein, DUF1244 family;-3.0;1
+S;Function unknown;COG3495;Uncharacterized conserved protein, DUF3299 family;-3.0;1
+S;Function unknown;COG3528;Uncharacterized conserved protein, DUF2219 family;-3.0;1
+S;Function unknown;COG3650;Uncharacterized membrane protein;-3.0;1
+S;Function unknown;COG3671;Uncharacterized membrane protein;-3.0;1
+S;Function unknown;COG3691;Uncharacterized conserved protein YfcZ, UPF0381/DUF406 family;-3.0;1
+S;Function unknown;COG3726;Uncharacterized membrane protein Smp affecting hemolysin expression;-3.0;1
+S;Function unknown;COG3748;Uncharacterized membrane protein;-3.0;1
+S;Function unknown;COG3750;Uncharacterized conserved protein, UPF0335 family;-3.0;1
+S;Function unknown;COG3762;Uncharacterized membrane protein;-3.0;1
+S;Function unknown;COG3771;Lipopolysaccharide assembly protein YciS/LapA, DUF1049 family;-3.0;1
+S;Function unknown;COG3776;Uncharacterized conserved protein YhhL, DUF1145 family;-3.0;1
+S;Function unknown;COG3782;Uncharacterized conserved protein, DUF1853 domain;-3.0;1
+S;Function unknown;COG3784;Uncharacterized conserved protein YdbL, DUF1318 family;-3.0;1
+S;Function unknown;COG3788;Uncharacterized membrane protein YecN, MAPEG domain;-3.0;1
+S;Function unknown;COG3789;Uncharacterized conserved protein YjfI, DUF2170 family;-3.0;1
+S;Function unknown;COG3790;Predicted membrane protein, encoded in cydAB operon;-3.0;1
+S;Function unknown;COG3811;Uncharacterized conserved protein YjhX, UPF0386/DUF2084 family;-3.0;1
+S;Function unknown;COG3812;Uncharacterized conserved protein, DUF1993 domain;-3.0;1
+S;Function unknown;COG3820;Uncharacterized conserved protein, DUF1013 family;-3.0;1
+S;Function unknown;COG3821;Uncharacterized membrane protein;-3.0;1
+S;Function unknown;COG5453;Uncharacterized conserved protein;-3.0;1
+S;Function unknown;COG5458;Uncharacterized conserved protein, DUF1489 domain;-3.0;1
+C;Energy production and conversion;COG1726;Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrA;-3.0;1
+U;Intracellular trafficking, secretion, and vesicular transport;COG3838;Type IV secretory pathway, VirB2 component (pilin);-3.0;1
+U;Intracellular trafficking, secretion, and vesicular transport;COG3297;Type II secretory pathway, component PulL;-3.0;1
+U;Intracellular trafficking, secretion, and vesicular transport;COG3455;Type VI protein secretion system component TssL/VasF/DotU;-3.0;1
+U;Intracellular trafficking, secretion, and vesicular transport;COG3515;Type VI protein secretion system component TssA1/VasJ/EvfE, contains ImpA_N domain;-3.0;1
+U;Intracellular trafficking, secretion, and vesicular transport;COG3516;Predicted component TssA of the type VI protein secretion system;-3.0;1
+U;Intracellular trafficking, secretion, and vesicular transport;COG3517;Predicted component TssB of the type VI protein secretion system, VipA/VipB/TssB family;-3.0;1
+U;Intracellular trafficking, secretion, and vesicular transport;COG3518;Predicted component of the type VI protein secretion system;-3.0;1
+U;Intracellular trafficking, secretion, and vesicular transport;COG3519;Type VI protein secretion system component VasA;-3.0;1
+U;Intracellular trafficking, secretion, and vesicular transport;COG3520;Predicted component of the type VI protein secretion system;-3.0;1
+U;Intracellular trafficking, secretion, and vesicular transport;COG3521;Predicted component of the type VI protein secretion system;-3.0;1
+U;Intracellular trafficking, secretion, and vesicular transport;COG3523;Type VI protein secretion system component VasK;-3.0;1
+U;Intracellular trafficking, secretion, and vesicular transport;COG3701;Type IV secretory pathway, TrbF component;-3.0;1
+U;Intracellular trafficking, secretion, and vesicular transport;COG3702;Type IV secretory pathway, VirB3 component;-3.0;1
+U;Intracellular trafficking, secretion, and vesicular transport;COG3736;Type IV secretory pathway, component VirB8;-3.0;1
+U;Intracellular trafficking, secretion, and vesicular transport;COG3946;Type IV secretory pathway, VirJ component;-3.0;1
+S;Function unknown;COG5462;Predicted secreted (periplasmic) protein;-3.0;1
+U;Intracellular trafficking, secretion, and vesicular transport;COG4618;ABC-type protease/lipase transport system, ATPase and permease components;-3.0;1
+U;Intracellular trafficking, secretion, and vesicular transport;COG4669;Type III secretory pathway, lipoprotein EscJ;-3.0;1
+U;Intracellular trafficking, secretion, and vesicular transport;COG4789;Type III secretory pathway, component EscV;-3.0;1
+U;Intracellular trafficking, secretion, and vesicular transport;COG4790;Type III secretory pathway, EscR/YscR component;-3.0;1
+U;Intracellular trafficking, secretion, and vesicular transport;COG4791;Type III secretory pathway, EscT/YscT component;-3.0;1
+U;Intracellular trafficking, secretion, and vesicular transport;COG4794;Type III secretory pathway, EscS/YscS component;-3.0;1
+U;Intracellular trafficking, secretion, and vesicular transport;COG5268;Type IV secretory pathway, TrbD component;-3.0;1
+V;Defense mechanisms;COG1133;Peptide antibiotic transporter SbmA/BacA, ABC-type permease family;-3.0;1
+V;Defense mechanisms;COG3155;Glyoxalase ElbB, DJ-1 superfamily;-3.0;1
+V;Defense mechanisms;COG3725;Membrane protein AmpE required for beta-lactamase induction;-3.0;1
+V;Defense mechanisms;COG4168;ABC-type antimicrobial peptide export system, permease component SapB;-3.0;1
+V;Defense mechanisms;COG4171;ABC-type antimicrobial peptide export system, permease component SapC;-3.0;1
+V;Defense mechanisms;COG4452;Inner membrane protein CreD involved in colicin E2 resistance;-3.0;1
+U;Intracellular trafficking, secretion, and vesicular transport;COG3149;Type II secretory pathway, component PulM;-3.0;1
+U;Intracellular trafficking, secretion, and vesicular transport;COG3114;Heme exporter protein D;-3.0;1
+U;Intracellular trafficking, secretion, and vesicular transport;COG3031;Type II secretory pathway, component PulC;-3.0;1
+U;Intracellular trafficking, secretion, and vesicular transport;COG2948;Type IV secretory pathway, VirB10 component;-3.0;1
+S;Function unknown;COG5467;Uncharacterized conserved protein, DUF1476 domain;-3.0;1
+S;Function unknown;COG5468;Predicted lipoprotein involved in lipopolysaccharide assembly;-3.0;1
+S;Function unknown;COG5469;Predicted metal-binding protein;-3.0;1
+S;Function unknown;COG5481;Uncharacterized conserved protein, DUF465 domain;-3.0;1
+S;Function unknown;COG5488;Uncharacterized membrane protein;-3.0;1
+S;Function unknown;COG5489;Uncharacterized conserved protein, DUF736 family;-3.0;1
+S;Function unknown;COG5501;Sulfur oxidation protein SoxY;-3.0;1
+S;Function unknown;COG5508;Uncharacterized conserved protein, DUF1674 domain;-3.0;1
+S;Function unknown;COG5509;Uncharacterized small protein, DUF1192 family;-3.0;1
+S;Function unknown;COG5544;Uncharacterized conserved protein YfiM, DUF2279 family;-3.0;1
+S;Function unknown;COG5568;Uncharacterized conserved protein, DUF1150 family;-3.0;1
+S;Function unknown;COG5570;Uncharacterized conserved protein, DUF465 domain;-3.0;1
+S;Function unknown;COG5572;Uncharacterized membrane protein;-3.0;1
+S;Function unknown;COG5589;Uncharacterized conserved protein, DUF2390 domain;-3.0;1
+S;Function unknown;COG5591;Uncharacterized conserved protein;-3.0;1
+S;Function unknown;COG5626;Uncharacterized protein Ssr3000, DUF2288 family;-3.0;1
+S;Function unknown;COG5633;Uncharacterized conserved protein YcfL;-3.0;1
+S;Function unknown;COG5639;Uncharacterized conserved protein, DUF2274 domain;-3.0;1
+S;Function unknown;COG5642;Uncharacterized conserved protein, DUF2384 family;-3.0;1
+S;Function unknown;COG5645;Uncharacterized conserved protein YceK;-3.0;1
+T;Signal transduction mechanisms;COG3045;Periplasmic catabolite regulation protein CreA (function unknown);-3.0;1
+T;Signal transduction mechanisms;COG3072;Adenylate cyclase, class I;-3.0;1
+T;Signal transduction mechanisms;COG3106;Ras-like GTP-binding stress-induced protein YcjX,  DUF463 family;-3.0;1
+T;Signal transduction mechanisms;COG3109;sRNA-binding protein ProQ;-3.0;1
+T;Signal transduction mechanisms;COG3213;Nitric oxide response protein NnrS;-3.0;1
+T;Signal transduction mechanisms;COG4579;Isocitrate dehydrogenase kinase/phosphatase;-3.0;1
+T;Signal transduction mechanisms;COG5385;Histidine phosphotransfer protein ChpT, HPt domain;-3.0;1
+S;Function unknown;COG3171;Uncharacterized conserved protein YggL, DUF469 family;-3.0;1
+S;Function unknown;COG3151;Uncharacterized conserved protein YqiB, DUF1249 family;-3.0;1
+S;Function unknown;COG3140;Uncharacterized conserved protein YoaH, UPF0181 family;-3.0;1
+L;Replication, recombination and repair;COG2925;Exonuclease I (degrades ssDNA);-3.0;1
+I;Lipid transport and metabolism;COG4706;Predicted 3-hydroxylacyl-ACP dehydratase, HotDog domain;-3.0;1
+J;Translation, ribosomal structure and biogenesis;COG2168;Sulfur transfer complex TusBCD TusB component, DsrH family;-3.0;1
+J;Translation, ribosomal structure and biogenesis;COG2269;Elongation factor P--beta-lysine ligase (EF-P beta-lysylation pathway);-3.0;1
+J;Translation, ribosomal structure and biogenesis;COG2923;Sulfur transfer complex TusBCD TusC component, DsrF family;-3.0;1
+J;Translation, ribosomal structure and biogenesis;COG3036;Stalled ribosome alternative rescue factor ArfA;-3.0;1
+J;Translation, ribosomal structure and biogenesis;COG3078;Ribosome assembly protein YihI, activator of Der GTPase;-3.0;1
+J;Translation, ribosomal structure and biogenesis;COG3101;Elongation factor P hydroxylase EpmC (EF-P beta-lysylation pathway);-3.0;1
+J;Translation, ribosomal structure and biogenesis;COG3129;23S rRNA A1618 N6-methylase RlmF;-3.0;1
+J;Translation, ribosomal structure and biogenesis;COG3130;Ribosome modulation factor;-3.0;1
+J;Translation, ribosomal structure and biogenesis;COG4445;tRNA isopentenyl-2-thiomethyl-A-37 hydroxylase MiaE (synthesis of 2-methylthio-cis-ribozeatin);-3.0;1
+K;Transcription;COG3160;Regulator of sigma D;-3.0;1
+K;Transcription;COG4568;Transcriptional antiterminator Rof (Rho-off);-3.0;1
+K;Transcription;COG4776;Exoribonuclease II;-3.0;1
+L;Replication, recombination and repair;COG3024;Endogenous inhibitor of DNA gyrase, YacG/DUF329 family;-3.0;1
+S;Function unknown;COG3139;Uncharacterized conserved protein YeaC, DUF1315 family;-3.0;1
+L;Replication, recombination and repair;COG3050;DNA polymerase III, psi subunit;-3.0;1
+L;Replication, recombination and repair;COG3120;Macrodomain Ter protein organizer, MatP/YcbG family;-3.0;1
+L;Replication, recombination and repair;COG3141;dsDNA-binding SOS-regulon protein YebG, induction by DNA damage requires cAMP;-3.0;1
+L;Replication, recombination and repair;COG3923;Primosomal replication protein N'';-3.0;1
+L;Replication, recombination and repair;COG4389;Site-specific recombinase;-3.0;1
+M;Cell wall/membrane/envelope biogenesis;COG1462;Curli biogenesis system outer membrane secretion channel CsgG;-3.0;1
+M;Cell wall/membrane/envelope biogenesis;COG2989;Murein L,D-transpeptidase YcbB/YkuD;-3.0;1
+M;Cell wall/membrane/envelope biogenesis;COG3008;Intermembrane transporter PqiABC subunit PqiB;-3.0;1
+M;Cell wall/membrane/envelope biogenesis;COG3131;Periplasmic glucan biosynthesis protein OpgG;-3.0;1
+M;Cell wall/membrane/envelope biogenesis;COG3137;Putative salt-induced outer membrane protein YdiY;-3.0;1
+M;Cell wall/membrane/envelope biogenesis;COG3248;Nucleoside-specific outer membrane channel protein Tsx;-3.0;1
+M;Cell wall/membrane/envelope biogenesis;COG3417;Outer membrane lipoprotein LpoB, binds and activates PBP1b;-3.0;1
+M;Cell wall/membrane/envelope biogenesis;COG3659;Carbohydrate-selective porin OprB;-3.0;1
+I;Lipid transport and metabolism;COG3124;Acyl carrier protein phosphodiesterase;-3.0;1
+I;Lipid transport and metabolism;COG2067;Long-chain fatty acid transport protein;-3.0;1
+H;Coenzyme transport and metabolism;COG5590;Ubiquinone biosynthesis protein COQ9;-3.0;1
+H;Coenzyme transport and metabolism;COG4256;Hemin uptake protein HemP;-3.0;1
+C;Energy production and conversion;COG2869;Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC;-3.0;1
+C;Energy production and conversion;COG3202;ATP/ADP translocase;-3.0;1
+C;Energy production and conversion;COG3761;NADH:ubiquinone oxidoreductase NDUFA12 subunit (Leigh syndrome);-3.0;1
+C;Energy production and conversion;COG3783;Soluble cytochrome b562;-3.0;1
+C;Energy production and conversion;COG4459;Periplasmic nitrate reductase system, NapE component;-3.0;1
+C;Energy production and conversion;COG4736;Cbb3-type cytochrome oxidase, subunit 3;-3.0;1
+C;Energy production and conversion;COG5605;Cytochrome c oxidase subunit IV;-3.0;1
+D;Cell cycle control, cell division, chromosome partitioning;COG3006;Chromosome condensin MukBEF, kleisin-like MukF subunit;-3.0;1
+D;Cell cycle control, cell division, chromosome partitioning;COG3061;Cell division protein YtfB/OapA (opacity-associated protein A);-3.0;1
+D;Cell cycle control, cell division, chromosome partitioning;COG3074;Cell division protein ZapB, interacts with FtsZ;-3.0;1
+D;Cell cycle control, cell division, chromosome partitioning;COG3095;Chromosome condensin MukBEF, MukE localization factor;-3.0;1
+D;Cell cycle control, cell division, chromosome partitioning;COG3096;Chromosome condensin MukBEF, ATPase and DNA-binding subunit MukB;-3.0;1
+D;Cell cycle control, cell division, chromosome partitioning;COG3660;Mitochondrial fission protein ELM1;-3.0;1
+D;Cell cycle control, cell division, chromosome partitioning;COG5404;Cell division inhibitor SulA, prevents FtsZ ring assembly;-3.0;1
+E;Amino acid transport and metabolism;COG2988;Succinylglutamate desuccinylase;-3.0;1
+E;Amino acid transport and metabolism;COG3138;Arginine/ornithine N-succinyltransferase beta subunit;-3.0;1
+E;Amino acid transport and metabolism;COG3724;Succinylarginine dihydrolase;-3.0;1
+E;Amino acid transport and metabolism;COG3931;Predicted N-formylglutamate amidohydrolase;-3.0;1
+E;Amino acid transport and metabolism;COG3978;Acetolactate synthase small subunit, contains ACT domain;-3.0;1
+E;Amino acid transport and metabolism;COG4160;ABC-type arginine/histidine transport system, permease component;-3.0;1
+E;Amino acid transport and metabolism;COG4215;ABC-type arginine transport system, permease component;-3.0;1
+E;Amino acid transport and metabolism;COG4598;ABC-type histidine transport system, ATPase component;-3.0;1
+G;Carbohydrate transport and metabolism;COG3769;Mannosyl-3-phosphoglycerate phosphatase YedP/MpgP, HAD superfamily;-3.0;1
+G;Carbohydrate transport and metabolism;COG4580;Maltoporin (phage lambda and maltose receptor);-3.0;1
+G;Carbohydrate transport and metabolism;COG5309;Exo-beta-1,3-glucanase,  GH17 family;-3.0;1
+H;Coenzyme transport and metabolism;COG1441;O-succinylbenzoate synthase;-3.0;1
+H;Coenzyme transport and metabolism;COG3840;ABC-type thiamine transport system, ATPase component ThiQ;-3.0;1
+M;Cell wall/membrane/envelope biogenesis;COG3713;Outer membrane scaffolding protein for murein synthesis, MipA/OmpV family;-3.0;1
+M;Cell wall/membrane/envelope biogenesis;COG3765;LPS O-antigen chain length determinant protein, WzzB/FepE family;-3.0;1
+M;Cell wall/membrane/envelope biogenesis;COG3770;Murein endopeptidase MepA (D-alanyl-D-alanine-endopeptidase);-3.0;1
+R;General function prediction only;COG4135;ABC-type uncharacterized transport system YnjBCD, permease component;-3.0;1
+R;General function prediction only;COG4261;Predicted acyltransferase, LPLAT superfamily;-3.0;1
+R;General function prediction only;COG4455;Protein of avirulence locus involved in temperature-dependent protein secretion;-3.0;1
+R;General function prediction only;COG4590;ABC-type uncharacterized transport system, permease component;-3.0;1
+R;General function prediction only;COG4784;Putative Zn-dependent protease;-3.0;1
+R;General function prediction only;COG5342;Invasion protein IalB, involved in pathogenesis;-3.0;1
+R;General function prediction only;COG5571;Uncharacterized conserved protein YhjY, contains autotransporter beta-barrel domain;-3.0;1
+S;Function unknown;COG1747;Uncharacterized N-terminal domain of the transcription elongation factor GreA;-3.0;1
+S;Function unknown;COG2121;Uncharacterized conserved protein, lysophospholipid acyltransferase (LPLAT) superfamily;-3.0;1
+S;Function unknown;COG2845;Uncharacterized conserved protein, DUF459 domain;-3.0;1
+S;Function unknown;COG2926;Uncharacterized conserved protein YeeX, DUF496 family;-3.0;1
+S;Function unknown;COG3014;Uncharacterized conserved protein;-3.0;1
+S;Function unknown;COG3056;Uncharacterized lipoprotein YajG;-3.0;1
+S;Function unknown;COG3068;Uncharacterized conserved protein YjaG, DUF416 family;-3.0;1
+S;Function unknown;COG3079;Uncharacterized conserved protein YgfB, UPF0149 family;-3.0;1
+S;Function unknown;COG3082;Uncharacterized conserved protein YejL, UPF0352 family;-3.0;1
+S;Function unknown;COG3084;Uncharacterized conserved protein YihD, DUF1040 family;-3.0;1
+S;Function unknown;COG3085;Uncharacterized conserved protein YifE, UPF0438 family;-3.0;1
+S;Function unknown;COG3089;Uncharacterized conserved protein YheU, UPF0270 family;-3.0;1
+S;Function unknown;COG3092;Uncharacterized membrane protein YfbV, UPF0208 family;-3.0;1
+S;Function unknown;COG3094;Uncharacterized membrane protein SirB2;-3.0;1
+S;Function unknown;COG3098;Uncharacterized conserved protein YqcC, DUF446 family;-3.0;1
+S;Function unknown;COG3099;Uncharacterized conserved protein YciU, UPF0263 family;-3.0;1
+S;Function unknown;COG3100;Uncharacterized conserved protein YcgL, UPF0745 family;-3.0;1
+S;Function unknown;COG3110;Uncharacterized conserved protein YccT, UPF0319 family;-3.0;1
+S;Function unknown;COG3112;Uncharacterized conserved protein YacL, UPF0231 family;-3.0;1
+S;Function unknown;COG3122;Uncharacterized conserved protein YaiL, DUF2058 family;-3.0;1
+S;Function unknown;COG3136;Dual-topology membrane protein YdgC, GlpM family;-3.0;1
+R;General function prediction only;COG4136;ABC-type uncharacterized transport system YnjBCD, ATPase component;-3.0;1
+R;General function prediction only;COG4068;Predicted nucleic acid-binding protein, contains Zn-ribbon domain;-3.0;1
+M;Cell wall/membrane/envelope biogenesis;COG3932;Exopolysaccharide synthesis protein ExoD;-3.0;1
+R;General function prediction only;COG3529;Predicted nucleic-acid-binding protein, contains Zn-ribbon domain;-3.0;1
+M;Cell wall/membrane/envelope biogenesis;COG4238;Outer membrane murein-binding lipoprotein Lpp;-3.0;1
+M;Cell wall/membrane/envelope biogenesis;COG4313;Sphingosine uptake channel SphA-related outer membrane channel;-3.0;1
+M;Cell wall/membrane/envelope biogenesis;COG4520;Surface antigen;-3.0;1
+M;Cell wall/membrane/envelope biogenesis;COG5622;Protein required for attachment to host cells;-3.0;1
+N;Cell motility;COG5442;Flagellar biosynthesis regulator FlaF;-3.0;1
+N;Cell motility;COG5443;Flagellar biosynthesis regulator FlbT;-3.0;1
+O;Posttranslational modification, protein turnover, chaperones;COG1025;Secreted/periplasmic Zn-dependent peptidases, insulinase-like;-3.0;1
+O;Posttranslational modification, protein turnover, chaperones;COG2143;Thioredoxin-related protein SoxW;-3.0;1
+O;Posttranslational modification, protein turnover, chaperones;COG3785;Heat shock protein HspQ;-3.0;1
+O;Posttranslational modification, protein turnover, chaperones;COG3814;SspB-like protein, predicted to bind SsrA peptide;-3.0;1
+O;Posttranslational modification, protein turnover, chaperones;COG4133;ABC-type transport system involved in cytochrome c biogenesis, ATPase component;-3.0;1
+O;Posttranslational modification, protein turnover, chaperones;COG4574;Serine protease inhibitor ecotin;-3.0;1
+O;Posttranslational modification, protein turnover, chaperones;COG5380;Lipase chaperone LimK;-3.0;1
+O;Posttranslational modification, protein turnover, chaperones;COG5387;Mitochondrial FoF1-type ATP synthase assembly chaperone ATP12;-3.0;1
+O;Posttranslational modification, protein turnover, chaperones;COG5661;Predicted secreted Zn-dependent protease;-3.0;1
+P;Inorganic ion transport and metabolism;COG3615;Tellurite resistance protein TehB, SAM-dependent methylase, cupin superfamily;-3.0;1
+P;Inorganic ion transport and metabolism;COG3746;Phosphate-selective porin;-3.0;1
+P;Inorganic ion transport and metabolism;COG4150;ABC-type sulfate transport system, periplasmic component;-3.0;1
+P;Inorganic ion transport and metabolism;COG4525;ABC-type taurine transport system, ATPase component;-3.0;1
+P;Inorganic ion transport and metabolism;COG5455;Periplasmic regulator RcnB of Ni and Co efflux;-3.0;1
+P;Inorganic ion transport and metabolism;COG5456;Nitrogen fixation protein FixH;-3.0;1
+Q;Secondary metabolites biosynthesis, transport and catabolism;COG4174;ABC-type microcin C transport system, permease component YejB;-3.0;1
+Q;Secondary metabolites biosynthesis, transport and catabolism;COG4239;ABC-type microcin C transport system, permease component YejE;-3.0;1
+R;General function prediction only;COG2992;Uncharacterized FlgJ-related protein;-3.0;1
+R;General function prediction only;COG3016;Putative heme-binding protein PhuW;-3.0;1
+R;General function prediction only;COG3054;Predicted transcriptional regulator YtfJ;-3.0;1
+R;General function prediction only;COG3102;Uncharacterized conserved protein YecM, predicted metalloenzyme;-3.0;1
+W;Extracellular structures;COG5430;Fimbrial subunit ScuA/B, ScuA/B/SCPU domain;-3.0;1

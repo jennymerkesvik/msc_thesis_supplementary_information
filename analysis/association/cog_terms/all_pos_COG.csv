@@ -1,0 +1,208 @@
+category;description;COG;name;odds_ratio_log10_corr;0
+A;RNA processing and modification;COG5180;PAB1-binding protein, interacts with poly(A)-binding protein;3.0;1
+S;Function unknown;COG4478;Uncharacterized membrane protein;1.271669048859985;1
+S;Function unknown;COG4194;Uncharacterized membrane protein, DUF1648 family;1.0208485422992957;1
+S;Function unknown;COG4224;Uncharacterized conserved protein YnzC, UPF0291/DUF896 family;1.0987768021110056;1
+S;Function unknown;COG4279;Uncharacterized protein, contains SWIM-type Zn finger domain;1.20437477555376;1
+S;Function unknown;COG4443;Uncharacterized conserved protein;1.0632082200712112;1
+S;Function unknown;COG4466;Uncharacterized conserved protein Veg, DUF1021 family;1.4786389609035844;1
+S;Function unknown;COG4470;Uncharacterized conserved protein YutD, DUF1027 family;1.7406662857889583;1
+S;Function unknown;COG4471;Uncharacterized conserved protein YlbG, UPF0298 family;1.7513615988989486;1
+S;Function unknown;COG4472;Uncharacterized conserved protein, UPF0297 family;1.1683372073443057;1
+S;Function unknown;COG4475;Uncharacterized conserved protein YwlG, UPF0340 family;1.0981706655098005;1
+S;Function unknown;COG4476;Uncharacterized conserved protein YktA, UPF0223 family;1.8885312668210184;1
+S;Function unknown;COG4479;Uncharacterized conserved protein YozE, UPF0346 family;1.545307116465824;1
+S;Function unknown;COG4086;Uncharacterized conserved protein YpuA, DUF1002 family;1.530388347059083;1
+S;Function unknown;COG4481;Uncharacterized conserved protein, DUF951 family;1.1091943854623512;1
+S;Function unknown;COG4483;Uncharacterized conserved protein YqgQ, DUF910 family;1.951781910891668;1
+S;Function unknown;COG4493;Uncharacterized conserved protein YktB, UPF0637 family;1.8751561807742008;1
+S;Function unknown;COG4506;Uncharacterized beta-barrel protein YwiB, DUF1934 family;1.0473261145943285;1
+S;Function unknown;COG4509;Uncharacterized conserved protein;1.1896640662449551;1
+S;Function unknown;COG4549;Uncharacterized conserved protein YcnI, contains cohesin/reeler-like domain;1.126893553780741;1
+S;Function unknown;COG4652;Uncharacterized conserved protein, DUF1430 domain;1.3746073641936074;1
+S;Function unknown;COG4687;Uncharacterized conserved protein;1.6094174230860172;1
+S;Function unknown;COG4698;Uncharacterized conserved protein YpmS, DUF2140 family;1.5310666773512138;1
+S;Function unknown;COG4703;Uncharacterized conserved protein YkuJ, DUF1797 family;3.0;1
+S;Function unknown;COG4129;Uncharacterized membrane protein YgaE, UPF0421/DUF939 family;1.4224431773715052;1
+S;Function unknown;COG3906;Uncharacterized conserved protein YrzB, UPF0473 family;1.2611484452687376;1
+S;Function unknown;COG4762;Uncharacterized conserved protein, UPF0548 family;1.6744975462264482;1
+S;Function unknown;COG2364;Uncharacterized membrane protein YczE;1.4289822251061202;1
+R;General function prediction only;COG4851;Uncharacterized conserved protein involved in sex pheromone biosynthesis;1.818769101291908;1
+R;General function prediction only;COG4908;Uncharacterized conserved protein, contains a NRPS condensation (elongation) domain;1.129821549238499;1
+R;General function prediction only;COG4918;Predicted Fe-S cluster biosynthesis protein YqkB;1.517800226517747;1
+R;General function prediction only;COG5298;Predicted metal-dependent carbohydrate esterase YdaL, contains NodB-like catalytic (CE4) domain;1.2082759424270826;1
+R;General function prediction only;COG5516;Uncharacterized conserved protein containing a Zn-ribbon-like motif, possibly RNA-binding;1.240115049640871;1
+S;Function unknown;COG1302;Uncharacterized conserved protein YloU, alkaline shock protein (Asp23) family;1.5410625342105504;1
+S;Function unknown;COG1507;Uncharacterized conserved protein, DUF501 family;1.3330009050182867;1
+S;Function unknown;COG1550;Stress-induced protein YlxP, DUF503 family;1.0207225666425306;1
+S;Function unknown;COG1615;Uncharacterized membrane protein, UPF0182 family;1.685887316239394;1
+S;Function unknown;COG1950;Uncharacterized membrane protein YvlD, DUF360 family;1.065919315379788;1
+S;Function unknown;COG2456;Uncharacterized conserved protein, DUF2304 domain;1.1985485721122549;1
+S;Function unknown;COG3879;Uncharacterized conserved protein YlxW, UPF0749 family;1.3505266591525962;1
+S;Function unknown;COG2966;Uncharacterized membrane protein YjjP, DUF1212 family;1.0308150741626592;1
+S;Function unknown;COG3304;Uncharacterized membrane protein YccF, DUF307 family;1.0210688123215157;1
+S;Function unknown;COG3377;Uncharacterized conserved protein YunC, DUF1805 family;1.1671618129982946;1
+S;Function unknown;COG3402;Uncharacterized membrane protein YdbS, contains bPH2 (bacterial pleckstrin homology) domain;1.156053286978879;1
+S;Function unknown;COG3465;Uncharacterized conserved protein YwgA;1.0243114870812924;1
+S;Function unknown;COG3557;Uncharacterized conserved protein associated with RNAses G and E,  UPF0374/DUF402 family;1.4330985105730305;1
+S;Function unknown;COG3583;Uncharacterized conserved protein YabE, contains G5 and tandem DUF348 domains;1.817830028414338;1
+S;Function unknown;COG3689;Uncharacterized membrane protein YcgQ,  UPF0703/DUF1980 family;1.6039483210725594;1
+S;Function unknown;COG3763;Uncharacterized conserved protein YneF, UPF0154 family;1.7406662857889583;1
+S;Function unknown;COG3856;Small basic protein Sbp (function unknown), DUF1290 domain;1.3505266591525962;1
+S;Function unknown;COG4760;Uncharacterized membrane protein, YccA/Bax inhibitor family;1.3799105806753509;1
+S;Function unknown;COG4768;Uncharacterized conserved protein YoxC, contains an MCP-like domain;1.3090570677119286;1
+R;General function prediction only;COG4821;Uncharacterized conserved protein, contains SIS (Sugar ISomerase) phosphosugar binding domain;1.151267675330649;1
+T;Signal transduction mechanisms;COG5278;Extracytoplasmic sensor domain CHASE3 (specificity unknown);3.0;1
+T;Signal transduction mechanisms;COG3275;Sensor histidine kinase, LytS/YehU family;1.0239643531247102;1
+T;Signal transduction mechanisms;COG3480;Predicted secreted protein YlbL, contains PDZ domain;2.7383332723345437;1
+T;Signal transduction mechanisms;COG3870;Cyclic di-AMP receptor DarA/PstA;1.1608198921111226;1
+T;Signal transduction mechanisms;COG3887;Cyclic di-AMP phosphodiesterase GdpP, contains GGDEF-like and DHH domains;1.1437097246530548;1
+T;Signal transduction mechanisms;COG4550;Cell fate regulator YmcA, YheA/YmcA/DUF963 family (controls sporulation, competence, biofilm development);1.64951636821538;1
+T;Signal transduction mechanisms;COG4585;Signal transduction histidine kinase ComP;1.3099650477323883;1
+T;Signal transduction mechanisms;COG4758;Membrane protein LiaF, inhibitor of the LiaRS two-component envelope stress sensory system;1.216954854424321;1
+T;Signal transduction mechanisms;COG4853;YycI protein, regulator of the WalKR two-component signal transduction system;1.7298315430583682;1
+T;Signal transduction mechanisms;COG4863;YycH protein, regulator of the WalKR two-component signal transduction system;1.7077186782303129;1
+T;Signal transduction mechanisms;COG5002;Sensor histidine kinase WalK;1.2689559182990109;1
+U;Intracellular trafficking, secretion, and vesicular transport;COG3559;Putative exporter of oligosaccharides and polyketide antibiotics DrrB/NodJ, ABC-2 family;2.546542663478131;1
+T;Signal transduction mechanisms;COG1660;RNase adaptor protein RapZ for GlmZ sRNA degradation, contains a P-loop ATPase domain;1.817574342678964;1
+U;Intracellular trafficking, secretion, and vesicular transport;COG4473;Predicted ABC-type exoprotein transport system, permease component;1.7513615988989486;1
+V;Defense mechanisms;COG2337;mRNA-degrading endonuclease MazF, toxin component of the MazEF toxin-antitoxin module;1.2934963785807323;1
+V;Defense mechanisms;COG2720;Vancomycin resistance protein YoaR (function unknown), contains peptidoglycan-binding and VanW domains;1.183977180299605;1
+V;Defense mechanisms;COG4767;Glycopeptide antibiotics resistance protein;1.5794618878203823;1
+V;Defense mechanisms;COG4842;Secreted virulence factor YukE/EsxA, WXG100 family;1.9861149322852516;1
+X;Mobilome: prophages, transposons;COG3953;SLT domain protein;3.0;1
+X;Mobilome: prophages, transposons;COG4474;Uncharacterized SPBc2 prophage-derived protein YoqJ;1.146128035678238;1
+X;Mobilome: prophages, transposons;COG4537;Competence protein ComGC;1.6615222846692672;1
+X;Mobilome: prophages, transposons;COG4722;Phage-related protein YomH;1.8038637312567063;1
+X;Mobilome: prophages, transposons;COG4824;Phage-related holin (Lysis protein);1.0243114870812924;1
+T;Signal transduction mechanisms;COG2339;Membrane proteinase PrsW, cleaves anti-sigma factor RsiW, M82 family;1.1327705153171792;1
+T;Signal transduction mechanisms;COG1623;c-di-AMP synthetase DisA, contains DisA_N, linker and DNA-binding domains;1.605797028981728;1
+S;Function unknown;COG4814;Uncharacterized conserved protein with an alpha/beta hydrolase fold;3.0;1
+S;Function unknown;COG5011;Uncharacterized conserved protein, DUF2344 family;1.1457348310502886;1
+S;Function unknown;COG4836;Uncharacterized membrane protein YwzB;1.6849691098948305;1
+S;Function unknown;COG4838;Uncharacterized conserved protein YlaN, UPF0358 family;1.599382402652394;1
+S;Function unknown;COG4840;Uncharacterized conserved protein YfkK, UPF0435 family;1.5165035586156197;1
+S;Function unknown;COG4841;Uncharacterized conserved protein YneR, related to HesB/YadR/YfhF family;1.599382402652394;1
+S;Function unknown;COG4844;Uncharacterized conserved protein YuzB, UPF0349 family;1.5862657241447304;1
+S;Function unknown;COG4858;Uncharacterized membrane-anchored protein;1.818769101291908;1
+S;Function unknown;COG4868;Uncharacterized conserved protein, UPF0371 family;1.0771439980145037;1
+S;Function unknown;COG4896;Uncharacterized conserved protein YlaI, DUF2197 family;1.630088714928206;1
+S;Function unknown;COG4905;Uncharacterized membrane protein;1.0042303601118734;1
+S;Function unknown;COG4955;Uncharacterized conserved protein YpbB, contains C-terminal HTH domain;1.8038637312567063;1
+S;Function unknown;COG5294;Uncharacterized conserved protein YxeA, DUF1093 family;3.0;1
+T;Signal transduction mechanisms;COG0631;Serine/threonine protein phosphatase PrpC;2.127797290768;1
+S;Function unknown;COG5353;Uncharacterized conserved protein YpmB, contains C-terminal PepSY domain;1.7188511865076257;1
+S;Function unknown;COG5438;Uncharacterized membrane protein;1.6738812320434788;1
+S;Function unknown;COG5506;Uncharacterized conserved protein YueI, DUF2278 family;1.2933431669976905;1
+S;Function unknown;COG5552;Uncharacterized conserved protein, DUF2277 domain;1.359303216103025;1
+S;Function unknown;COG5578;Uncharacterized membrane protein YesL;1.6130468370571234;1
+S;Function unknown;COG5582;Uncharacterized conserved protein YpiB, UPF0302 family;1.833332220027502;1
+S;Function unknown;COG5584;Uncharacterized conserved protein YtzB;1.818769101291908;1
+S;Function unknown;COG5650;Uncharacterized membrane protein;2.1691423991003536;1
+S;Function unknown;COG5651;PPE-repeat protein;3.0;1
+T;Signal transduction mechanisms;COG0515;Serine/threonine protein kinase;1.6260785804167648;1
+R;General function prediction only;COG4825;Uncharacterized conserved protein, contains thiamine pyrophosphokinase N- and C- domains;2.118197005134734;1
+R;General function prediction only;COG4759;Uncharacterized conserved protein, contains thioredoxin-like domain;1.5415208553363955;1
+C;Energy production and conversion;COG5609;Na+-translocating membrane potential-generating system subunit MpsC, DUF2294 family;1.0626254158479709;1
+J;Translation, ribosomal structure and biogenesis;COG2163;Ribosomal protein L14E/L6E/L27E;1.0113757423816283;1
+H;Coenzyme transport and metabolism;COG4721;ABC-type thiamine/hydroxymethylpyrimidine transport system, permease component;1.659987113395923;1
+H;Coenzyme transport and metabolism;COG5398;Heme oxygenase;1.9432471251378616;1
+I;Lipid transport and metabolism;COG1012;Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase;1.122978035842772;1
+I;Lipid transport and metabolism;COG1307;Fatty acid-binding protein DegV (function unknown);1.7546446696602265;1
+J;Translation, ribosomal structure and biogenesis;COG0590;tRNA(Arg) A34 adenosine deaminase TadA;1.2383340831870264;1
+J;Translation, ribosomal structure and biogenesis;COG0595;mRNA degradation ribonuclease J1/J2;1.2335532554100697;1
+J;Translation, ribosomal structure and biogenesis;COG0721;Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit;1.0280805209026966;1
+J;Translation, ribosomal structure and biogenesis;COG1189;Predicted rRNA methylase YqxC, contains S4 and FtsJ domains;1.5449069007838718;1
+J;Translation, ribosomal structure and biogenesis;COG1323;tRNA-Met C34-N4-acetylcytidine synthase TmcAL;1.003634284655094;1
+J;Translation, ribosomal structure and biogenesis;COG1939;23S rRNA maturation mini-RNase III;1.0572420288106446;1
+J;Translation, ribosomal structure and biogenesis;COG3688;EndoRNase involved in mRNA decay, NYN (Nedd4-BP1/Rae1/YacP nuclease) family,  contains PIN domain;1.341025550715431;1
+H;Coenzyme transport and metabolism;COG1268;Biotin transporter BioY;1.1807452231325757;1
+K;Transcription;COG1321;Mn-dependent transcriptional regulator MntR, DtxR family;1.162029214362872;1
+K;Transcription;COG1327;Transcriptional regulator NrdR, contains Zn-ribbon and ATP-cone domains;1.2376806339621462;1
+K;Transcription;COG1386;Chromosome segregation and condensation protein ScpB;1.4645737776984475;1
+K;Transcription;COG1396;Transcriptional regulator, contains XRE-family HTH domain;1.0054296218657697;1
+K;Transcription;COG1420;Transcriptional regulator of heat shock response;1.4741202594275802;1
+K;Transcription;COG1438;Arginine repressor;1.5965069649875765;1
+K;Transcription;COG1481;DNA-binding transcriptional regulator WhiA, involved in cell division;2.672316652215983;1
+K;Transcription;COG1595;DNA-directed RNA polymerase specialized sigma subunit, sigma24 family;1.0496992915745933;1
+K;Transcription;COG1725;DNA-binding transcriptional regulator YhcF, GntR family;1.2981927841048946;1
+K;Transcription;COG2344;NADH/NAD ratio-sensing transcriptional regulator Rex;1.4907933694584212;1
+H;Coenzyme transport and metabolism;COG3601;Riboflavin transporter FmnP;1.1617134572301775;1
+H;Coenzyme transport and metabolism;COG0619;ECF-type transporter transmembrane protein EcfT;1.5765586661570798;1
+K;Transcription;COG2739;Predicted DNA-binding protein YlxM, UPF0122 family;1.074311560824301;1
+G;Carbohydrate transport and metabolism;COG1264;Phosphotransferase system IIB components;1.0519742719487548;1
+D;Cell cycle control, cell division, chromosome partitioning;COG1799;Cell division protein SepF/YlmF, interacts with FtsZ;2.635715211361441;1
+D;Cell cycle control, cell division, chromosome partitioning;COG3599;Cell division septum initiation protein DivIVA, interacts with FtsZ and MinD;2.2382842014156576;1
+D;Cell cycle control, cell division, chromosome partitioning;COG4839;Cell division protein FtsL;1.5415208553363955;1
+D;Cell cycle control, cell division, chromosome partitioning;COG5401;Spore germination protein GerM;1.591389278518453;1
+E;Amino acid transport and metabolism;COG0083;Homoserine kinase;1.0884480594645614;1
+E;Amino acid transport and metabolism;COG0765;ABC-type amino acid transport system, permease component;1.394518706751483;1
+F;Nucleotide transport and metabolism;COG0035;Uracil phosphoribosyltransferase;1.4724091526318488;1
+F;Nucleotide transport and metabolism;COG2065;Pyrimidine operon attenuation protein PyrR/uracil phosphoribosyltransferase;1.328318277568349;1
+G;Carbohydrate transport and metabolism;COG0395;ABC-type glycerol-3-phosphate transport system, permease component;1.0032821083259051;1
+G;Carbohydrate transport and metabolism;COG1175;ABC-type sugar transport system, permease component;1.0798285116507629;1
+G;Carbohydrate transport and metabolism;COG1653;ABC-type glycerol-3-phosphate transport system, periplasmic component;1.2072538367305554;1
+H;Coenzyme transport and metabolism;COG0311;Pyridoxal 5'-phosphate synthase subunit PdxT (glutamine amidotransferase);1.3025854394084737;1
+G;Carbohydrate transport and metabolism;COG1929;Glycerate kinase;1.034698680141767;1
+G;Carbohydrate transport and metabolism;COG2213;Phosphotransferase system, mannitol-specific IIBC component;1.0296224666068008;1
+G;Carbohydrate transport and metabolism;COG3281;Predicted trehalose synthase;1.5798804400739854;1
+G;Carbohydrate transport and metabolism;COG3429;Glucose-6-phosphate dehydrogenase assembly protein OpcA, contains a peptidoglycan-binding domain;2.0429610451009577;1
+G;Carbohydrate transport and metabolism;COG4193;Beta- N-acetylglucosaminidase;1.1671618129982946;1
+G;Carbohydrate transport and metabolism;COG4209;ABC-type polysaccharide transport system, permease component;1.2686967130198887;1
+G;Carbohydrate transport and metabolism;COG4668;Mannitol/fructose-specific phosphotransferase system, IIA domain;1.478352344141097;1
+G;Carbohydrate transport and metabolism;COG5521;Maltodextrin utilization protein YvdJ (function unknown);1.7058989648901242;1
+G;Carbohydrate transport and metabolism;COG5542;Mannosyltransferase related to Gpi18;1.3331175757410925;1
+H;Coenzyme transport and metabolism;COG0214;Pyridoxal 5'-phosphate synthase subunit PdxS;1.4108567817759858;1
+K;Transcription;COG2508;DNA-binding transcriptional regulator, PucR/PutR family;1.8543269862915432;1
+K;Transcription;COG3226;DNA-binding transcriptional regulator YbjK;1.0556463018237066;1
+R;General function prediction only;COG4587;ABC-type uncharacterized transport system, permease component;1.032587367203592;1
+R;General function prediction only;COG1847;Predicted RNA-binding protein Jag (SpoIIIJ-associated), conains KH and R3H domains;1.838870000941256;1
+O;Posttranslational modification, protein turnover, chaperones;COG2137;SOS response regulatory protein OraA/RecX, interacts with RecA;1.3149282712310375;1
+O;Posttranslational modification, protein turnover, chaperones;COG4346;Predicted membrane-bound dolichyl-phosphate-mannose-protein mannosyltransferase;1.1850312053981944;1
+O;Posttranslational modification, protein turnover, chaperones;COG4837;Disulfide oxidoreductase YuzD;1.307151880409729;1
+O;Posttranslational modification, protein turnover, chaperones;COG5282;Zn-dependent metallopeptidase, zincin/DUF2342 superfamily;1.3231175256268195;1
+P;Inorganic ion transport and metabolism;COG4300;Cadmium resistance protein CadD, predicted permease;1.6933661268180202;1
+P;Inorganic ion transport and metabolism;COG4362;Nitric oxide synthase, oxygenase domain;1.5950267285967583;1
+Q;Secondary metabolites biosynthesis, transport and catabolism;COG3648;Uricase (urate oxidase);1.1005323990211984;1
+Q;Secondary metabolites biosynthesis, transport and catabolism;COG3885;Aromatic ring-opening dioxygenase, LigB subunit;1.6485093642747417;1
+R;General function prediction only;COG1461;Predicted kinase related to dihydroxyacetone kinase;1.9786397006634315;1
+R;General function prediction only;COG1837;Predicted RNA-binding protein YlqC, contains KH domain, UPF0109 family;1.884363541648679;1
+R;General function prediction only;COG2179;Predicted phosphohydrolase YqeG, HAD superfamily;1.1252794933789425;1
+O;Posttranslational modification, protein turnover, chaperones;COG0638;20S proteasome, alpha and beta subunits;1.0405071780471142;1
+R;General function prediction only;COG2306;Predicted RNA-binding protein, associated with RNAse of E/G family, DUF402 domain;1.6762778178440372;1
+R;General function prediction only;COG2409;Predicted lipid transporter YdfJ, MMPL/SSD domain, RND superfamily;1.9269851794378063;1
+R;General function prediction only;COG2715;Spore maturation protein SpmA (function unknown);1.0230079222251929;1
+R;General function prediction only;COG3331;Penicillin-binding protein-related factor A, putative recombinase;1.458411653977878;1
+R;General function prediction only;COG3442;Glutamine amidotransferase related to the GATase domain of CobQ;1.8643738338769704;1
+R;General function prediction only;COG3694;ABC-type uncharacterized transport system, permease component;1.0786614440922104;1
+R;General function prediction only;COG3976;Uncharacterized conserved protein, contains FMN-binding domain;1.350001749837684;1
+R;General function prediction only;COG4116;Predicted triphosphatase or cyclase YjbK, contains CYTH domain;1.901647945328682;1
+R;General function prediction only;COG4552;Predicted acetyltransferase;1.1774505543184062;1
+R;General function prediction only;COG4586;ABC-type uncharacterized transport system, ATPase component;1.029038208156809;1
+O;Posttranslational modification, protein turnover, chaperones;COG1266;Membrane protease YdiL, CAAX protease family;1.0888313991634735;1
+M;Cell wall/membrane/envelope biogenesis;COG5632;N-acetylmuramoyl-L-alanine amidase CwlA;1.045757490560675;1
+K;Transcription;COG3343;DNA-directed RNA polymerase, delta subunit;1.041217566413149;1
+L;Replication, recombination and repair;COG1722;Exonuclease VII small subunit;1.244383692155635;1
+K;Transcription;COG3711;Transcriptional antiterminator;1.0807900168049027;1
+K;Transcription;COG4109;Predicted transcriptional regulator containing CBS domains;1.1039303558837832;1
+K;Transcription;COG4463;Transcriptional regulator CtsR;1.1376216127676833;1
+K;Transcription;COG4465;GTP-sensing pleiotropic transcriptional regulator CodY;1.0610960199743371;1
+K;Transcription;COG4903;Competence transcription factor ComK;1.5655659007915614;1
+L;Replication, recombination and repair;COG0749;DNA polymerase I, 3'-5' exonuclease and polymerase domains;1.252818203370692;1
+L;Replication, recombination and repair;COG1195;Recombinational DNA repair ATPase RecF;1.1891584111368605;1
+L;Replication, recombination and repair;COG1354;Chromatin segregation and condensation protein Rec8/ScpA/Scc1, kleisin family;1.216021498466906;1
+L;Replication, recombination and repair;COG1555;DNA uptake protein ComE or related DNA-binding protein;1.1876654783223335;1
+L;Replication, recombination and repair;COG1570;Exonuclease VII, large subunit;1.129708106766609;1
+L;Replication, recombination and repair;COG3285;Eukaryotic-type DNA primase;1.2608001815280552;1
+M;Cell wall/membrane/envelope biogenesis;COG5577;Spore coat protein CotF;1.3107623699224695;1
+L;Replication, recombination and repair;COG3611;Replication initiation and membrane attachment protein DnaB;1.7406662857889583;1
+L;Replication, recombination and repair;COG3973;DNA helicase IV;1.7358117369883517;1
+L;Replication, recombination and repair;COG4098;Superfamily II DNA/RNA helicase required for DNA uptake (late competence protein);1.3911933851258016;1
+L;Replication, recombination and repair;COG4467;Regulator of replication initiation timing YabA;1.0320770919237905;1
+L;Replication, recombination and repair;COG4817;DNA-binding ferritin-like protein (Dps family);1.6155309351458529;1
+M;Cell wall/membrane/envelope biogenesis;COG1316;Anionic cell wall polymer biosynthesis enzyme TagV/TagU,  LytR-Cps2A-Psr (LCP) family (peptidoglycan teichoic acid transferase);2.422284106307069;1
+M;Cell wall/membrane/envelope biogenesis;COG3764;Sortase (surface protein transpeptidase);1.6769759857608897;1
+M;Cell wall/membrane/envelope biogenesis;COG3944;Capsular polysaccharide biosynthesis protein YveK;1.1731200195399156;1
+M;Cell wall/membrane/envelope biogenesis;COG3966;Poly-D-alanine transfer protein DltD, involved in esterification of teichoic acids;1.4652377238006506;1
+M;Cell wall/membrane/envelope biogenesis;COG5479;LGFP repeat-containing protein, may be involved in cell wall binding;1.6503810536241266;1
+X;Mobilome: prophages, transposons;COG4940;Competence protein ComGF;1.5592428944091166;1

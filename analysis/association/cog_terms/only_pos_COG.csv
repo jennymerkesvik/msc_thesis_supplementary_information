@@ -1,0 +1,8 @@
+category;description;COG;name;odds_ratio_log10_corr;0
+A;RNA processing and modification;COG5180;PAB1-binding protein, interacts with poly(A)-binding protein;3.0;1
+S;Function unknown;COG4703;Uncharacterized conserved protein YkuJ, DUF1797 family;3.0;1
+S;Function unknown;COG4814;Uncharacterized conserved protein with an alpha/beta hydrolase fold;3.0;1
+S;Function unknown;COG5294;Uncharacterized conserved protein YxeA, DUF1093 family;3.0;1
+S;Function unknown;COG5651;PPE-repeat protein;3.0;1
+T;Signal transduction mechanisms;COG5278;Extracytoplasmic sensor domain CHASE3 (specificity unknown);3.0;1
+X;Mobilome: prophages, transposons;COG3953;SLT domain protein;3.0;1
