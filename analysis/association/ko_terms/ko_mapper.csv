@@ -1,0 +1,347 @@
+﻿significant;module;module_description;ko_count;ko;symbol;name;ec;fc
+allNeg;M00169;CAM (Crassulacean acid metabolism), light ;1;K00029;E1.1.1.40;malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) ;EC:1.1.1.40;-1.608692889
+allNeg;M00172;C4-dicarboxylic acid cycle, NADP - malic enzyme type ;1;K00029;E1.1.1.40;malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) ;EC:1.1.1.40;-1.608692889
+allNeg;M00050;Guanine ribonucleotide biosynthesis, IMP => GDP,GTP ;1;K00088;IMPDH;IMP dehydrogenase ;EC:1.1.1.205;-1.522550375
+allNeg;M00124;Pyridoxal-P biosynthesis, erythrose-4P => pyridoxal-P ;4;K00097;pdxA;4-hydroxythreonine-4-phosphate dehydrogenase ;EC:1.1.1.262;-1.344115839
+allPos;M00129;Ascorbate biosynthesis, animals, glucose-1P => ascorbate ;1;K00103;GULO;L-gulonolactone oxidase ;EC:1.1.3.8;1.078781711
+allNeg;M00040;Tyrosine biosynthesis, chorismate => arogenate => tyrosine ;1;K00220;tyrC;cyclohexadieny/prephenate dehydrogenase ;EC:1.3.1.43 1.3.1.12;-3
+onlyNeg;M00040;Tyrosine biosynthesis, chorismate => arogenate => tyrosine ;1;K00220;tyrC;cyclohexadieny/prephenate dehydrogenase ;EC:1.3.1.43 1.3.1.12;-3
+allPos;M00051;Uridine monophosphate biosynthesis, glutamine (+ PRPP) => UMP ;1;K00226;pyrD;dihydroorotate dehydrogenase (fumarate) ;EC:1.3.98.1;1.010319125
+allNeg;M00121;Heme biosynthesis, plants and bacteria, glutamate => heme ;3;K00228;CPOX;coproporphyrinogen III oxidase ;EC:1.3.3.3;-1.909312454
+allNeg;M00868;Heme biosynthesis, animals and fungi, glycine => heme ;2;K00228;CPOX;coproporphyrinogen III oxidase ;EC:1.3.3.3;-1.909312454
+allPos;M00926;Heme biosynthesis, bacteria, glutamyl-tRNA => coproporphyrin III => heme ;2;K00231;PPOX;protoporphyrinogen/coproporphyrinogen III oxidase ;EC:1.3.3.4 1.3.3.15;1.114107485
+allPos;M00868;Heme biosynthesis, animals and fungi, glycine => heme ;1;K00231;PPOX;protoporphyrinogen/coproporphyrinogen III oxidase ;EC:1.3.3.4 1.3.3.15;1.114107485
+allPos;M00121;Heme biosynthesis, plants and bacteria, glutamate => heme ;1;K00231;PPOX;protoporphyrinogen/coproporphyrinogen III oxidase ;EC:1.3.3.4 1.3.3.15;1.114107485
+allPos;M00087;beta-Oxidation ;2;K00232;E1.3.3.6;acyl-CoA oxidase ;EC:1.3.3.6;1.676277818
+allPos;M00861;beta-Oxidation, peroxisome, VLCFA ;1;K00232;E1.3.3.6;acyl-CoA oxidase ;EC:1.3.3.6;1.676277818
+allPos;M00113;Jasmonic acid biosynthesis ;1;K00232;E1.3.3.6;acyl-CoA oxidase ;EC:1.3.3.6;1.676277818
+allPos;M00013;Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA ;1;K00232;E1.3.3.6;acyl-CoA oxidase ;EC:1.3.3.6;1.676277818
+allNeg;M00036;Leucine degradation, leucine => acetoacetate + acetyl-CoA ;1;K00253;IVD;isovaleryl-CoA dehydrogenase ;EC:1.3.8.4;-1.01364356
+allNeg;M00030;Lysine biosynthesis, AAA pathway, 2-oxoglutarate => 2-aminoadipate => lysine ;1;K00293;LYS9;saccharopine dehydrogenase (NADP+, L-glutamate forming) ;EC:1.5.1.10;-3
+onlyNeg;M00030;Lysine biosynthesis, AAA pathway, 2-oxoglutarate => 2-aminoadipate => lysine ;1;K00293;LYS9;saccharopine dehydrogenase (NADP+, L-glutamate forming) ;EC:1.5.1.10;-3
+allPos;M00531;Assimilatory nitrate reduction, nitrate => ammonia ;1;K00360;nasB;assimilatory nitrate reductase electron transfer subunit ;EC:1.7.99.-;3
+onlyPos;M00531;Assimilatory nitrate reduction, nitrate => ammonia ;1;K00360;nasB;assimilatory nitrate reductase electron transfer subunit ;EC:1.7.99.-;3
+allNeg;M00529;Denitrification, nitrate => nitrogen ;4;K00376;nosZ;nitrous-oxide reductase ;EC:1.7.2.4;-1.722056326
+allNeg;M00156;Cytochrome c oxidase, cbb3-type ;5;K00404;ccoN;cytochrome c oxidase cbb3-type subunit I ;EC:7.1.1.9;-1.670763487
+allNeg;M00156;Cytochrome c oxidase, cbb3-type ;5;K00405;ccoO;cytochrome c oxidase cbb3-type subunit II;;-2.218017852
+allNeg;M00156;Cytochrome c oxidase, cbb3-type ;5;K00406;ccoP;cytochrome c oxidase cbb3-type subunit III;;-2.307461155
+allNeg;M00156;Cytochrome c oxidase, cbb3-type ;5;K00407;ccoQ;cytochrome c oxidase cbb3-type subunit IV;;-3
+onlyNeg;M00156;Cytochrome c oxidase, cbb3-type ;2;K00407;ccoQ;cytochrome c oxidase cbb3-type subunit IV;;-3
+allNeg;M00151;Cytochrome bc1 complex respiratory unit ;4;K00410;fbcH;ubiquinol-cytochrome c reductase cytochrome b/c1 subunit;;-3
+onlyNeg;M00151;Cytochrome bc1 complex respiratory unit ;1;K00410;fbcH;ubiquinol-cytochrome c reductase cytochrome b/c1 subunit;;-3
+allNeg;M00151;Cytochrome bc1 complex respiratory unit ;4;K00411;UQCRFS1;ubiquinol-cytochrome c reductase iron-sulfur subunit ;EC:7.1.1.8;-2.361618676
+allNeg;M00152;Cytochrome bc1 complex ;3;K00411;UQCRFS1;ubiquinol-cytochrome c reductase iron-sulfur subunit ;EC:7.1.1.8;-2.361618676
+allNeg;M00151;Cytochrome bc1 complex respiratory unit ;4;K00412;CYTB;ubiquinol-cytochrome c reductase cytochrome b subunit;;-1.632777853
+allNeg;M00152;Cytochrome bc1 complex ;3;K00412;CYTB;ubiquinol-cytochrome c reductase cytochrome b subunit;;-1.632777853
+allNeg;M00151;Cytochrome bc1 complex respiratory unit ;4;K00413;CYC1;ubiquinol-cytochrome c reductase cytochrome c1 subunit;;-2.371467551
+allNeg;M00152;Cytochrome bc1 complex ;3;K00413;CYC1;ubiquinol-cytochrome c reductase cytochrome c1 subunit;;-2.371467551
+allNeg;M00153;Cytochrome bd ubiquinol oxidase ;1;K00424;cydX;cytochrome bd-I ubiquinol oxidase subunit X ;EC:7.1.1.7;-1.664339257
+allPos;M00926;Heme biosynthesis, bacteria, glutamyl-tRNA => coproporphyrin III => heme ;2;K00435;hemQ;hydrogen peroxide-dependent heme synthase ;EC:1.3.98.5;1.227554992
+allNeg;M00091;Phosphatidylcholine (PC) biosynthesis, PE => PC ;1;K00570;pmtA;phosphatidylethanolamine/phosphatidyl-N-methylethanolamine N-methyltransferase ;EC:2.1.1.17 2.1.1.71;-3
+onlyNeg;M00091;Phosphatidylcholine (PC) biosynthesis, PE => PC ;1;K00570;pmtA;phosphatidylethanolamine/phosphatidyl-N-methylethanolamine N-methyltransferase ;EC:2.1.1.17 2.1.1.71;-3
+allNeg;M00868;Heme biosynthesis, animals and fungi, glycine => heme ;2;K00643;E2.3.1.37;5-aminolevulinate synthase ;EC:2.3.1.37;-1.073339054
+allNeg;M00083;Fatty acid biosynthesis, elongation ;3;K00647;fabB;3-oxoacyl-[acyl-carrier-protein] synthase I ;EC:2.3.1.41;-2.120573931
+allNeg;M00572;Pimeloyl-ACP biosynthesis, BioC-BioH pathway, malonyl-ACP => pimeloyl-ACP ;1;K00647;fabB;3-oxoacyl-[acyl-carrier-protein] synthase I ;EC:2.3.1.41;-2.120573931
+allNeg;M00879;Arginine succinyltransferase pathway, arginine => glutamate ;5;K00673;astA;arginine N-succinyltransferase ;EC:2.3.1.109;-3
+onlyNeg;M00879;Arginine succinyltransferase pathway, arginine => glutamate ;5;K00673;astA;arginine N-succinyltransferase ;EC:2.3.1.109;-3
+allNeg;M00866;KDO2-lipid A biosynthesis, Raetz pathway, non-LpxL-LpxM type ;11;K00677;lpxA;UDP-N-acetylglucosamine acyltransferase ;EC:2.3.1.129;-1.642819898
+allNeg;M00060;KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type ;10;K00677;lpxA;UDP-N-acetylglucosamine acyltransferase ;EC:2.3.1.129;-1.642819898
+allPos;M00872;O-glycan biosynthesis, mannose type (core M3) ;1;K00728;POMT;dolichyl-phosphate-mannose-protein mannosyltransferase ;EC:2.4.1.109;1.423223786
+allNeg;M00866;KDO2-lipid A biosynthesis, Raetz pathway, non-LpxL-LpxM type ;11;K00748;lpxB;lipid-A-disaccharide synthase ;EC:2.4.1.182;-2.470011256
+allNeg;M00060;KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type ;10;K00748;lpxB;lipid-A-disaccharide synthase ;EC:2.4.1.182;-2.470011256
+allNeg;M00364;C10-C20 isoprenoid biosynthesis, bacteria ;1;K00795;ispA;farnesyl diphosphate synthase ;EC:2.5.1.1 2.5.1.10;-2.536951647
+allNeg;M00879;Arginine succinyltransferase pathway, arginine => glutamate ;5;K00840;astC;succinylornithine aminotransferase ;EC:2.6.1.81;-3
+onlyNeg;M00879;Arginine succinyltransferase pathway, arginine => glutamate ;5;K00840;astC;succinylornithine aminotransferase ;EC:2.6.1.81;-3
+allPos;M00525;Lysine biosynthesis, acetyl-DAP pathway, aspartate => lysine ;3;K00841;patA;aminotransferase ;EC:2.6.1.-;1.33379811
+allPos;M00018;Threonine biosynthesis, aspartate => homoserine => threonine ;1;K00872;thrB;homoserine kinase ;EC:2.7.1.39;1.083925191
+allNeg;M00552;D-galactonate degradation, De Ley-Doudoroff pathway, D-galactonate => glycerate-3P ;1;K00883;dgoK;2-dehydro-3-deoxygalactonokinase ;EC:2.7.1.58;-1.237680634
+allPos;M00001;Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate ;2;K00886;ppgK;polyphosphate glucokinase ;EC:2.7.1.63;1.00866884
+allPos;M00549;Nucleotide sugar biosynthesis, glucose => UDP-glucose ;1;K00886;ppgK;polyphosphate glucokinase ;EC:2.7.1.63;1.00866884
+allNeg;M00866;KDO2-lipid A biosynthesis, Raetz pathway, non-LpxL-LpxM type ;11;K00912;lpxK;tetraacyldisaccharide 4'-kinase ;EC:2.7.1.130;-1.650288472
+allNeg;M00060;KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type ;10;K00912;lpxK;tetraacyldisaccharide 4'-kinase ;EC:2.7.1.130;-1.650288472
+allPos;M00095;C5 isoprenoid biosynthesis, mevalonate pathway ;1;K00938;E2.7.4.2;phosphomevalonate kinase ;EC:2.7.4.2;1.129398796
+allNeg;M00063;CMP-KDO biosynthesis ;4;K00979;kdsB;3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase) ;EC:2.7.7.38;-2.178638448
+allNeg;M00093;Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE ;1;K00998;pssA;CDP-diacylglycerol---serine O-phosphatidyltransferase ;EC:2.7.8.8;-3
+onlyNeg;M00093;Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE ;1;K00998;pssA;CDP-diacylglycerol---serine O-phosphatidyltransferase ;EC:2.7.8.8;-3
+allNeg;M00045;Histidine degradation, histidine => N-formiminoglutamate => glutamate ;2;K01458;hutG;N-formylglutamate deformylase ;EC:3.5.1.68;-3
+onlyNeg;M00045;Histidine degradation, histidine => N-formiminoglutamate => glutamate ;2;K01458;hutG;N-formylglutamate deformylase ;EC:3.5.1.68;-3
+allNeg;M00879;Arginine succinyltransferase pathway, arginine => glutamate ;5;K01484;astB;succinylarginine dihydrolase ;EC:3.5.3.23;-3
+onlyNeg;M00879;Arginine succinyltransferase pathway, arginine => glutamate ;5;K01484;astB;succinylarginine dihydrolase ;EC:3.5.3.23;-3
+allNeg;M00125;Riboflavin biosynthesis, plants and bacteria, GTP => riboflavin/FMN/FAD ;1;K01498;ribD1;diaminohydroxyphosphoribosylaminopyrimidine deaminase ;EC:3.5.4.26;-3
+onlyNeg;M00125;Riboflavin biosynthesis, plants and bacteria, GTP => riboflavin/FMN/FAD ;1;K01498;ribD1;diaminohydroxyphosphoribosylaminopyrimidine deaminase ;EC:3.5.4.26;-3
+allPos;M00120;Coenzyme A biosynthesis, pantothenate => CoA ;1;K01598;PPCDC;phosphopantothenoylcysteine decarboxylase ;EC:4.1.1.36;1.048632641
+allPos;M00011;Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate ;1;K01616;kgd;multifunctional 2-oxoglutarate metabolism enzyme ;EC:2.2.1.5 4.1.1.71 1.2.4.2 2.3.1.61;2.150007204
+allPos;M00009;Citrate cycle (TCA cycle, Krebs cycle) ;1;K01616;kgd;multifunctional 2-oxoglutarate metabolism enzyme ;EC:2.2.1.5 4.1.1.71 1.2.4.2 2.3.1.61;2.150007204
+allNeg;M00063;CMP-KDO biosynthesis ;4;K01627;kdsA;2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase) ;EC:2.5.1.55;-2.320231673
+allPos;M00100;Sphingosine degradation ;1;K01634;SGPL1;sphinganine-1-phosphate aldolase ;EC:4.1.2.27;1.061269657
+allNeg;M00026;Histidine biosynthesis, PRPP => histidine ;2;K01663;HIS7;imidazole glycerol-phosphate synthase ;EC:4.3.2.10;-3
+onlyNeg;M00026;Histidine biosynthesis, PRPP => histidine ;2;K01663;HIS7;imidazole glycerol-phosphate synthase ;EC:4.3.2.10;-3
+allNeg;M00173;Reductive citrate cycle (Arnon-Buchanan cycle) ;2;K01682;acnB;aconitate hydratase 2 / 2-methylisocitrate dehydratase ;EC:4.2.1.3 4.2.1.99;-2.207948375
+allNeg;M00009;Citrate cycle (TCA cycle, Krebs cycle) ;1;K01682;acnB;aconitate hydratase 2 / 2-methylisocitrate dehydratase ;EC:4.2.1.3 4.2.1.99;-2.207948375
+allNeg;M00012;Glyoxylate cycle ;1;K01682;acnB;aconitate hydratase 2 / 2-methylisocitrate dehydratase ;EC:4.2.1.3 4.2.1.99;-2.207948375
+allNeg;M00010;Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate ;1;K01682;acnB;aconitate hydratase 2 / 2-methylisocitrate dehydratase ;EC:4.2.1.3 4.2.1.99;-2.207948375
+allNeg;M00083;Fatty acid biosynthesis, elongation ;3;K01716;fabA;3-hydroxyacyl-[acyl-carrier protein] dehydratase / trans-2-decenoyl-[acyl-carrier protein] isomerase ;EC:4.2.1.59 5.3.3.14;-3
+onlyNeg;M00083;Fatty acid biosynthesis, elongation ;1;K01716;fabA;3-hydroxyacyl-[acyl-carrier protein] dehydratase / trans-2-decenoyl-[acyl-carrier protein] isomerase ;EC:4.2.1.59 5.3.3.14;-3
+allNeg;M00044;Tyrosine degradation, tyrosine => homogentisate ;2;K01800;maiA;maleylacetoacetate isomerase ;EC:5.2.1.2;-1.885132375
+allNeg;M00087;beta-Oxidation ;2;K01825;fadB;3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase ;EC:1.1.1.35 4.2.1.17 5.1.2.3 5.3.3.8;-3
+onlyNeg;M00087;beta-Oxidation ;1;K01825;fadB;3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase ;EC:1.1.1.35 4.2.1.17 5.1.2.3 5.3.3.8;-3
+allPos;M00577;Biotin biosynthesis, BioW pathway, pimelate => pimeloyl-CoA => biotin ;1;K01906;bioW;6-carboxyhexanoate--CoA ligase ;EC:6.2.1.14;1.401721987
+allNeg;M00118;Glutathione biosynthesis, glutamate => glutathione ;1;K01920;gshB;glutathione synthase ;EC:6.3.2.3;-1.394222126
+allNeg;M00173;Reductive citrate cycle (Arnon-Buchanan cycle) ;2;K01960;pycB;pyruvate carboxylase subunit B ;EC:6.4.1.1;-1.111405844
+allNeg;M00620;Incomplete reductive citrate cycle, acetyl-CoA => oxoglutarate ;1;K01960;pycB;pyruvate carboxylase subunit B ;EC:6.4.1.1;-1.111405844
+allPos;M00157;F-type ATPase, prokaryotes and chloroplasts ;1;K02109;ATPF0B;F-type H+-transporting ATPase subunit b;;1.079828512
+allPos;M00627;beta-Lactam resistance, Bla system ;1;K02171;blaI;BlaI family transcriptional regulator, penicillinase repressor;;1.167161813
+allNeg;M00122;Cobalamin biosynthesis, cobyrinate a,c-diamide => cobalamin ;1;K02225;cobC1;cobalamin biosynthesis protein CobC;;-1.454124338
+allNeg;M00154;Cytochrome c oxidase ;1;K02258;COX11;cytochrome c oxidase assembly protein subunit 11;;-3
+onlyNeg;M00154;Cytochrome c oxidase ;1;K02258;COX11;cytochrome c oxidase assembly protein subunit 11;;-3
+allNeg;M00417;Cytochrome o ubiquinol oxidase ;3;K02297;cyoA;cytochrome o ubiquinol oxidase subunit II ;EC:7.1.1.3;-1.13483427
+allNeg;M00417;Cytochrome o ubiquinol oxidase ;3;K02298;cyoB;cytochrome o ubiquinol oxidase subunit I ;EC:7.1.1.3;-2.028513157
+allNeg;M00417;Cytochrome o ubiquinol oxidase ;3;K02300;cyoD;cytochrome o ubiquinol oxidase subunit IV;;-1.234369208
+allNeg;M00529;Denitrification, nitrate => nitrogen ;4;K02305;norC;nitric oxide reductase subunit C;;-3
+onlyNeg;M00529;Denitrification, nitrate => nitrogen ;1;K02305;norC;nitric oxide reductase subunit C;;-3
+allNeg;M00121;Heme biosynthesis, plants and bacteria, glutamate => heme ;3;K02495;hemN;oxygen-independent coproporphyrinogen III oxidase ;EC:1.3.98.3;-3
+onlyNeg;M00121;Heme biosynthesis, plants and bacteria, glutamate => heme ;1;K02495;hemN;oxygen-independent coproporphyrinogen III oxidase ;EC:1.3.98.3;-3
+allNeg;M00846;Siroheme biosynthesis, glutamyl-tRNA => siroheme ;1;K02496;hemX;uroporphyrin-III C-methyltransferase ;EC:2.1.1.107;-1.096884945
+allNeg;M00866;KDO2-lipid A biosynthesis, Raetz pathway, non-LpxL-LpxM type ;11;K02517;lpxL;Kdo2-lipid IVA lauroyltransferase/acyltransferase ;EC:2.3.1.241 2.3.1.-;-2.450725766
+allNeg;M00060;KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type ;10;K02517;lpxL;Kdo2-lipid IVA lauroyltransferase/acyltransferase ;EC:2.3.1.241 2.3.1.-;-2.450725766
+allNeg;M00866;KDO2-lipid A biosynthesis, Raetz pathway, non-LpxL-LpxM type ;11;K02527;kdtA;3-deoxy-D-manno-octulosonic-acid transferase ;EC:2.4.99.12 2.4.99.13 2.4.99.14 2.4.99.15;-2.284791091
+allNeg;M00060;KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type ;10;K02527;kdtA;3-deoxy-D-manno-octulosonic-acid transferase ;EC:2.4.99.12 2.4.99.13 2.4.99.14 2.4.99.15;-2.284791091
+allNeg;M00866;KDO2-lipid A biosynthesis, Raetz pathway, non-LpxL-LpxM type ;11;K02535;lpxC;UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase ;EC:3.5.1.108;-2.025106654
+allNeg;M00060;KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type ;10;K02535;lpxC;UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase ;EC:3.5.1.108;-2.025106654
+allNeg;M00866;KDO2-lipid A biosynthesis, Raetz pathway, non-LpxL-LpxM type ;11;K02536;lpxD;UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase ;EC:2.3.1.191;-1.889101521
+allNeg;M00060;KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type ;10;K02536;lpxD;UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase ;EC:2.3.1.191;-1.889101521
+allNeg;M00060;KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type ;10;K02560;lpxM;lauroyl-Kdo2-lipid IVA myristoyltransferase ;EC:2.3.1.243;-3
+onlyNeg;M00060;KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type ;1;K02560;lpxM;lauroyl-Kdo2-lipid IVA myristoyltransferase ;EC:2.3.1.243;-3
+allNeg;M00529;Denitrification, nitrate => nitrogen ;4;K02568;napB;nitrate reductase (cytochrome), electron transfer subunit;;-1.100759708
+allNeg;M00530;Dissimilatory nitrate reduction, nitrate => ammonia ;1;K02568;napB;nitrate reductase (cytochrome), electron transfer subunit;;-1.100759708
+allPos;M00416;Cytochrome aa3-600 menaquinol oxidase ;3;K02827;qoxB;cytochrome aa3-600 menaquinol oxidase subunit I ;EC:7.1.1.5;1.129821549
+allPos;M00416;Cytochrome aa3-600 menaquinol oxidase ;3;K02828;qoxC;cytochrome aa3-600 menaquinol oxidase subunit III ;EC:7.1.1.5;1.162972181
+allPos;M00416;Cytochrome aa3-600 menaquinol oxidase ;3;K02829;qoxD;cytochrome aa3-600 menaquinol oxidase subunit IV ;EC:7.1.1.5;3
+onlyPos;M00416;Cytochrome aa3-600 menaquinol oxidase ;1;K02829;qoxD;cytochrome aa3-600 menaquinol oxidase subunit IV ;EC:7.1.1.5;3
+allNeg;M00117;Ubiquinone biosynthesis, prokaryotes, chorismate (+ polyprenyl-PP) => ubiquinol ;4;K03181;ubiC;chorismate lyase ;EC:4.1.3.40;-1.47224931
+allNeg;M00117;Ubiquinone biosynthesis, prokaryotes, chorismate (+ polyprenyl-PP) => ubiquinol ;4;K03184;ubiF;3-demethoxyubiquinol 3-hydroxylase ;EC:1.14.99.60;-3
+onlyNeg;M00117;Ubiquinone biosynthesis, prokaryotes, chorismate (+ polyprenyl-PP) => ubiquinol ;2;K03184;ubiF;3-demethoxyubiquinol 3-hydroxylase ;EC:1.14.99.60;-3
+allNeg;M00117;Ubiquinone biosynthesis, prokaryotes, chorismate (+ polyprenyl-PP) => ubiquinol ;4;K03185;ubiH;2-octaprenyl-6-methoxyphenol hydroxylase ;EC:1.14.13.-;-2.141471448
+allNeg;M00564;Helicobacter pylori pathogenicity signature, cagA pathogenicity island ;1;K03196;virB11;type IV secretion system protein VirB11 ;EC:7.4.2.8;-3
+onlyNeg;M00564;Helicobacter pylori pathogenicity signature, cagA pathogenicity island ;1;K03196;virB11;type IV secretion system protein VirB11 ;EC:7.4.2.8;-3
+allNeg;M00542;EHEC/EPEC pathogenicity signature, T3SS and effectors ;8;K03219;yscC;type III secretion protein C;;-3
+onlyNeg;M00542;EHEC/EPEC pathogenicity signature, T3SS and effectors ;7;K03219;yscC;type III secretion protein C;;-3
+allNeg;M00542;EHEC/EPEC pathogenicity signature, T3SS and effectors ;8;K03222;yscJ;type III secretion protein J;;-3
+allNeg;M00660;Xanthomonas spp. pathogenicity signature, T3SS and effectors ;8;K03222;yscJ;type III secretion protein J;;-3
+onlyNeg;M00542;EHEC/EPEC pathogenicity signature, T3SS and effectors ;7;K03222;yscJ;type III secretion protein J;;-3
+onlyNeg;M00660;Xanthomonas spp. pathogenicity signature, T3SS and effectors ;6;K03222;yscJ;type III secretion protein J;;-3
+allNeg;M00660;Xanthomonas spp. pathogenicity signature, T3SS and effectors ;8;K03223;yscL;type III secretion protein L;;-1.207407617
+allNeg;M00542;EHEC/EPEC pathogenicity signature, T3SS and effectors ;8;K03225;yscQ;type III secretion protein Q;;-1.463021536
+allNeg;M00660;Xanthomonas spp. pathogenicity signature, T3SS and effectors ;8;K03225;yscQ;type III secretion protein Q;;-1.463021536
+allNeg;M00542;EHEC/EPEC pathogenicity signature, T3SS and effectors ;8;K03226;yscR;type III secretion protein R;;-3
+allNeg;M00660;Xanthomonas spp. pathogenicity signature, T3SS and effectors ;8;K03226;yscR;type III secretion protein R;;-3
+onlyNeg;M00542;EHEC/EPEC pathogenicity signature, T3SS and effectors ;7;K03226;yscR;type III secretion protein R;;-3
+onlyNeg;M00660;Xanthomonas spp. pathogenicity signature, T3SS and effectors ;6;K03226;yscR;type III secretion protein R;;-3
+allNeg;M00542;EHEC/EPEC pathogenicity signature, T3SS and effectors ;8;K03227;yscS;type III secretion protein S;;-3
+allNeg;M00660;Xanthomonas spp. pathogenicity signature, T3SS and effectors ;8;K03227;yscS;type III secretion protein S;;-3
+onlyNeg;M00542;EHEC/EPEC pathogenicity signature, T3SS and effectors ;7;K03227;yscS;type III secretion protein S;;-3
+onlyNeg;M00660;Xanthomonas spp. pathogenicity signature, T3SS and effectors ;6;K03227;yscS;type III secretion protein S;;-3
+allNeg;M00542;EHEC/EPEC pathogenicity signature, T3SS and effectors ;8;K03228;yscT;type III secretion protein T;;-3
+allNeg;M00660;Xanthomonas spp. pathogenicity signature, T3SS and effectors ;8;K03228;yscT;type III secretion protein T;;-3
+onlyNeg;M00542;EHEC/EPEC pathogenicity signature, T3SS and effectors ;7;K03228;yscT;type III secretion protein T;;-3
+onlyNeg;M00660;Xanthomonas spp. pathogenicity signature, T3SS and effectors ;6;K03228;yscT;type III secretion protein T;;-3
+allNeg;M00542;EHEC/EPEC pathogenicity signature, T3SS and effectors ;8;K03229;yscU;type III secretion protein U;;-3
+allNeg;M00660;Xanthomonas spp. pathogenicity signature, T3SS and effectors ;8;K03229;yscU;type III secretion protein U;;-3
+onlyNeg;M00542;EHEC/EPEC pathogenicity signature, T3SS and effectors ;7;K03229;yscU;type III secretion protein U;;-3
+onlyNeg;M00660;Xanthomonas spp. pathogenicity signature, T3SS and effectors ;6;K03229;yscU;type III secretion protein U;;-3
+allNeg;M00542;EHEC/EPEC pathogenicity signature, T3SS and effectors ;8;K03230;yscV;type III secretion protein V;;-3
+allNeg;M00660;Xanthomonas spp. pathogenicity signature, T3SS and effectors ;8;K03230;yscV;type III secretion protein V;;-3
+onlyNeg;M00542;EHEC/EPEC pathogenicity signature, T3SS and effectors ;7;K03230;yscV;type III secretion protein V;;-3
+onlyNeg;M00660;Xanthomonas spp. pathogenicity signature, T3SS and effectors ;6;K03230;yscV;type III secretion protein V;;-3
+allNeg;M00866;KDO2-lipid A biosynthesis, Raetz pathway, non-LpxL-LpxM type ;11;K03269;lpxH;UDP-2,3-diacylglucosamine hydrolase ;EC:3.6.1.54;-2.420867626
+allNeg;M00060;KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type ;10;K03269;lpxH;UDP-2,3-diacylglucosamine hydrolase ;EC:3.6.1.54;-2.420867626
+allNeg;M00063;CMP-KDO biosynthesis ;4;K03270;kdsC;3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (KDO 8-P phosphatase) ;EC:3.1.3.45;-1.768894508
+allNeg;M00064;ADP-L-glycero-D-manno-heptose biosynthesis ;3;K03274;gmhD;ADP-L-glycero-D-manno-heptose 6-epimerase ;EC:5.1.3.20;-1.662226677
+allPos;M00725;Cationic antimicrobial peptide (CAMP) resistance, dltABCD operon ;3;K03367;dltA;D-alanine--poly(phosphoribitol) ligase subunit 1 ;EC:6.1.1.13;1.003640195
+allPos;M00909;UDP-N-acetyl-D-glucosamine biosynthesis, prokaryotes, glucose => UDP-GlcNAc ;2;K03431;glmM;phosphoglucosamine mutase ;EC:5.4.2.10;1.333275981
+allNeg;M00124;Pyridoxal-P biosynthesis, erythrose-4P => pyridoxal-P ;4;K03472;epd;D-erythrose 4-phosphate dehydrogenase ;EC:1.2.1.72;-3
+onlyNeg;M00124;Pyridoxal-P biosynthesis, erythrose-4P => pyridoxal-P ;2;K03472;epd;D-erythrose 4-phosphate dehydrogenase ;EC:1.2.1.72;-3
+allNeg;M00124;Pyridoxal-P biosynthesis, erythrose-4P => pyridoxal-P ;4;K03473;pdxB;erythronate-4-phosphate dehydrogenase ;EC:1.1.1.290;-3
+onlyNeg;M00124;Pyridoxal-P biosynthesis, erythrose-4P => pyridoxal-P ;2;K03473;pdxB;erythronate-4-phosphate dehydrogenase ;EC:1.1.1.290;-3
+allNeg;M00124;Pyridoxal-P biosynthesis, erythrose-4P => pyridoxal-P ;4;K03474;pdxJ;pyridoxine 5-phosphate synthase ;EC:2.6.99.2;-2.870476159
+allNeg;M00718;Multidrug resistance, efflux pump MexAB-OprM ;3;K03585;acrA;membrane fusion protein, multidrug efflux system;;-1.409263704
+allPos;M00725;Cationic antimicrobial peptide (CAMP) resistance, dltABCD operon ;3;K03739;dltB;membrane protein involved in D-alanine export;;1.226303091
+allPos;M00725;Cationic antimicrobial peptide (CAMP) resistance, dltABCD operon ;3;K03740;dltD;D-alanine transfer protein;;3
+onlyPos;M00725;Cationic antimicrobial peptide (CAMP) resistance, dltABCD operon ;1;K03740;dltD;D-alanine transfer protein;;3
+allNeg;M00867;KDO2-lipid A modification pathway ;1;K03760;eptA;lipid A ethanolaminephosphotransferase ;EC:2.7.8.43;-3
+onlyNeg;M00867;KDO2-lipid A modification pathway ;1;K03760;eptA;lipid A ethanolaminephosphotransferase ;EC:2.7.8.43;-3
+allNeg;M00880;Molybdenum cofactor biosynthesis, GTP => molybdenum cofactor ;1;K03831;mogA;molybdopterin adenylyltransferase ;EC:2.7.7.75;-1.3302502
+allNeg;M00167;Reductive pentose phosphate cycle, glyceraldehyde-3P => ribulose-5P ;3;K03841;FBP;fructose-1,6-bisphosphatase I ;EC:3.1.3.11;-2.142734313
+allNeg;M00165;Reductive pentose phosphate cycle (Calvin cycle) ;3;K03841;FBP;fructose-1,6-bisphosphatase I ;EC:3.1.3.11;-2.142734313
+allNeg;M00003;Gluconeogenesis, oxaloacetate => fructose-6P ;2;K03841;FBP;fructose-1,6-bisphosphatase I ;EC:3.1.3.11;-2.142734313
+allNeg;M00344;Formaldehyde assimilation, xylulose monophosphate pathway ;1;K03841;FBP;fructose-1,6-bisphosphatase I ;EC:3.1.3.11;-2.142734313
+allPos;M00151;Cytochrome bc1 complex respiratory unit ;5;K03887;MQCRB;menaquinol-cytochrome c reductase cytochrome b subunit;;1.308998925
+allPos;M00151;Cytochrome bc1 complex respiratory unit ;5;K03888;MQCRC;menaquinol-cytochrome c reductase cytochrome b/c subunit;;1.198086503
+allPos;M00151;Cytochrome bc1 complex respiratory unit ;5;K03889;qcrC;ubiquinol-cytochrome c reductase cytochrome c subunit;;2.161216706
+allPos;M00151;Cytochrome bc1 complex respiratory unit ;5;K03890;qcrA;ubiquinol-cytochrome c reductase iron-sulfur subunit;;2.6092524
+allPos;M00151;Cytochrome bc1 complex respiratory unit ;5;K03891;qcrB;ubiquinol-cytochrome c reductase cytochrome b subunit;;2.452272747
+allNeg;M00143;NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria ;2;K03941;NDUFS8;NADH dehydrogenase (ubiquinone) Fe-S protein 8 ;EC:7.1.1.2;-3
+onlyNeg;M00143;NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria ;2;K03941;NDUFS8;NADH dehydrogenase (ubiquinone) Fe-S protein 8 ;EC:7.1.1.2;-3
+allNeg;M00143;NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria ;2;K03943;NDUFV2;NADH dehydrogenase (ubiquinone) flavoprotein 2 ;EC:7.1.1.2;-3
+onlyNeg;M00143;NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria ;2;K03943;NDUFV2;NADH dehydrogenase (ubiquinone) flavoprotein 2 ;EC:7.1.1.2;-3
+allNeg;M00529;Denitrification, nitrate => nitrogen ;4;K04561;norB;nitric oxide reductase subunit B ;EC:1.7.2.5;-1.165228951
+allNeg;M00014;Glucuronate pathway (uronate pathway) ;1;K05351;E1.1.1.9;D-xylulose reductase ;EC:1.1.1.9;-3
+onlyNeg;M00014;Glucuronate pathway (uronate pathway) ;1;K05351;E1.1.1.9;D-xylulose reductase ;EC:1.1.1.9;-3
+allNeg;M00879;Arginine succinyltransferase pathway, arginine => glutamate ;5;K05526;astE;succinylglutamate desuccinylase ;EC:3.5.1.96;-3
+onlyNeg;M00879;Arginine succinyltransferase pathway, arginine => glutamate ;5;K05526;astE;succinylglutamate desuccinylase ;EC:3.5.1.96;-3
+allPos;M00145;NAD(P)H:quinone oxidoreductase, chloroplasts and cyanobacteria ;2;K05576;ndhE;NAD(P)H-quinone oxidoreductase subunit 4L ;EC:7.1.1.2;1.343434854
+allPos;M00145;NAD(P)H:quinone oxidoreductase, chloroplasts and cyanobacteria ;2;K05578;ndhG;NAD(P)H-quinone oxidoreductase subunit 6 ;EC:7.1.1.2;1.939575338
+allPos;M00026;Histidine biosynthesis, PRPP => histidine ;1;K05602;hisN;histidinol-phosphatase ;EC:3.1.3.15;1.417779835
+allNeg;M00045;Histidine degradation, histidine => N-formiminoglutamate => glutamate ;2;K05603;hutF;formimidoylglutamate deiminase ;EC:3.5.3.13;-3
+onlyNeg;M00045;Histidine degradation, histidine => N-formiminoglutamate => glutamate ;2;K05603;hutF;formimidoylglutamate deiminase ;EC:3.5.3.13;-3
+allPos;M00525;Lysine biosynthesis, acetyl-DAP pathway, aspartate => lysine ;3;K05822;dapH;tetrahydrodipicolinate N-acetyltransferase ;EC:2.3.1.89;1.035966662
+allPos;M00525;Lysine biosynthesis, acetyl-DAP pathway, aspartate => lysine ;3;K05823;dapL;N-acetyldiaminopimelate deacetylase ;EC:3.5.1.47;1.381912563
+allNeg;M00063;CMP-KDO biosynthesis ;4;K06041;kdsD;arabinose-5-phosphate isomerase ;EC:5.3.1.13;-1.823013242
+allNeg;M00128;Ubiquinone biosynthesis, eukaryotes, 4-hydroxybenzoate + polyprenyl-PP => ubiquinol ;2;K06125;COQ2;4-hydroxybenzoate polyprenyltransferase ;EC:2.5.1.39;-3
+onlyNeg;M00128;Ubiquinone biosynthesis, eukaryotes, 4-hydroxybenzoate + polyprenyl-PP => ubiquinol ;1;K06125;COQ2;4-hydroxybenzoate polyprenyltransferase ;EC:2.5.1.39;-3
+allNeg;M00128;Ubiquinone biosynthesis, eukaryotes, 4-hydroxybenzoate + polyprenyl-PP => ubiquinol ;2;K06134;COQ7;3-demethoxyubiquinol 3-hydroxylase ;EC:1.14.99.60;-1.910496173
+allPos;M00916;Pyridoxal-P biosynthesis, R5P + glyceraldehyde-3P + glutamine => pyridoxal-P ;2;K06215;pdxS;pyridoxal 5'-phosphate synthase pdxS subunit ;EC:4.3.3.6;1.410856782
+allNeg;M00087;beta-Oxidation ;2;K06445;fadE;acyl-CoA dehydrogenase ;EC:1.3.99.-;-1.508320025
+allNeg;M00879;Arginine succinyltransferase pathway, arginine => glutamate ;5;K06447;astD;succinylglutamic semialdehyde dehydrogenase ;EC:1.2.1.71;-3
+onlyNeg;M00879;Arginine succinyltransferase pathway, arginine => glutamate ;5;K06447;astD;succinylglutamic semialdehyde dehydrogenase ;EC:1.2.1.71;-3
+allNeg;M00744;Cationic antimicrobial peptide (CAMP) resistance, protease PgtE ;2;K07637;phoQ;two-component system, OmpR family, sensor histidine kinase PhoQ ;EC:2.7.13.3;-3
+onlyNeg;M00744;Cationic antimicrobial peptide (CAMP) resistance, protease PgtE ;2;K07637;phoQ;two-component system, OmpR family, sensor histidine kinase PhoQ ;EC:2.7.13.3;-3
+allNeg;M00745;Imipenem resistance, repression of porin OprD ;1;K07644;cusS;two-component system, OmpR family, heavy metal sensor histidine kinase CusS ;EC:2.7.13.3;-1.248715182
+allNeg;M00744;Cationic antimicrobial peptide (CAMP) resistance, protease PgtE ;2;K07660;phoP;two-component system, OmpR family, response regulator PhoP;;-3
+onlyNeg;M00744;Cationic antimicrobial peptide (CAMP) resistance, protease PgtE ;2;K07660;phoP;two-component system, OmpR family, response regulator PhoP;;-3
+allNeg;M00697;Multidrug resistance, efflux pump MdtEF-TolC ;2;K07690;evgA;two-component system, NarL family, response regulator EvgA;;-1.048501918
+allPos;M00704;Tetracycline resistance, efflux pump Tet38 ;1;K08168;tetB;MFS transporter, DHA2 family, metal-tetracycline-proton antiporter;;3
+onlyPos;M00704;Tetracycline resistance, efflux pump Tet38 ;1;K08168;tetB;MFS transporter, DHA2 family, metal-tetracycline-proton antiporter;;3
+allPos;M00916;Pyridoxal-P biosynthesis, R5P + glyceraldehyde-3P + glutamine => pyridoxal-P ;2;K08681;pdxT;pyridoxal 5'-phosphate synthase pdxT subunit ;EC:4.3.3.6;1.291127452
+allPos;M00034;Methionine salvage pathway ;2;K08965;mtnW;2,3-diketo-5-methylthiopentyl-1-phosphate enolase ;EC:5.3.2.5;1.150492841
+allPos;M00034;Methionine salvage pathway ;2;K08969;mtnE;L-glutamine---4-(methylsulfanyl)-2-oxobutanoate aminotransferase ;EC:2.6.1.117;1.454605447
+allNeg;M00121;Heme biosynthesis, plants and bacteria, glutamate => heme ;3;K08973;hemJ;protoporphyrinogen IX oxidase ;EC:1.3.99.-;-2.605417108
+allNeg;M00535;Isoleucine biosynthesis, pyruvate => 2-oxobutanoate ;1;K09011;cimA;(R)-citramalate synthase ;EC:2.3.3.21;-1.52001173
+allNeg;M00939;Pyrimidine degradation, uracil => 3-hydroxypropanoate ;1;K09021;rutC;aminoacrylate peracid reductase;;-1.226458439
+allNeg;M00845;Arginine biosynthesis, glutamate => acetylcitrulline => arginine ;2;K09065;argF;N-acetylornithine carbamoyltransferase ;EC:2.1.3.9;-1.769569961
+allNeg;M00136;GABA biosynthesis, prokaryotes, putrescine => GABA ;1;K09471;puuB;gamma-glutamylputrescine oxidase ;EC:1.4.3.-;-1.357849866
+allNeg;M00866;KDO2-lipid A biosynthesis, Raetz pathway, non-LpxL-LpxM type ;11;K09778;lpxJ;Kdo2-lipid IVA 3' secondary acyltransferase ;EC:2.3.1.-;-3
+onlyNeg;M00866;KDO2-lipid A biosynthesis, Raetz pathway, non-LpxL-LpxM type ;1;K09778;lpxJ;Kdo2-lipid IVA 3' secondary acyltransferase ;EC:2.3.1.-;-3
+allNeg;M00925;Cobalamin biosynthesis, aerobic, uroporphyrinogen III => precorrin 2 => cobyrinate a,c-diamide ;2;K09882;cobS;cobaltochelatase CobS ;EC:6.6.1.2;-1.240410563
+allNeg;M00925;Cobalamin biosynthesis, aerobic, uroporphyrinogen III => precorrin 2 => cobyrinate a,c-diamide ;2;K09883;cobT;cobaltochelatase CobT ;EC:6.6.1.2;-1.19099933
+allNeg;M00866;KDO2-lipid A biosynthesis, Raetz pathway, non-LpxL-LpxM type ;11;K09949;lpxI;UDP-2,3-diacylglucosamine hydrolase ;EC:3.6.1.54;-1.41047018
+allNeg;M00060;KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type ;10;K09949;lpxI;UDP-2,3-diacylglucosamine hydrolase ;EC:3.6.1.54;-1.41047018
+allPos;M00895;Thiamine biosynthesis, prokaryotes, AIR (+ DXP/glycine) => TMP/TPP ;1;K10810;tenI;thiazole tautomerase (transcriptional regulator TenI) ;EC:5.3.99.10;1.038204353
+allNeg;M00575;Pertussis pathogenicity signature, T1SS ;2;K11003;hlyD;membrane fusion protein, hemolysin D;;-1.262538438
+allNeg;M00570;Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine ;1;K11258;ilvM;acetolactate synthase II small subunit ;EC:2.2.1.6;-3
+allNeg;M00019;Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine ;1;K11258;ilvM;acetolactate synthase II small subunit ;EC:2.2.1.6;-3
+onlyNeg;M00570;Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine ;1;K11258;ilvM;acetolactate synthase II small subunit ;EC:2.2.1.6;-3
+onlyNeg;M00019;Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine ;1;K11258;ilvM;acetolactate synthase II small subunit ;EC:2.2.1.6;-3
+allNeg;M00346;Formaldehyde assimilation, serine pathway ;2;K11529;gck;glycerate 2-kinase ;EC:2.7.1.165;-1.348179776
+allNeg;M00167;Reductive pentose phosphate cycle, glyceraldehyde-3P => ribulose-5P ;3;K11532;glpX-SEBP;fructose-1,6-bisphosphatase II / sedoheptulose-1,7-bisphosphatase ;EC:3.1.3.11 3.1.3.37;-1.797154183
+allNeg;M00165;Reductive pentose phosphate cycle (Calvin cycle) ;3;K11532;glpX-SEBP;fructose-1,6-bisphosphatase II / sedoheptulose-1,7-bisphosphatase ;EC:3.1.3.11 3.1.3.37;-1.797154183
+allNeg;M00003;Gluconeogenesis, oxaloacetate => fructose-6P ;2;K11532;glpX-SEBP;fructose-1,6-bisphosphatase II / sedoheptulose-1,7-bisphosphatase ;EC:3.1.3.11 3.1.3.37;-1.797154183
+allPos;M00083;Fatty acid biosynthesis, elongation ;1;K11533;fas;fatty acid synthase, bacteria type ;EC:2.3.1.-;3
+allPos;M00082;Fatty acid biosynthesis, initiation ;1;K11533;fas;fatty acid synthase, bacteria type ;EC:2.3.1.-;3
+onlyPos;M00083;Fatty acid biosynthesis, elongation ;1;K11533;fas;fatty acid synthase, bacteria type ;EC:2.3.1.-;3
+onlyPos;M00082;Fatty acid biosynthesis, initiation ;1;K11533;fas;fatty acid synthase, bacteria type ;EC:2.3.1.-;3
+allPos;M00048;Inosine monophosphate biosynthesis, PRPP + glutamine => IMP ;2;K11788;ADE5;phosphoribosylamine--glycine ligase / phosphoribosylformylglycinamidine cyclo-ligase ;EC:6.3.4.13 6.3.3.1;2.386383883
+allNeg;M00697;Multidrug resistance, efflux pump MdtEF-TolC ;2;K12340;tolC;outer membrane protein;;-2.083255132
+allNeg;M00575;Pertussis pathogenicity signature, T1SS ;2;K12340;tolC;outer membrane protein;;-2.083255132
+allNeg;M00696;Multidrug resistance, efflux pump AcrEF-TolC ;1;K12340;tolC;outer membrane protein;;-2.083255132
+allNeg;M00948;Hydroxyproline degradation, trans-4-hydroxy-L-proline => 2-oxoglutarate ;1;K12658;lhpA;4-hydroxyproline epimerase ;EC:5.1.1.8;-1.47224931
+allPos;M00835;Pyocyanine biosynthesis, chorismate => pyocyanine ;1;K13063;phzE;2-amino-4-deoxychorismate synthase ;EC:2.6.1.86;1.951781911
+allNeg;M00144;NADH:quinone oxidoreductase, prokaryotes ;1;K13378;nuoCD;NADH-quinone oxidoreductase subunit C/D ;EC:7.1.1.2;-3
+onlyNeg;M00144;NADH:quinone oxidoreductase, prokaryotes ;1;K13378;nuoCD;NADH-quinone oxidoreductase subunit C/D ;EC:7.1.1.2;-3
+allNeg;M00051;Uridine monophosphate biosynthesis, glutamine (+ PRPP) => UMP ;1;K13421;UMPS;uridine monophosphate synthetase ;EC:2.4.2.10 4.1.1.23;-3
+onlyNeg;M00051;Uridine monophosphate biosynthesis, glutamine (+ PRPP) => UMP ;1;K13421;UMPS;uridine monophosphate synthetase ;EC:2.4.2.10 4.1.1.23;-3
+allPos;M00925;Cobalamin biosynthesis, aerobic, uroporphyrinogen III => precorrin 2 => cobyrinate a,c-diamide ;2;K13540;cobIJ;precorrin-2 C20-methyltransferase / precorrin-3B C17-methyltransferase ;EC:2.1.1.130 2.1.1.131;1.062523757
+allNeg;M00048;Inosine monophosphate biosynthesis, PRPP + glutamine => IMP ;2;K13713;purCD;fusion protein PurCD ;EC:6.3.2.6 6.3.4.13;-3
+onlyNeg;M00048;Inosine monophosphate biosynthesis, PRPP + glutamine => IMP ;2;K13713;purCD;fusion protein PurCD ;EC:6.3.2.6 6.3.4.13;-3
+allPos;M00087;beta-Oxidation ;2;K13767;fadB;enoyl-CoA hydratase ;EC:4.2.1.17;1.044239218
+allPos;M00921;Cyclooctatin biosynthesis, dimethylallyl-PP + isopentenyl-PP => cyclooctatin ;1;K13787;idsA;geranylgeranyl diphosphate synthase, type I ;EC:2.5.1.1 2.5.1.10 2.5.1.29;1.012063356
+allPos;M00364;C10-C20 isoprenoid biosynthesis, bacteria ;1;K13787;idsA;geranylgeranyl diphosphate synthase, type I ;EC:2.5.1.1 2.5.1.10 2.5.1.29;1.012063356
+allPos;M00365;C10-C20 isoprenoid biosynthesis, archaea ;1;K13787;idsA;geranylgeranyl diphosphate synthase, type I ;EC:2.5.1.1 2.5.1.10 2.5.1.29;1.012063356
+allPos;M00022;Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate ;1;K13853;aroG;3-deoxy-7-phosphoheptulonate synthase / chorismate mutase ;EC:2.5.1.54 5.4.99.5;1.049083341
+allNeg;M00126;Tetrahydrofolate biosynthesis, GTP => THF ;1;K13941;folKP;2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase / dihydropteroate synthase ;EC:2.7.6.3 2.5.1.15;-3
+allNeg;M00841;Tetrahydrofolate biosynthesis, mediated by PTPS, GTP => THF ;1;K13941;folKP;2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase / dihydropteroate synthase ;EC:2.7.6.3 2.5.1.15;-3
+allNeg;M00840;Tetrahydrofolate biosynthesis, mediated by ribA and trpF, GTP => THF ;1;K13941;folKP;2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase / dihydropteroate synthase ;EC:2.7.6.3 2.5.1.15;-3
+onlyNeg;M00126;Tetrahydrofolate biosynthesis, GTP => THF ;1;K13941;folKP;2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase / dihydropteroate synthase ;EC:2.7.6.3 2.5.1.15;-3
+onlyNeg;M00840;Tetrahydrofolate biosynthesis, mediated by ribA and trpF, GTP => THF ;1;K13941;folKP;2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase / dihydropteroate synthase ;EC:2.7.6.3 2.5.1.15;-3
+onlyNeg;M00841;Tetrahydrofolate biosynthesis, mediated by PTPS, GTP => THF ;1;K13941;folKP;2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase / dihydropteroate synthase ;EC:2.7.6.3 2.5.1.15;-3
+allNeg;M00346;Formaldehyde assimilation, serine pathway ;2;K14067;mtkA;malate-CoA ligase subunit beta ;EC:6.2.1.9;-3
+onlyNeg;M00346;Formaldehyde assimilation, serine pathway ;1;K14067;mtkA;malate-CoA ligase subunit beta ;EC:6.2.1.9;-3
+allNeg;M00534;Naphthalene degradation, naphthalene => salicylate ;1;K14581;nahAa;naphthalene 1,2-dioxygenase ferredoxin reductase component ;EC:1.18.1.7;-1.18760617
+allNeg;M00638;Salicylate degradation, salicylate => gentisate ;1;K14581;nahAa;naphthalene 1,2-dioxygenase ferredoxin reductase component ;EC:1.18.1.7;-1.18760617
+allNeg;M00028;Ornithine biosynthesis, glutamate => ornithine ;4;K14681;argHA;argininosuccinate lyase / amino-acid N-acetyltransferase ;EC:4.3.2.1 2.3.1.1;-3
+allNeg;M00844;Arginine biosynthesis, ornithine => arginine ;1;K14681;argHA;argininosuccinate lyase / amino-acid N-acetyltransferase ;EC:4.3.2.1 2.3.1.1;-3
+allNeg;M00029;Urea cycle ;1;K14681;argHA;argininosuccinate lyase / amino-acid N-acetyltransferase ;EC:4.3.2.1 2.3.1.1;-3
+onlyNeg;M00028;Ornithine biosynthesis, glutamate => ornithine ;3;K14681;argHA;argininosuccinate lyase / amino-acid N-acetyltransferase ;EC:4.3.2.1 2.3.1.1;-3
+onlyNeg;M00844;Arginine biosynthesis, ornithine => arginine ;1;K14681;argHA;argininosuccinate lyase / amino-acid N-acetyltransferase ;EC:4.3.2.1 2.3.1.1;-3
+onlyNeg;M00029;Urea cycle ;1;K14681;argHA;argininosuccinate lyase / amino-acid N-acetyltransferase ;EC:4.3.2.1 2.3.1.1;-3
+allNeg;M00028;Ornithine biosynthesis, glutamate => ornithine ;4;K14682;argAB;amino-acid N-acetyltransferase ;EC:2.3.1.1;-1.674001597
+allNeg;M00372;Abscisic acid biosynthesis, beta-carotene => abscisic acid ;1;K15746;crtZ;beta-carotene 3-hydroxylase ;EC:1.14.15.24;-3
+onlyNeg;M00372;Abscisic acid biosynthesis, beta-carotene => abscisic acid ;1;K15746;crtZ;beta-carotene 3-hydroxylase ;EC:1.14.15.24;-3
+allNeg;M00549;Nucleotide sugar biosynthesis, glucose => UDP-glucose ;1;K15778;pmm-pgm;phosphomannomutase / phosphoglucomutase ;EC:5.4.2.8 5.4.2.2;-1.099869442
+allNeg;M00855;Glycogen degradation, glycogen => glucose-6P ;1;K15778;pmm-pgm;phosphomannomutase / phosphoglucomutase ;EC:5.4.2.8 5.4.2.2;-1.099869442
+allNeg;M00919;Ectoine degradation, ectoine => aspartate ;3;K15784;doeB;N2-acetyl-L-2,4-diaminobutanoate deacetylase ;EC:3.5.1.125;-1.357756235
+allNeg;M00919;Ectoine degradation, ectoine => aspartate ;3;K15785;doeD;L-2,4-diaminobutyrate transaminase ;EC:2.6.1.76;-1.463021536
+allNeg;M00919;Ectoine degradation, ectoine => aspartate ;3;K15786;doeC;aspartate-semialdehyde dehydrogenase ;EC:1.2.1.-;-3
+onlyNeg;M00919;Ectoine degradation, ectoine => aspartate ;1;K15786;doeC;aspartate-semialdehyde dehydrogenase ;EC:1.2.1.-;-3
+allNeg;M00156;Cytochrome c oxidase, cbb3-type ;5;K15862;ccoNO;cytochrome c oxidase cbb3-type subunit I/II ;EC:7.1.1.9;-3
+onlyNeg;M00156;Cytochrome c oxidase, cbb3-type ;2;K15862;ccoNO;cytochrome c oxidase cbb3-type subunit I/II ;EC:7.1.1.9;-3
+allPos;M00001;Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate ;2;K15916;pgi-pmi;glucose/mannose-6-phosphate isomerase ;EC:5.3.1.9 5.3.1.8;1.116505569
+allPos;M00909;UDP-N-acetyl-D-glucosamine biosynthesis, prokaryotes, glucose => UDP-GlcNAc ;2;K15916;pgi-pmi;glucose/mannose-6-phosphate isomerase ;EC:5.3.1.9 5.3.1.8;1.116505569
+allPos;M00004;Pentose phosphate pathway (Pentose phosphate cycle) ;1;K15916;pgi-pmi;glucose/mannose-6-phosphate isomerase ;EC:5.3.1.9 5.3.1.8;1.116505569
+allNeg;M00532;Photorespiration ;1;K15918;GLYK;D-glycerate 3-kinase ;EC:2.7.1.31;-3
+onlyNeg;M00532;Photorespiration ;1;K15918;GLYK;D-glycerate 3-kinase ;EC:2.7.1.31;-3
+allNeg;M00044;Tyrosine degradation, tyrosine => homogentisate ;2;K16171;faaH;fumarylacetoacetate (FAA) hydrolase ;EC:3.7.1.2;-1.321082398
+allNeg;M00866;KDO2-lipid A biosynthesis, Raetz pathway, non-LpxL-LpxM type ;11;K16363;lpxC-fabZ;UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase / 3-hydroxyacyl-[acyl-carrier-protein] dehydratase ;EC:3.5.1.108 4.2.1.59;-1.286950377
+allNeg;M00083;Fatty acid biosynthesis, elongation ;3;K16363;lpxC-fabZ;UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase / 3-hydroxyacyl-[acyl-carrier-protein] dehydratase ;EC:3.5.1.108 4.2.1.59;-1.286950377
+allPos;M00546;Purine degradation, xanthine => urea ;1;K16840;hpxQ;2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase ;EC:4.1.1.97;1.086557552
+allNeg;M00546;Purine degradation, xanthine => urea ;1;K16842;hpxB;allantoinase ;EC:3.5.2.5;-3
+onlyNeg;M00546;Purine degradation, xanthine => urea ;1;K16842;hpxB;allantoinase ;EC:3.5.2.5;-3
+allPos;M00883;Lipoic acid biosynthesis, animals and bacteria, octanoyl-ACP => dihydrolipoyl-H => dihydrolipoyl-E2 ;1;K16869;lipL;octanoyl-[GcvH]:protein N-octanoyltransferase ;EC:2.3.1.204;1.696427098
+allNeg;M00027;GABA (gamma-Aminobutyrate) shunt ;1;K16871;POP2;4-aminobutyrate---pyruvate transaminase ;EC:2.6.1.96;-3
+onlyNeg;M00027;GABA (gamma-Aminobutyrate) shunt ;1;K16871;POP2;4-aminobutyrate---pyruvate transaminase ;EC:2.6.1.96;-3
+allPos;M00609;Cysteine biosynthesis, methionine => cysteine ;1;K17216;mccA;cystathionine beta-synthase (O-acetyl-L-serine) ;EC:2.5.1.134;1.189664066
+allNeg;M00595;Thiosulfate oxidation by SOX complex, thiosulfate => sulfate ;6;K17222;soxA;L-cysteine S-thiosulfotransferase ;EC:2.8.5.2;-3
+onlyNeg;M00595;Thiosulfate oxidation by SOX complex, thiosulfate => sulfate ;2;K17222;soxA;L-cysteine S-thiosulfotransferase ;EC:2.8.5.2;-3
+allNeg;M00595;Thiosulfate oxidation by SOX complex, thiosulfate => sulfate ;6;K17223;soxX;L-cysteine S-thiosulfotransferase ;EC:2.8.5.2;-1.357756235
+allNeg;M00595;Thiosulfate oxidation by SOX complex, thiosulfate => sulfate ;6;K17224;soxB;S-sulfosulfanyl-L-cysteine sulfohydrolase ;EC:3.1.6.20;-1.227769117
+allNeg;M00595;Thiosulfate oxidation by SOX complex, thiosulfate => sulfate ;6;K17225;soxC;sulfane dehydrogenase subunit SoxC;;-1.005429622
+allNeg;M00595;Thiosulfate oxidation by SOX complex, thiosulfate => sulfate ;6;K17226;soxY;sulfur-oxidizing protein SoxY;;-3
+onlyNeg;M00595;Thiosulfate oxidation by SOX complex, thiosulfate => sulfate ;2;K17226;soxY;sulfur-oxidizing protein SoxY;;-3
+allNeg;M00595;Thiosulfate oxidation by SOX complex, thiosulfate => sulfate ;6;K17227;soxZ;sulfur-oxidizing protein SoxZ;;-1.386033198
+allNeg;M00622;Nicotinate degradation, nicotinate => fumarate ;1;K18029;nicA;nicotinate dehydrogenase subunit A ;EC:1.17.2.1;-1.207407617
+allNeg;M00718;Multidrug resistance, efflux pump MexAB-OprM ;3;K18138;acrB;multidrug efflux pump;;-2.391188747
+allNeg;M00718;Multidrug resistance, efflux pump MexAB-OprM ;3;K18139;oprM;outer membrane protein, multidrug efflux system;;-1.760557102
+allNeg;M00642;Multidrug resistance, efflux pump MexJK-OprM ;2;K18139;oprM;outer membrane protein, multidrug efflux system;;-1.760557102
+allNeg;M00643;Multidrug resistance, efflux pump MexXY-OprM ;1;K18139;oprM;outer membrane protein, multidrug efflux system;;-1.760557102
+allPos;M00930;Menaquinone biosynthesis, futalosine pathway ;1;K18286;add;aminodeoxyfutalosine deaminase ;EC:3.5.4.40;1.23675229
+allNeg;M00641;Multidrug resistance, efflux pump MexEF-OprN ;3;K18298;mexE;membrane fusion protein, multidrug efflux system;;-3
+onlyNeg;M00641;Multidrug resistance, efflux pump MexEF-OprN ;3;K18298;mexE;membrane fusion protein, multidrug efflux system;;-3
+allNeg;M00641;Multidrug resistance, efflux pump MexEF-OprN ;3;K18299;mexF;multidrug efflux pump;;-3
+onlyNeg;M00641;Multidrug resistance, efflux pump MexEF-OprN ;3;K18299;mexF;multidrug efflux pump;;-3
+allNeg;M00641;Multidrug resistance, efflux pump MexEF-OprN ;3;K18300;oprN;outer membrane protein, multidrug efflux system;;-3
+onlyNeg;M00641;Multidrug resistance, efflux pump MexEF-OprN ;3;K18300;oprN;outer membrane protein, multidrug efflux system;;-3
+allNeg;M00642;Multidrug resistance, efflux pump MexJK-OprM ;2;K18303;mexK;multidrug efflux pump;;-1.054756647
+allPos;M00652;Vancomycin resistance, D-Ala-D-Ser type ;1;K18350;vanSC;two-component system, OmpR family, sensor histidine kinase VanS ;EC:2.7.13.3;1.77235706
+allPos;M00651;Vancomycin resistance, D-Ala-D-Lac type ;2;K18351;vanSAc;two-component system, OmpR family, sensor histidine kinase VanS ;EC:2.7.13.3;1.861508437
+allPos;M00651;Vancomycin resistance, D-Ala-D-Lac type ;2;K18353;vanJ;vancomycin resistance protein VanJ;;1.395560307
+allNeg;M00026;Histidine biosynthesis, PRPP => histidine ;2;K18649;IMPL2;inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase / histidinol-phosphatase ;EC:3.1.3.25 3.1.3.93 3.1.3.15;-3
+onlyNeg;M00026;Histidine biosynthesis, PRPP => histidine ;2;K18649;IMPL2;inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase / histidinol-phosphatase ;EC:3.1.3.25 3.1.3.93 3.1.3.15;-3
+allNeg;M00117;Ubiquinone biosynthesis, prokaryotes, chorismate (+ polyprenyl-PP) => ubiquinol ;4;K18800;ubiI;2-polyprenylphenol 6-hydroxylase ;EC:1.14.13.240;-3
+onlyNeg;M00117;Ubiquinone biosynthesis, prokaryotes, chorismate (+ polyprenyl-PP) => ubiquinol ;2;K18800;ubiI;2-polyprenylphenol 6-hydroxylase ;EC:1.14.13.240;-3
+allNeg;M00698;Multidrug resistance, efflux pump BpeEF-OprC ;3;K18900;bpeT;LysR family transcriptional regulator, regulator for bpeEF and oprC;;-1.18760617
+allNeg;M00698;Multidrug resistance, efflux pump BpeEF-OprC ;3;K18901;bpeE;membrane fusion protein, multidrug efflux system;;-1.474881175
+allNeg;M00698;Multidrug resistance, efflux pump BpeEF-OprC ;3;K18902;bpeF;multidrug efflux pump;;-1.425865317
+allNeg;M00116;Menaquinone biosynthesis, chorismate (+ polyprenyl-PP) => menaquinol ;1;K19222;menI;1,4-dihydroxy-2-naphthoyl-CoA hydrolase ;EC:3.1.2.28;-1.542676817
+allNeg;M00932;Phylloquinone biosynthesis, chorismate (+ phytyl-PP) => phylloquinol ;1;K19222;menI;1,4-dihydroxy-2-naphthoyl-CoA hydrolase ;EC:3.1.2.28;-1.542676817
+allPos;M00787;Bacilysin biosynthesis, prephenate => bacilysin ;1;K19548;bacC;dihydroanticapsin dehydrogenase ;EC:1.1.1.385;1.438097147
+allPos;M00125;Riboflavin biosynthesis, plants and bacteria, GTP => riboflavin/FMN/FAD ;1;K21064;ycsE;5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase ;EC:3.1.3.104;1.403633422
+allPos;M00825;10-membered enediyne core biosynthesis, malonyl-CoA => 3-hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-ACP => 10-membered enediyne core ;1;K21169;calE2;enediyne biosynthesis protein CalE2;;3
+onlyPos;M00825;10-membered enediyne core biosynthesis, malonyl-CoA => 3-hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-ACP => 10-membered enediyne core ;1;K21169;calE2;enediyne biosynthesis protein CalE2;;3
+allNeg;M00064;ADP-L-glycero-D-manno-heptose biosynthesis ;3;K21344;rfaE1;D-glycero-beta-D-manno-heptose-7-phosphate kinase ;EC:2.7.1.167;-1.2885473
+allNeg;M00064;ADP-L-glycero-D-manno-heptose biosynthesis ;3;K21345;rfaE2;D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase ;EC:2.7.7.70;-1.244817869
+allPos;M00122;Cobalamin biosynthesis, cobyrinate a,c-diamide => cobalamin ;1;K22316;rhnA-cobC;ribonuclease H / adenosylcobalamin/alpha-ribazole phosphatase ;EC:3.1.26.4 3.1.3.73;1.956808511
+allPos;M00028;Ornithine biosynthesis, glutamate => ornithine ;1;K22477;argO;N-acetylglutamate synthase ;EC:2.3.1.1;1.022591576
+allNeg;M00028;Ornithine biosynthesis, glutamate => ornithine ;4;K22478;;bifunctional N-acetylglutamate synthase/kinase;EC:2.3.1.1 2.7.2.8;-3
+allNeg;M00845;Arginine biosynthesis, glutamate => acetylcitrulline => arginine ;2;K22478;;bifunctional N-acetylglutamate synthase/kinase;EC:2.3.1.1 2.7.2.8;-3
+onlyNeg;M00028;Ornithine biosynthesis, glutamate => ornithine ;3;K22478;;bifunctional N-acetylglutamate synthase/kinase;EC:2.3.1.1 2.7.2.8;-3
+onlyNeg;M00845;Arginine biosynthesis, glutamate => acetylcitrulline => arginine ;1;K22478;;bifunctional N-acetylglutamate synthase/kinase;EC:2.3.1.1 2.7.2.8;-3
