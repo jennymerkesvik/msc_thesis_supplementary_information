@@ -1,0 +1,10 @@
+﻿category;class;positive;negative
+exclusive;COG;9;264
+exclusive;GO;94;858
+exclusive;KO;56;440
+non-exclusive;COG;223;388
+non-exclusive;GO;664;430
+non-exclusive;KO;424;594
+total;COG;232;652
+total;GO;758;1288
+total;KO;480;1034
