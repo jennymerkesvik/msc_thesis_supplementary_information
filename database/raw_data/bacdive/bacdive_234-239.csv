@@ -1,0 +1,1385 @@
+strains.ID_strains;strains.Culture collection no.;strains.Genus;strains.Species;strains.Strain Designation;strains.Type strain;strains_tax_PNU.Species;strains_tax_PNU.ID_reference;colony_morphology.Incubation period;colony_morphology.ID_reference;culture_medium.Culture medium;culture_medium.ID_reference;culture_temp.Temperature;culture_temp.ID_reference;compound_production.Name of produced compound;compound_production.ID_reference;oxygen_tolerance.Oxygen tolerance;oxygen_tolerance.ID_reference;nutrition_type.Nutrition type;nutrition_type.ID_reference;met_util.Metabolite;met_util.ID_reference;met_production.Metabolite;met_production.Production;met_production.ID_reference;met_test.Metabolite;met_test.ID_reference;enzymes.Enzyme;enzymes.Enzyme activity;enzymes.ID_reference;origin.Sample type/isolated from;origin.ID_reference;sequence_genomes.Seq. accession number;sequence_genomes.ID_reference
+149632;CCUG 38091;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+135931;CIP 54.120, NCIMB 10085;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35208;30;35208;;;;;;;;;;;;;;;;;;;;
+149705;CCUG 38247;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;Human urine;54145;;
+135946;CIP 104723;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 29- Brain heart agar;35229;30;35229;;;;;;;;;;;;;;;;;;;;
+156656;CCUG 63955;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;37;63047;;;aerobe;63047;;;sorbitol;68374;indole;1;68374;indole;68374;L-aspartate arylamidase;-;68374;Human urine,77-yr-old woman;63047;;
+156656;CCUG 63955;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;cellobiose;68374;;;;;;alpha-maltosidase;-;68374;;;;
+156656;CCUG 63955;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68374;;;;;;alpha-galactosidase;+;68374;;;;
+156656;CCUG 63955;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68374;;;;;;alpha-glucosidase;-;68374;;;;
+156656;CCUG 63955;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;trehalose;68374;;;;;;beta-galactosidase;+;68374;;;;
+156656;CCUG 63955;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-arabitol;68374;;;;;;N-acetyl-beta-glucosaminidase;-;68374;;;;
+156656;CCUG 63955;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68374;;;;;;beta-glucuronidase;+;68374;;;;
+156656;CCUG 63955;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68374;;;;;;beta-glucosidase;-;68374;;;;
+156656;CCUG 63955;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68374;;;;;;lipase;-;68374;;;;
+156656;CCUG 63955;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68374;;;;;;urease;-;68374;;;;
+156656;CCUG 63955;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;malonate;68374;;;;;;lysine decarboxylase;+;68374;;;;
+156656;CCUG 63955;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;palatinose;68374;;;;;;arginine dihydrolase;-;68374;;;;
+156656;CCUG 63955;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ribitol;68374;;;;;;ornithine decarboxylase;+;68374;;;;
+156656;CCUG 63955;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;maltose;68374;;;;;;;;;;;;
+156656;CCUG 63955;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68374;;;;;;;;;;;;
+156656;CCUG 63955;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;Potassium 5-ketogluconate;68374;;;;;;;;;;;;
+156656;CCUG 63955;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-galacturonic acid;68374;;;;;;;;;;;;
+156656;CCUG 63955;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabitol;68374;;;;;;;;;;;;
+156656;CCUG 63955;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68374;;;;;;;;;;;;
+156656;CCUG 63955;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68374;;;;;;;;;;;;
+156656;CCUG 63955;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68374;;;;;;;;;;;;
+156656;CCUG 63955;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68374;;;;;;;;;;;;
+135959;CIP 51.41;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35248;30;35248;;;;;;;;;;;;;;;;;;;;
+157697;DSM 103249;Escherichia;Escherichia coli;PTC E049;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;chicken;64266;;
+135966;CIP 51.36;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35257;30;35257;;;;;;;;;;;;;;;;;;;;
+157698;DSM 103250;Escherichia;Escherichia coli;PTC E050;0;Escherichia coli;20215;;;LB (Luria-Bertani) MEDIUM (DSMZ Medium 381);64267;37;64267;;;;;;;;;;;;;;;;;chicken;64267;;
+135974;CIP 101838;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35267;37;35267;;;;;;;;;;;;;;;;;;35267;;
+135994;CIP A266;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35288;30;35288;;;;;;;;;;;;;;;;;;;;
+135995;CIP 51.7;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35289;30;35289;;;;;;;;;;;;;;;;;;;;
+135997;CIP 51.8;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35291;30;35291;;;;;;;;;;;;;;;;;;;;
+134469;CIP 110604;Escherichia;Escherichia coli;2011/09990;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;32810;30;32810;;;;;;;;;;;;;;;;;;32810;;
+136135;CIP 52.173;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35441;30;35441;;;;;;;;;;;;;;;;;;;;
+134470;CIP 110601;Escherichia;Escherichia coli;2012/00466;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;32811;30;32811;;;;;;;;;;;;;;;;;;32811;;
+136136;CIP 52.174;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35442;30;35442;;;;;;;;;;;;;;;;;;;;
+134487;CIP 105778;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;32840;30;32840;;;;;;;;;;;;;;;;;;32840;;
+136210;CIP 103476, ATCC 47008;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35552;30;35552;;;;;;;;;;;;;;;;;;;;
+134524;CIP 106000;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;32906;30;32906;;;;;;;;;;;;;;;;;;32906;;
+136215;CIP 110352;Escherichia;Escherichia coli;2011/05536;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;35561;30;35561;;;;;;;;;;;;;;;;;;;;
+134531;CIP 106001;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;32920;30;32920;;;;;;;;;;;;;;;;;;32920;;
+136240;CIP 53.38;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35588;30;35588;;;;;;;;;;;;;;;;;;;;
+134533;CIP 106017;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;32922;30;32922;;;;;;;;;;;;;;;;;;32922;;
+136241;CIP 103931;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35590;30;35590;;;;;;;;;;;;;;;;;;;;
+134535;CIP 106027;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;32924;30;32924;;;;;;;;;;;;;;;;;;32924;;
+136248;CIP 103982;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;35598;30;35598;;;;;;;;;;;;;;;;;;35598;;
+134536;CIP 106028;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;32925;30;32925;;;;;;;;;;;;;;;;;;32925;;
+136249;CIP 103984;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35599;30;35599;;;;;;;;;;;;;;;;;;35599;;
+134537;CIP 106029;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;32926;30;32926;;;;;;;;;;;;;;;;;;32926;;
+136257;CIP 104049;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35608;30;35608;;;;;;;;;;;;;;;;;;;;
+134538;CIP 106037;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;32927;30;32927;;;;;;;;;;;;;;;;;;32927;;
+136261;CIP 104046;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35614;30;35614;;;;;;;;;;;;;;;;;;;;
+134539;CIP 106038;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;32928;30;32928;;;;;;;;;;;;;;;;;;32928;;
+136262;CIP 104047;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35615;30;35615;;;;;;;;;;;;;;;;;;;;
+134540;CIP 106039;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;32929;30;32929;;;;;;;;;;;;;;;;;;32929;;
+136318;CIP 104525;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35689;30;35689;;;;;;;;;;;;;;;;;;;;
+134541;CIP 106050;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;32931;30;32931;;;;;;;;;;;;;;;;;;32931;;
+136333;CIP 104667;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35716;30;35716;;;;;;;;;;;;;;;;;;;;
+134542;CIP 106051;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;32932;30;32932;;;;;;;;;;;;;;;;;;32932;;
+136356;CIP 104886;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35748;30;35748;;;;;;;;;;;;;;;;;;;;
+134572;CIP 106530;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;32981;30;32981;;;;;;;;;;;;;;;;;;32981;;
+136977;CIP 109113;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 9 - Brain heart infusion BHI;36781;30;36781;;;;;;;;;;;;;;;;;;;;
+134633;CIP 107191;Escherichia;Escherichia coli;TW 00947, C585-65;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;33092;30;33092;;;;;;;;;;;;;;;;;;33092;;
+136978;CIP 109114;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 9 - Brain heart infusion BHI;36782;30;36782;;;;;;;;;;;;;;;;;;;;
+134667;CIP 55.58;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;33153;30;33153;;;;;;;;;;;;;;;;;;33153;;
+137009;CIP 109776, CGSC 5073;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;36832;37;36832;;;;;;;;;;;;;;;;;;;;
+134697;CIP 108662;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;33261;30;33261;;;;;;;;;;;;;;;;;;;;
+137014;CIP 109842;Escherichia;Escherichia coli;669 CH;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;36840;30;36840;;;;;;;;;;;;;;;;;;;;
+134715;CIP 110349;Escherichia;Escherichia coli;2011/03677;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;33356;30;33356;;;;;;;;;;;;;;;;;;;;
+137084;CIP 52.175;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;36935;30;36935;;;;;;;;;;;;;;;;;;;;
+134804;CIP A172;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;33452;30;33452;;;;;;;;;;;;;;;;;;;;
+137094;CIP 110353;Escherichia;Escherichia coli;2011/05537;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;36949;30;36949;;;;;;;;;;;;;;;;;;;;
+134827;CIP 71.6;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;33478;30;33478;;;;;;;;;;;;;;;;;;;;
+137095;CIP 110356;Escherichia;Escherichia coli;P11-4623, 2011/06189;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;36950;30;36950;;;;;;;;;;;;;;;;;;;;
+134840;CIP 75.14;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;33496;30;33496;;;;;;;;;;;;;;;;;;33496;;
+137130;CIP 70.59;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;36988;30;36988;;;;;;;;;;;;;;;;;;;;
+134855;CIP A224;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;33511;30;33511;;;;;;;;;;;;;;;;;;33511;;
+137134;CIP 110350;Escherichia;Escherichia coli;2011/03798;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;36992;30;36992;;;;;;;;;;;;;;;;;;;;
+134867;CIP 79.6;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;33524;30;33524;;;;;;;;;;;;;;;;;;;;
+137165;CIP 53.37;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;37032;30;37032;;;;;;;;;;;;;;;;;;;;
+134878;CIP 81.85;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;33537;30;33537;;;;;;;;;;;;;;;;;;33537;;
+137168;CIP 53.39;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;37035;30;37035;;;;;;;;;;;;;;;;;;;;
+134892;CIP 52.169;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;33552;30;33552;;;;;;;;;;;;;;;;;;;;
+137171;CIP 103983;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;37039;30;37039;;;;;;;;;;;;;;;;;;37039;;
+135736;CIP 100631;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34941;30;34941;;;;;;;;;;;;;;;;;;;;
+137172;CIP 104050;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;37041;30;37041;;;;;;;;;;;;;;;;;;;;
+135749;CIP 108663;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;34963;30;34963;;;;;;;;;;;;;;;;;;;;
+137177;CIP 105656, NCTC 50146;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;37051;30;37051;;;;;;;;;;;;;;;;;;;;
+135769;CIP 61.12, NCTC 9707;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35007;30;35007;;;;;;;;;;;;;;;;;;;GCA_900450255;66792
+135769;CIP 61.12, NCTC 9707;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34324;66792
+137243;CIP 110348;Escherichia;Escherichia coli;2009/07901;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;37141;30;37141;;;;;;;;;;;;;;;;;;;;
+135802;CIP 79.49;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35049;30;35049;;;;;;;;;;;;;;;;;;;;
+137255;CIP 104022;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;37158;30;37158;;;;;;;;;;;;;;;;;;;;
+135803;CIP 79.50;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35050;30;35050;;;;;;;;;;;;;;;;;;;;
+137298;CIP 105601;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;37213;30;37213;;;;;;;;;;;;;;;;;;;;
+135808;CIP A246;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35055;25;35055;;;;;;;;;;;;;;;;;;;;
+137311;CIP 106123;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;37232;30;37232;;;;;;;;;;;;;;;;;;;;
+135811;CIP A247;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35059;30;35059;;;;;;;;;;;;;;;;;;;;
+137312;CIP 106124;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;37233;30;37233;;;;;;;;;;;;;;;;;;;;
+135831;CIP 51.37;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35081;30;35081;;;;;;;;;;;;;;;;;;;;
+137553;CIP 107201, CDC 5430-66;Escherichia;Escherichia coli;TW 00074;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;38189;30;38189;;;;;;;;;;;;;;;;;;38189;;
+135873;CIP 103717;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35128;30;35128;;;;;;;;;;;;;;;;;;;;
+141537;CCUG 2716;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;44585;;
+135877;CIP 103740, ATCC 13473;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35133;30;35133;;;;;;;;;;;;;;;;;;;;
+141541;CCUG 2823;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;Human;44590;;
+135878;CIP 53.29, ATCC 19413, NCTC 1601;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35135;30;35135;;;;;;;;;;;;;;;;;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;sorbitol;68374;indole;0;68374;indole;68374;L-aspartate arylamidase;-;68374;Human wound;44849;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;cellobiose;68374;acetoin;0;68368;acetoin;68368;alpha-maltosidase;-;68374;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68374;indole;0;68368;indole;68368;alpha-galactosidase;+;68374;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68374;hydrogen sulfide;0;68368;;;alpha-glucosidase;-;68374;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;trehalose;68374;;;;;;beta-galactosidase;+;68374;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-arabitol;68374;;;;;;N-acetyl-beta-glucosaminidase;-;68374;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68374;;;;;;beta-glucuronidase;+;68374;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68374;;;;;;beta-glucosidase;-;68374;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68374;;;;;;lipase;-;68374;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68374;;;;;;urease;-;68374;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;malonate;68374;;;;;;lysine decarboxylase;+;68374;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;palatinose;68374;;;;;;arginine dihydrolase;-;68374;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ribitol;68374;;;;;;ornithine decarboxylase;+;68374;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;maltose;68374;;;;;;cytochrome oxidase;-;68368;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68374;;;;;;gelatinase;-;68368;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;Potassium 5-ketogluconate;68374;;;;;;tryptophan deaminase;-;68368;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-galacturonic acid;68374;;;;;;urease;-;68368;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabitol;68374;;;;;;ornithine decarboxylase;+;68368;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68374;;;;;;lysine decarboxylase;+;68368;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68374;;;;;;arginine dihydrolase;-;68368;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68374;;;;;;beta-galactosidase;+;68368;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68374;;;;;;;;;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68368;;;;;;;;;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;amygdalin;68368;;;;;;;;;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;melibiose;68368;;;;;;;;;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68368;;;;;;;;;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68368;;;;;;;;;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sorbitol;68368;;;;;;;;;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68368;;;;;;;;;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68368;;;;;;;;;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68368;;;;;;;;;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;gelatin;68368;;;;;;;;;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68368;;;;;;;;;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68368;;;;;;;;;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;citrate;68368;;;;;;;;;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68368;;;;;;;;;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68368;;;;;;;;;;;;
+141724;CCUG 5362;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68368;;;;;;;;;;;;
+135880;CIP 53.30, NCTC 5379;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35137;30;35137;;;;;;;;;;;;;;;;;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;sorbitol;68374;indole;1;68374;indole;68374;L-aspartate arylamidase;-;68374;Human feces;44910;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;cellobiose;68374;acetoin;0;68368;acetoin;68368;alpha-maltosidase;-;68374;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68374;indole;1;68368;indole;68368;alpha-galactosidase;+;68374;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68374;hydrogen sulfide;1;68368;;;alpha-glucosidase;-;68374;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;trehalose;68374;;;;;;beta-galactosidase;-;68374;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-arabitol;68374;;;;;;N-acetyl-beta-glucosaminidase;-;68374;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68374;;;;;;beta-glucuronidase;+;68374;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68374;;;;;;beta-glucosidase;-;68374;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68374;;;;;;lipase;-;68374;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68374;;;;;;urease;-;68374;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;malonate;68374;;;;;;lysine decarboxylase;+;68374;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;palatinose;68374;;;;;;arginine dihydrolase;-;68374;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ribitol;68374;;;;;;ornithine decarboxylase;-;68374;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;maltose;68374;;;;;;gelatinase;-;68368;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68374;;;;;;tryptophan deaminase;-;68368;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;Potassium 5-ketogluconate;68374;;;;;;urease;-;68368;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-galacturonic acid;68374;;;;;;ornithine decarboxylase;-;68368;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabitol;68374;;;;;;lysine decarboxylase;+;68368;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68374;;;;;;arginine dihydrolase;-;68368;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68374;;;;;;beta-galactosidase;-;68368;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68374;;;;;;;;;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68374;;;;;;;;;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68368;;;;;;;;;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;amygdalin;68368;;;;;;;;;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;melibiose;68368;;;;;;;;;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68368;;;;;;;;;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68368;;;;;;;;;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sorbitol;68368;;;;;;;;;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68368;;;;;;;;;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68368;;;;;;;;;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68368;;;;;;;;;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;gelatin;68368;;;;;;;;;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68368;;;;;;;;;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68368;;;;;;;;;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;citrate;68368;;;;;;;;;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68368;;;;;;;;;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68368;;;;;;;;;;;;
+141768;CCUG 6549;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68368;;;;;;;;;;;;
+135882;CIP 53.31;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35139;30;35139;;;;;;;;;;;;;;;;;;;;
+143499;CCUG 19551 A;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;Human;47035;;
+135887;CIP 53.32;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35144;30;35144;;;;;;;;;;;;;;;;;;;;
+146474;CCUG 31246;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;Human urine;50496;;
+135914;CIP 105648, NCTC 50137;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35189;30;35189;;;;;;;;;;;;;;;;;;;;
+146475;CCUG 31247;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;Human urine;50497;;
+135915;CIP 105698;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35190;30;35190;;;;;;;;;;;;;;;;;;35190;;
+146476;CCUG 31248;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;Human urine;50498;;
+135917;CIP 105866;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35193;30;35193;;;;;;;;;;;;;;;;;;;;
+146477;CCUG 31249;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;Human urine;50499;;
+135920;CIP 105998;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35196;30;35196;;;;;;;;;;;;;;;;;;35196;;
+136733;CIP 106328, ATCC 51657;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;36260;30;36260;;;;;;;;;;;;;;;;;;36260;;
+135671;CIP 70.68, ATCC 25256;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34851;30;34851;;;;;;;;;;;;;;;;;;;;
+136917;CIP 107983;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;36666;30;36666;;;;;;;;;;;;;;;;;;;;
+135687;CIP 74.14;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;34867;30;34867;;;;;;;;;;;;;;;;;;;;
+136931;CIP 108105;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;36687;30;36687;;;;;;;;;;;;;;;;;;36687;;
+135692;CIP 75.18;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34872;30;34872;;;;;;;;;;;;;;;;;;;;
+136945;CIP 108384;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;36727;30;36727;;;;;;;;;;;;;;;;;;;;
+135709;CIP 81.88;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34890;30;34890;;;;;;;;;;;;;;;;;;;;
+137145;CIP 74.28;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;37009;30;37009;;;;;;;;;;;;;;;;;;;;
+135888;CIP 53.33;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35146;30;35146;;;;;;;;;;;;;;;;;;;;
+137395;CIP 108383;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;37674;25;37674;;;;;;;;;;;;;;;;;;;;
+135889;CIP 103809;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35147;30;35147;;;;;;;;;;;;;;;;;;;;
+137412;CIP 107485;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;37893;30;37893;;;;;;;;;;;;;;;;;;;;
+135891;CIP 53.40;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35150;30;35150;;;;;;;;;;;;;;;;;;;;
+137413;CIP 107486;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;37894;30;37894;;;;;;;;;;;;;;;;;;;;
+136264;CIP 104048, CCUG 42942;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35617;30;35617;;;aerobe;55616;;;sorbitol;68374;indole;1;68374;indole;68374;L-aspartate arylamidase;-;68374;;;;
+136264;CIP 104048, CCUG 42942;Escherichia;Escherichia coli;;0;;;;;;;30;55616;;;;;;;cellobiose;68374;;;;;;alpha-maltosidase;-;68374;;;;
+136264;CIP 104048, CCUG 42942;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68374;;;;;;alpha-galactosidase;+;68374;;;;
+136264;CIP 104048, CCUG 42942;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68374;;;;;;alpha-glucosidase;-;68374;;;;
+136264;CIP 104048, CCUG 42942;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;trehalose;68374;;;;;;beta-galactosidase;-;68374;;;;
+136264;CIP 104048, CCUG 42942;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-arabitol;68374;;;;;;N-acetyl-beta-glucosaminidase;-;68374;;;;
+136264;CIP 104048, CCUG 42942;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68374;;;;;;beta-glucuronidase;+;68374;;;;
+136264;CIP 104048, CCUG 42942;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68374;;;;;;beta-glucosidase;-;68374;;;;
+136264;CIP 104048, CCUG 42942;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68374;;;;;;lipase;-;68374;;;;
+136264;CIP 104048, CCUG 42942;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68374;;;;;;urease;-;68374;;;;
+136264;CIP 104048, CCUG 42942;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;malonate;68374;;;;;;lysine decarboxylase;-;68374;;;;
+136264;CIP 104048, CCUG 42942;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;palatinose;68374;;;;;;arginine dihydrolase;-;68374;;;;
+136264;CIP 104048, CCUG 42942;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ribitol;68374;;;;;;ornithine decarboxylase;-;68374;;;;
+136264;CIP 104048, CCUG 42942;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;maltose;68374;;;;;;;;;;;;
+136264;CIP 104048, CCUG 42942;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68374;;;;;;;;;;;;
+136264;CIP 104048, CCUG 42942;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;Potassium 5-ketogluconate;68374;;;;;;;;;;;;
+136264;CIP 104048, CCUG 42942;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-galacturonic acid;68374;;;;;;;;;;;;
+136264;CIP 104048, CCUG 42942;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabitol;68374;;;;;;;;;;;;
+136264;CIP 104048, CCUG 42942;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68374;;;;;;;;;;;;
+136264;CIP 104048, CCUG 42942;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68374;;;;;;;;;;;;
+136264;CIP 104048, CCUG 42942;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68374;;;;;;;;;;;;
+136264;CIP 104048, CCUG 42942;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68374;;;;;;;;;;;;
+137430;CIP 105217;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;37945;30;37945;;;;;;;;;;;;;;;;;;37945;;
+136388;CIP 105167;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35784;30;35784;;;;;;;;;;;;;;;;;;;;
+137456;CIP 55.117;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;37989;30;37989;;;;;;;;;;;;;;;;;;;;
+136393;CIP 105186, NCTC 8007, CCUG 42878;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35789;30;35789;;;;;;;sorbitol;68374;indole;1;68374;indole;68374;L-aspartate arylamidase;-;68374;Human,infantile gastro-enteritis;55589;GCA_900449735;66792
+136393;CIP 105186, NCTC 8007, CCUG 42878;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;cellobiose;68374;;;;;;alpha-maltosidase;-;68374;;;562.34277;66792
+136393;CIP 105186, NCTC 8007, CCUG 42878;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68374;;;;;;alpha-galactosidase;+;68374;;;;
+136393;CIP 105186, NCTC 8007, CCUG 42878;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68374;;;;;;alpha-glucosidase;-;68374;;;;
+136393;CIP 105186, NCTC 8007, CCUG 42878;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;trehalose;68374;;;;;;beta-galactosidase;+;68374;;;;
+136393;CIP 105186, NCTC 8007, CCUG 42878;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-arabitol;68374;;;;;;N-acetyl-beta-glucosaminidase;-;68374;;;;
+136393;CIP 105186, NCTC 8007, CCUG 42878;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68374;;;;;;beta-glucuronidase;+;68374;;;;
+136393;CIP 105186, NCTC 8007, CCUG 42878;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68374;;;;;;beta-glucosidase;-;68374;;;;
+136393;CIP 105186, NCTC 8007, CCUG 42878;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68374;;;;;;lipase;-;68374;;;;
+136393;CIP 105186, NCTC 8007, CCUG 42878;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68374;;;;;;urease;-;68374;;;;
+136393;CIP 105186, NCTC 8007, CCUG 42878;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;malonate;68374;;;;;;lysine decarboxylase;+;68374;;;;
+136393;CIP 105186, NCTC 8007, CCUG 42878;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;palatinose;68374;;;;;;arginine dihydrolase;-;68374;;;;
+136393;CIP 105186, NCTC 8007, CCUG 42878;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ribitol;68374;;;;;;ornithine decarboxylase;+;68374;;;;
+136393;CIP 105186, NCTC 8007, CCUG 42878;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;maltose;68374;;;;;;;;;;;;
+136393;CIP 105186, NCTC 8007, CCUG 42878;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68374;;;;;;;;;;;;
+136393;CIP 105186, NCTC 8007, CCUG 42878;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;Potassium 5-ketogluconate;68374;;;;;;;;;;;;
+136393;CIP 105186, NCTC 8007, CCUG 42878;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-galacturonic acid;68374;;;;;;;;;;;;
+136393;CIP 105186, NCTC 8007, CCUG 42878;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabitol;68374;;;;;;;;;;;;
+136393;CIP 105186, NCTC 8007, CCUG 42878;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68374;;;;;;;;;;;;
+136393;CIP 105186, NCTC 8007, CCUG 42878;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68374;;;;;;;;;;;;
+136393;CIP 105186, NCTC 8007, CCUG 42878;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68374;;;;;;;;;;;;
+136393;CIP 105186, NCTC 8007, CCUG 42878;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68374;;;;;;;;;;;;
+141350;CCUG 1164;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;Human urine,62-yr-old woman;44320;;
+136397;CIP 105239;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35795;30;35795;;;;;;;;;;;;;;;;;;35795;;
+136422;CIP 105537;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35840;30;35840;;;;;;;;;;;;;;;;;;;;
+136430;CIP 105636;Escherichia;Escherichia coli;JJC 276, PAP 6154;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35849;30;35849;;;;;;;;;;;;;;;;;;;;
+136431;CIP 105653, NCTC 50143;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35850;30;35850;;;;;;;;;;;;;;;;;;;;
+134398;CIP 107904;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;32687;30;32687;;;;;;;;;;;;;;;;;;;;
+136432;CIP 105654, NCTC 50144;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35851;30;35851;;;;;;;;;;;;;;;;;;;;
+134399;CIP 107905;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;32688;30;32688;;;;;;;;;;;;;;;;;;;;
+136544;CIP 107071;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;35972;30;35972;;;;;;;;;;;;;;;;;;35972;;
+134451;CIP 107680, ATCC 700078;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;32777;30;32777;;;;;;;;;;;;;;;;;;;;
+136566;CIP 54.156, ATCC 12407, NCIMB 9485;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;36005;30;36005;;;;;;;;;;;;;;;;;;;;
+134454;CIP 106531;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;32782;30;32782;;;;;;;;;;;;;;;;;;32782;;
+136578;CIP 107032;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;36019;30;36019;;;;;;;;;;;;;;;;;;36019;;
+134458;CIP 110603;Escherichia;Escherichia coli;2011/09941;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;32793;30;32793;;;;;;;;;;;;;;;;;;32793;;
+136579;CIP 107033;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;36020;30;36020;;;;;;;;;;;;;;;;;;36020;;
+134528;CIP 105986;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;32917;30;32917;;;;;;;;;;;;;;;;;;32917;;
+136580;CIP 107034;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;36021;30;36021;;;;;;;;;;;;;;;;;;36021;;
+134530;CIP 105987;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;32919;30;32919;;;;;;;;;;;;;;;;;;32919;;
+136589;CIP 81.87;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;36035;30;36035;;;;;;;;;;;;;;;;;;;;
+134916;CIP 110600;Escherichia;Escherichia coli;2012/0465;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;33583;30;33583;;;;;;;;;;;;;;;;;;33583;;
+136612;CIP 105183, NCTC 9708, CCUG 11427;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;36076;30;36076;;;;;;;;;;;;;;;;;;36076;GCA_900448385;66792
+136612;CIP 105183, NCTC 9708, CCUG 11427;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34159;66792
+134940;CIP 102766;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;33617;30;33617;;;;;;;;;;;;;;;;;;33617;;
+136629;CIP 107200;Escherichia;Escherichia coli;TW 03996, C 916-70;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;36102;30;36102;;;;;;;;;;;;;;;;;;36102;;
+134972;CIP 107199, CDC 3350-73;Escherichia;Escherichia coli;TW 00676;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;33666;30;33666;;;;;;;;;;;;;;;;;;33666;;
+136632;CIP 107187, CDC 572-56;Escherichia;Escherichia coli;TW00588;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;36106;30;36106;;;;;;;;;;;;;;;;;;36106;;
+134974;CIP 107192, CDC 5338-66;Escherichia;Escherichia coli;TW 00073;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;33677;30;33677;;;;;;;;;;;;;;;;;;33677;;
+136633;CIP 107188, CDC 3787-62;Escherichia;Escherichia coli;TW 00460;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;36107;30;36107;;;;;;;;;;;;;;;;;;36107;;
+134976;CIP 107195, CDC 3323-61;Escherichia;Escherichia coli;TW 01206;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;33680;30;33680;;;;;;;;;;;;;;;;;;33680;;
+136646;CIP 107305;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;36122;30;36122;;;;;;;;;;;;;;;;;;;;
+134977;CIP 107197, CDC 2254-75;Escherichia;Escherichia coli;TW 00664;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;33682;30;33682;;;;;;;;;;;;;;;;;;33682;;
+136660;CIP 107458;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;36139;30;36139;;;;;;;;;;;;;;;;;;36139;;
+134978;CIP 107198;Escherichia;Escherichia coli;F1-50, TW 01277;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;33683;30;33683;;;;;;;;;;;;;;;;;;33683;;
+136666;CIP 107484;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;36147;30;36147;;;;;;;;;;;;;;;;;;;;
+134984;CIP 107219;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;33690;30;33690;;;;;;;;;;;;;;;;;;33690;;
+136686;CIP 55.55;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;36172;30;36172;;;;;;;;;;;;;;;;;;36172;;
+135186;CIP 105646, NCTC 50135;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34152;30;34152;;;;;;;;;;;;;;;;;;;;
+136690;CIP 66.1;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;36177;30;36177;;;;;;;;;;;;;;;;;;;;
+135194;CIP 105637, NCTC 50159;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34163;30;34163;;;;;;;;;;;;;;;;;;;;
+136695;CIP pACYC184;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 639 - Medium 368 with 10 microg/ml of chloramphenicol + 10 microg/ml of tetracycline;36190;0;36190;;;;;;;;;;;;;;;;;;;;
+135195;CIP 105638, NCTC 50142;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34164;30;34164;;;;;;;;;;;;;;;;;;;;
+136699;CIP pAT18;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 642 - Medium 368 with 150 microg/ml of erythromycin;36197;37;36197;;;;;;;;;;;;;;;;;;;;
+135196;CIP 105639, NCTC 50155;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34165;30;34165;;;;;;;;;;;;;;;;;;;;
+136705;CIP MIP231;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 633 - for Cellulomonas bogoriensis;36218;30;36218;;;;;;;;;;;;;;;;;;;;
+135197;CIP 105640, NCTC 50132;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;34166;30;34166;;;;;;;;;;;;;;;;;;;;
+136706;CIP pACYC177;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 640 - Medium 368 with 100 microg/ml of ampicillin + 25 microg/ml of kanamycin;36219;30;36219;;;;;;;;;;;;;;;;;;;;
+135198;CIP 105645, NCTC 50134;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34167;30;34167;;;;;;;;;;;;;;;;;;;;
+136707;CIP pAT101;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 638 - Medium 368 with 100 microg/ml of ampicillin;36220;30;36220;;;;;;;;;;;;;;;;;;;;
+135199;CIP 105647, NCTC 50136;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34168;30;34168;;;;;;;;;;;;;;;;;;;;
+136708;CIP pAT104;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 638 - Medium 368 with 100 microg/ml of ampicillin;36221;30;36221;;;;;;;;;;;;;;;;;;;;
+135200;CIP 105649, NCTC 50138;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34169;30;34169;;;;;;;;;;;;;;;;;;;;
+136709;CIP pAT105;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 638 - Medium 368 with 100 microg/ml of ampicillin;36222;30;36222;;;;;;;;;;;;;;;;;;;;
+135209;CIP 106239;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;34178;37;34178;;;;;;;;;;;;;;;;;;;;
+136710;CIP pAT112;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 641 - Medium 368 with 150 microg/ml of erythromycin + 50 microg/ml of kanamycin;36223;30;36223;;;;;;;;;;;;;;;;;;;;
+135216;CIP 54.118, NCIMB 10084;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34185;30;34185;;;;;;;;;;;;;;;;;;;;
+136711;CIP pAT114;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 641 - Medium 368 with 150 microg/ml of erythromycin + 50 microg/ml of kanamycin;36224;30;36224;;;;;;;;;;;;;;;;;;;;
+135262;CIP 53.4;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34306;30;34306;;;;;;;;;;;;;;;;;;34306;;
+136712;CIP pAT113;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 641 - Medium 368 with 150 microg/ml of erythromycin + 50 microg/ml of kanamycin;36225;30;36225;;;;;;;;;;;;;;;;;;;;
+135281;CIP 107193;Escherichia;Escherichia coli;TW 00601, 750001;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;34350;30;34350;;;;;;;;;;;;;;;;;;34350;;
+136714;CIP pAT16;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 638 - Medium 368 with 100 microg/ml of ampicillin;36227;30;36227;;;;;;;;;;;;;;;;;;;;
+135354;CIP 103985;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34451;30;34451;;;;;;;;;;;;;;;;;;34451;;
+136715;CIP pAT121;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 643 - Medium 368 with 10 microg/ml of tetracycline + 100 microg/ml of ampicillin;36228;30;36228;;;;;;;;;;;;;;;;;;;;
+135408;CIP 52.172;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;34519;30;34519;;;;;;;;;;;;;;;;;;;;
+136716;CIP pAT240;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 638 - Medium 368 with 100 microg/ml of ampicillin;36229;30;36229;;;;;;;;;;;;;;;;;;;;
+135410;CIP 104103;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34522;30;34522;;;;;;;;;;;;;;;;;;34522;;
+136717;CIP pAT271;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 638 - Medium 368 with 100 microg/ml of ampicillin;36230;30;36230;;;;;;;;;;;;;;;;;;;;
+135442;CIP 106031;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34562;30;34562;;;;;;;;;;;;;;;;;;34562;;
+136718;CIP pAT272;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 638 - Medium 368 with 100 microg/ml of ampicillin;36231;30;36231;;;;;;;;;;;;;;;;;;;;
+135460;CIP A223;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34582;30;34582;;;;;;;;;;;;;;;;;;34582;;
+136719;CIP pAT273;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 638 - Medium 368 with 100 microg/ml of ampicillin;36232;30;36232;;;;;;;;;;;;;;;;;;;;
+135478;CIP 105184, NCTC 10674, CCUG 11441, CNCTC EcK 198/59;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34606;30;34606;;;;;;;;;;;;;;;;;Swine oedema disease;45559;GCA_900450005;66792
+135478;CIP 105184, NCTC 10674, CCUG 11441, CNCTC EcK 198/59;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34302;66792
+136720;CIP pAT19;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 642 - Medium 368 with 150 microg/ml of erythromycin;36233;30;36233;;;;;;;;;;;;;;;;;;;;
+135583;CIP 56.13;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34756;30;34756;;;;;;;;;;;;;;;;;;;;
+136723;CIP pIP1645;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;36236;37;36236;;;;;;;;;;;;;;;;;;;;
+135628;CIP 62.20;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34804;30;34804;;;;;;;;;;;;;;;;;;;;
+136724;CIP pUC-TMD;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;36237;37;36237;;;;;;;;;;;;;;;;;;;;
+135629;CIP 62.22, NCTC 9855;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34805;30;34805;;;;;;;;;;;;;;;;;;;GCA_900449155;66792
+135629;CIP 62.22, NCTC 9855;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34229;66792
+136725;CIP pUC18;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 638 - Medium 368 with 100 microg/ml of ampicillin;36238;37;36238;;;;;;;;;;;;;;;;;;;;
+135630;CIP 62.23, NCTC 9119, CCUG 11420;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34806;30;34806;;;;;;;;;;;;;;;;;;;GCA_900450445;66792
+135630;CIP 62.23, NCTC 9119, CCUG 11420;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34339;66792
+136726;CIP pUC-LMA;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;36239;37;36239;;;;;;;;;;;;;;;;;;;;
+135640;CIP 63.70;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34818;30;34818;;;;;;;;;;;;;;;;;;;;
+142214;CCUG 11354;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138270;CIP 105903;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;39395;30;39395;;;;;;;;;;;;;;;;;;39395;;
+142215;CCUG 11355;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138282;CIP 105989;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39417;30;39417;;;;;;;;;;;;;;;;;;39417;;
+142216;CCUG 11356;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138283;CIP 105990;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39418;30;39418;;;;;;;;;;;;;;;;;;39418;;
+142236;CCUG 11376, ATCC 23535, NCTC 9074;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;sorbitol;68374;indole;1;68374;indole;68374;L-aspartate arylamidase;-;68374;;;;
+142236;CCUG 11376, ATCC 23535, NCTC 9074;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;cellobiose;68374;;;;;;alpha-maltosidase;-;68374;;;;
+142236;CCUG 11376, ATCC 23535, NCTC 9074;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68374;;;;;;alpha-galactosidase;-;68374;;;;
+142236;CCUG 11376, ATCC 23535, NCTC 9074;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68374;;;;;;alpha-glucosidase;-;68374;;;;
+142236;CCUG 11376, ATCC 23535, NCTC 9074;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;trehalose;68374;;;;;;beta-galactosidase;-;68374;;;;
+142236;CCUG 11376, ATCC 23535, NCTC 9074;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-arabitol;68374;;;;;;N-acetyl-beta-glucosaminidase;-;68374;;;;
+142236;CCUG 11376, ATCC 23535, NCTC 9074;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68374;;;;;;beta-glucuronidase;+;68374;;;;
+142236;CCUG 11376, ATCC 23535, NCTC 9074;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68374;;;;;;beta-glucosidase;-;68374;;;;
+142236;CCUG 11376, ATCC 23535, NCTC 9074;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68374;;;;;;lipase;-;68374;;;;
+142236;CCUG 11376, ATCC 23535, NCTC 9074;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68374;;;;;;urease;-;68374;;;;
+142236;CCUG 11376, ATCC 23535, NCTC 9074;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;malonate;68374;;;;;;lysine decarboxylase;-;68374;;;;
+142236;CCUG 11376, ATCC 23535, NCTC 9074;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;palatinose;68374;;;;;;arginine dihydrolase;-;68374;;;;
+142236;CCUG 11376, ATCC 23535, NCTC 9074;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ribitol;68374;;;;;;ornithine decarboxylase;-;68374;;;;
+142236;CCUG 11376, ATCC 23535, NCTC 9074;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;maltose;68374;;;;;;;;;;;;
+142236;CCUG 11376, ATCC 23535, NCTC 9074;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68374;;;;;;;;;;;;
+142236;CCUG 11376, ATCC 23535, NCTC 9074;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;Potassium 5-ketogluconate;68374;;;;;;;;;;;;
+142236;CCUG 11376, ATCC 23535, NCTC 9074;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-galacturonic acid;68374;;;;;;;;;;;;
+142236;CCUG 11376, ATCC 23535, NCTC 9074;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabitol;68374;;;;;;;;;;;;
+142236;CCUG 11376, ATCC 23535, NCTC 9074;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68374;;;;;;;;;;;;
+142236;CCUG 11376, ATCC 23535, NCTC 9074;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68374;;;;;;;;;;;;
+142236;CCUG 11376, ATCC 23535, NCTC 9074;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68374;;;;;;;;;;;;
+142236;CCUG 11376, ATCC 23535, NCTC 9074;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68374;;;;;;;;;;;;
+138284;CIP 105991;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39419;30;39419;;;;;;;;;;;;;;;;;;39419;;
+142237;CCUG 11377, NCTC 9075;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900449925;66792
+142237;CCUG 11377, NCTC 9075;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34294;66792
+138285;CIP 105993;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39420;30;39420;;;;;;;;;;;;;;;;;;39420;;
+142238;CCUG 11378, ATCC 23536, NCTC 9076;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900449265;66792
+142238;CCUG 11378, ATCC 23536, NCTC 9076;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.3424;66792
+138286;CIP 105994;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39421;30;39421;;;;;;;;;;;;;;;;;;39421;;
+142239;CCUG 11379, ATCC 23537, NCTC 9077;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900449385;66792
+142239;CCUG 11379, ATCC 23537, NCTC 9077;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34249;66792
+138287;CIP 105995;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39422;30;39422;;;;;;;;;;;;;;;;;;39422;;
+142240;CCUG 11381;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138288;CIP 105996;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39423;30;39423;;;;;;;;;;;;;;;;;;39423;;
+142241;CCUG 11382, NCTC 9080;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900636595;66792
+142241;CCUG 11382, NCTC 9080;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.39543;66792
+138290;CIP 105997;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39425;30;39425;;;;;;;;;;;;;;;;;;39425;;
+142242;CCUG 11383, ATCC 23979, NCTC 9081;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900449405;66792
+142242;CCUG 11383, ATCC 23979, NCTC 9081;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34252;66792
+138291;CIP 106002;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39426;30;39426;;;;;;;;;;;;;;;;;;39426;;
+142280;CCUG 11423;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138292;CIP 106003;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39427;30;39427;;;;;;;;;;;;;;;;;;39427;;
+138293;CIP 106004;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39428;30;39428;;;;;;;;;;;;;;;;;;39428;;
+138294;CIP 106006;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39429;30;39429;;;;;;;;;;;;;;;;;;39429;;
+138296;CIP 106007;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39431;30;39431;;;;;;;;;;;;;;;;;;39431;;
+131713;DSM 103538, ATCC 700928;Escherichia;Escherichia coli;CFT073;0;Escherichia coli;20215;;;TRYPTICASE SOY YEAST EXTRACT MEDIUM (DSMZ Medium 92);23509;37;23509;;;;;;;nitrate;68368;dinitrogen;0;68368;indole;68368;gelatinase;-;68368;Human clinical specimen - blood and urine from a woman with acute pyelonephritis;23509;;
+131713;DSM 103538, ATCC 700928;Escherichia;Escherichia coli;CFT073;0;;;;;LB (Luria-Bertani) MEDIUM (DSMZ Medium 381);23509;;;;;;;;;L-arabinose;68368;nitrite;1;68368;;;tryptophan deaminase;-;68368;;;;
+131713;DSM 103538, ATCC 700928;Escherichia;Escherichia coli;CFT073;0;;;;;;;;;;;;;;;amygdalin;68368;indole;1;68368;;;urease;-;68368;;;;
+131713;DSM 103538, ATCC 700928;Escherichia;Escherichia coli;CFT073;0;;;;;;;;;;;;;;;melibiose;68368;hydrogen sulfide;0;68368;;;ornithine decarboxylase;+;68368;;;;
+131713;DSM 103538, ATCC 700928;Escherichia;Escherichia coli;CFT073;0;;;;;;;;;;;;;;;sucrose;68368;;;;;;lysine decarboxylase;+;68368;;;;
+131713;DSM 103538, ATCC 700928;Escherichia;Escherichia coli;CFT073;0;;;;;;;;;;;;;;;L-rhamnose;68368;;;;;;;;;;;;
+131713;DSM 103538, ATCC 700928;Escherichia;Escherichia coli;CFT073;0;;;;;;;;;;;;;;;sorbitol;68368;;;;;;;;;;;;
+131713;DSM 103538, ATCC 700928;Escherichia;Escherichia coli;CFT073;0;;;;;;;;;;;;;;;myo-inositol;68368;;;;;;;;;;;;
+131713;DSM 103538, ATCC 700928;Escherichia;Escherichia coli;CFT073;0;;;;;;;;;;;;;;;D-mannitol;68368;;;;;;;;;;;;
+131713;DSM 103538, ATCC 700928;Escherichia;Escherichia coli;CFT073;0;;;;;;;;;;;;;;;D-glucose;68368;;;;;;;;;;;;
+131713;DSM 103538, ATCC 700928;Escherichia;Escherichia coli;CFT073;0;;;;;;;;;;;;;;;gelatin;68368;;;;;;;;;;;;
+131713;DSM 103538, ATCC 700928;Escherichia;Escherichia coli;CFT073;0;;;;;;;;;;;;;;;tryptophan;68368;;;;;;;;;;;;
+131713;DSM 103538, ATCC 700928;Escherichia;Escherichia coli;CFT073;0;;;;;;;;;;;;;;;urea;68368;;;;;;;;;;;;
+131713;DSM 103538, ATCC 700928;Escherichia;Escherichia coli;CFT073;0;;;;;;;;;;;;;;;ornithine;68368;;;;;;;;;;;;
+131713;DSM 103538, ATCC 700928;Escherichia;Escherichia coli;CFT073;0;;;;;;;;;;;;;;;lysine;68368;;;;;;;;;;;;
+138297;CIP 106008;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39432;30;39432;;;;;;;;;;;;;;;;;;39432;;
+131714;DSM 103539;Escherichia;Escherichia coli;83972;0;Escherichia coli;20215;;;LB (Luria-Bertani) MEDIUM (DSMZ Medium 381);23510;37;23510;;;;;;;nitrate;68368;dinitrogen;0;68368;indole;68368;cytochrome oxidase;-;68368;Urine of Swedish school girl;23510;;
+131714;DSM 103539;Escherichia;Escherichia coli;83972;0;;;;;TRYPTICASE SOY YEAST EXTRACT MEDIUM (DSMZ Medium 92);23510;;;;;;;;;L-arabinose;68368;nitrite;1;68368;;;gelatinase;-;68368;;;;
+131714;DSM 103539;Escherichia;Escherichia coli;83972;0;;;;;;;;;;;;;;;melibiose;68368;indole;1;68368;;;tryptophan deaminase;-;68368;;;;
+131714;DSM 103539;Escherichia;Escherichia coli;83972;0;;;;;;;;;;;;;;;sucrose;68368;hydrogen sulfide;0;68368;;;urease;-;68368;;;;
+131714;DSM 103539;Escherichia;Escherichia coli;83972;0;;;;;;;;;;;;;;;L-rhamnose;68368;;;;;;ornithine decarboxylase;+;68368;;;;
+131714;DSM 103539;Escherichia;Escherichia coli;83972;0;;;;;;;;;;;;;;;sorbitol;68368;;;;;;lysine decarboxylase;+;68368;;;;
+131714;DSM 103539;Escherichia;Escherichia coli;83972;0;;;;;;;;;;;;;;;myo-inositol;68368;;;;;;beta-galactosidase;+;68368;;;;
+131714;DSM 103539;Escherichia;Escherichia coli;83972;0;;;;;;;;;;;;;;;D-mannitol;68368;;;;;;;;;;;;
+131714;DSM 103539;Escherichia;Escherichia coli;83972;0;;;;;;;;;;;;;;;D-glucose;68368;;;;;;;;;;;;
+131714;DSM 103539;Escherichia;Escherichia coli;83972;0;;;;;;;;;;;;;;;gelatin;68368;;;;;;;;;;;;
+131714;DSM 103539;Escherichia;Escherichia coli;83972;0;;;;;;;;;;;;;;;tryptophan;68368;;;;;;;;;;;;
+131714;DSM 103539;Escherichia;Escherichia coli;83972;0;;;;;;;;;;;;;;;urea;68368;;;;;;;;;;;;
+131714;DSM 103539;Escherichia;Escherichia coli;83972;0;;;;;;;;;;;;;;;citrate;68368;;;;;;;;;;;;
+131714;DSM 103539;Escherichia;Escherichia coli;83972;0;;;;;;;;;;;;;;;ornithine;68368;;;;;;;;;;;;
+131714;DSM 103539;Escherichia;Escherichia coli;83972;0;;;;;;;;;;;;;;;lysine;68368;;;;;;;;;;;;
+138298;CIP 106009;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39433;30;39433;;;;;;;;;;;;;;;;;;39433;;
+134430;CIP 105671, NCTC 50163;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;32742;30;32742;;;;;;;;;;;;;;;;;;32742;;
+138299;CIP 106011;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39434;30;39434;;;;;;;;;;;;;;;;;;39434;;
+134438;CIP 105185, NCTC 10964;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;32756;30;32756;;;;;;;;;;;;;;;;;;;;
+138300;CIP 106012;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39435;30;39435;;;;;;;;;;;;;;;;;;39435;;
+134975;CIP 107194, CDC 3030A-8b;Escherichia;Escherichia coli;TW 00186;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;33679;30;33679;;;;;;;;;;;;;;;;;;33679;;
+138301;CIP 106013;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39436;30;39436;;;;;;;;;;;;;;;;;;39436;;
+135087;CIP 108106;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;33887;30;33887;;;;;;;;;;;;;;;;;;;;
+138302;CIP 106014;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39437;30;39437;;;;;;;;;;;;;;;;;;39437;;
+135482;CIP 105992;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34611;30;34611;;;;;;;;;;;;;;;;;;34611;;
+138303;CIP 106018;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39438;30;39438;;;;;;;;;;;;;;;;;;39438;;
+135491;CIP 106918;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;34621;30;34621;;;;;;;;;;;;;;;;;;34621;;
+139315;CIP 106223;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;41456;30;41456;;;;;;;;;;;;;;;;;;;;
+135511;CIP 81.86;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34651;30;34651;;;;;;;;;;;;;;;;;;34651;;
+139392;CIP 54.125, NCTC 10537, NCIMB 9484;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;41543;30;41543;;;;;;;;;;;;;;;;;;;GCA_900636305;66792
+139392;CIP 54.125, NCTC 10537, NCIMB 9484;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.3954;66792
+135522;CIP 105241;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34668;30;34668;;;;;;;;;;;;;;;;;;34668;;
+139420;CIP 62.25;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;41584;30;41584;;;;;;;;;;;;;;;;;;;;
+135529;CIP 106010;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34676;30;34676;;;;;;;;;;;;;;;;;;34676;;
+139424;CIP 59.42;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;41588;30;41588;;;;;;;;;;;;;;;;;;;;
+135530;CIP 106044;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34678;30;34678;;;;;;;;;;;;;;;;;;34678;;
+141254;CCUG 423;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+135557;CIP 110351;Escherichia;Escherichia coli;2011/04404;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;34725;30;34725;;;;;;;;;;;;;;;;;;;;
+141658;CCUG 4488;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+135584;CIP 56.14;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34757;30;34757;;;;;;;;;;;;;;;;;;;;
+141659;CCUG 4489;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;sorbitol;68374;indole;1;68374;indole;68374;L-aspartate arylamidase;-;68374;;;;
+141659;CCUG 4489;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;cellobiose;68374;;;;;;alpha-maltosidase;+;68374;;;;
+141659;CCUG 4489;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68374;;;;;;alpha-galactosidase;+;68374;;;;
+141659;CCUG 4489;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68374;;;;;;alpha-glucosidase;-;68374;;;;
+141659;CCUG 4489;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;trehalose;68374;;;;;;beta-galactosidase;+;68374;;;;
+141659;CCUG 4489;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-arabitol;68374;;;;;;N-acetyl-beta-glucosaminidase;-;68374;;;;
+141659;CCUG 4489;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68374;;;;;;beta-glucuronidase;+;68374;;;;
+141659;CCUG 4489;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68374;;;;;;beta-glucosidase;-;68374;;;;
+141659;CCUG 4489;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68374;;;;;;lipase;-;68374;;;;
+141659;CCUG 4489;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68374;;;;;;urease;-;68374;;;;
+141659;CCUG 4489;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;malonate;68374;;;;;;lysine decarboxylase;-;68374;;;;
+141659;CCUG 4489;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;palatinose;68374;;;;;;arginine dihydrolase;-;68374;;;;
+141659;CCUG 4489;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ribitol;68374;;;;;;ornithine decarboxylase;-;68374;;;;
+141659;CCUG 4489;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;maltose;68374;;;;;;;;;;;;
+141659;CCUG 4489;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68374;;;;;;;;;;;;
+141659;CCUG 4489;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;Potassium 5-ketogluconate;68374;;;;;;;;;;;;
+141659;CCUG 4489;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-galacturonic acid;68374;;;;;;;;;;;;
+141659;CCUG 4489;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabitol;68374;;;;;;;;;;;;
+141659;CCUG 4489;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68374;;;;;;;;;;;;
+141659;CCUG 4489;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68374;;;;;;;;;;;;
+141659;CCUG 4489;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68374;;;;;;;;;;;;
+141659;CCUG 4489;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68374;;;;;;;;;;;;
+135618;CIP 60.72;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34793;30;34793;;;;;;;;;;;;;;;;;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;sorbitol;68374;indole;1;68374;indole;68374;L-aspartate arylamidase;-;68374;Human;44870;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;cellobiose;68374;acetoin;0;68368;acetoin;68368;alpha-maltosidase;-;68374;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68374;indole;1;68368;indole;68368;alpha-galactosidase;+;68374;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68374;hydrogen sulfide;1;68368;;;alpha-glucosidase;-;68374;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;trehalose;68374;;;;;;beta-galactosidase;-;68374;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-arabitol;68374;;;;;;N-acetyl-beta-glucosaminidase;-;68374;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68374;;;;;;beta-glucuronidase;+;68374;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68374;;;;;;beta-glucosidase;-;68374;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68374;;;;;;lipase;-;68374;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68374;;;;;;urease;-;68374;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;malonate;68374;;;;;;lysine decarboxylase;+;68374;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;palatinose;68374;;;;;;arginine dihydrolase;-;68374;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ribitol;68374;;;;;;ornithine decarboxylase;-;68374;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;maltose;68374;;;;;;cytochrome oxidase;-;68368;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68374;;;;;;gelatinase;-;68368;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;Potassium 5-ketogluconate;68374;;;;;;tryptophan deaminase;-;68368;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-galacturonic acid;68374;;;;;;urease;-;68368;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabitol;68374;;;;;;ornithine decarboxylase;+;68368;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68374;;;;;;lysine decarboxylase;-;68368;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68374;;;;;;arginine dihydrolase;-;68368;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68374;;;;;;beta-galactosidase;-;68368;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68374;;;;;;;;;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68368;;;;;;;;;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;amygdalin;68368;;;;;;;;;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;melibiose;68368;;;;;;;;;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68368;;;;;;;;;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68368;;;;;;;;;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sorbitol;68368;;;;;;;;;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68368;;;;;;;;;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68368;;;;;;;;;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68368;;;;;;;;;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;gelatin;68368;;;;;;;;;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68368;;;;;;;;;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68368;;;;;;;;;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;citrate;68368;;;;;;;;;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68368;;;;;;;;;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68368;;;;;;;;;;;;
+141740;CCUG 5897;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68368;;;;;;;;;;;;
+135623;CIP 61.3;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34799;30;34799;;;;;;;;;;;;;;;;;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;37;45020;;;;;;;sorbitol;68374;indole;1;68374;indole;68374;L-aspartate arylamidase;-;68374;Human cerebrospinal fluid,77-yr-old woman;45020;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;cellobiose;68374;acetoin;0;68368;acetoin;68368;alpha-maltosidase;-;68374;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68374;indole;1;68368;indole;68368;alpha-galactosidase;-;68374;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68374;hydrogen sulfide;0;68368;;;alpha-glucosidase;-;68374;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;trehalose;68374;;;;;;beta-galactosidase;+;68374;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-arabitol;68374;;;;;;N-acetyl-beta-glucosaminidase;-;68374;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68374;;;;;;beta-glucuronidase;-;68374;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68374;;;;;;beta-glucosidase;-;68374;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68374;;;;;;lipase;-;68374;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68374;;;;;;urease;-;68374;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;malonate;68374;;;;;;lysine decarboxylase;-;68374;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;palatinose;68374;;;;;;arginine dihydrolase;-;68374;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ribitol;68374;;;;;;ornithine decarboxylase;+;68374;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;maltose;68374;;;;;;cytochrome oxidase;-;68368;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68374;;;;;;gelatinase;-;68368;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;Potassium 5-ketogluconate;68374;;;;;;tryptophan deaminase;-;68368;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-galacturonic acid;68374;;;;;;urease;-;68368;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabitol;68374;;;;;;ornithine decarboxylase;+;68368;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68374;;;;;;lysine decarboxylase;-;68368;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68374;;;;;;arginine dihydrolase;-;68368;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68374;;;;;;beta-galactosidase;+;68368;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68374;;;;;;;;;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68368;;;;;;;;;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;amygdalin;68368;;;;;;;;;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;melibiose;68368;;;;;;;;;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68368;;;;;;;;;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68368;;;;;;;;;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sorbitol;68368;;;;;;;;;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68368;;;;;;;;;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68368;;;;;;;;;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68368;;;;;;;;;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;gelatin;68368;;;;;;;;;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68368;;;;;;;;;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68368;;;;;;;;;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;citrate;68368;;;;;;;;;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68368;;;;;;;;;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68368;;;;;;;;;;;;
+141840;CCUG 7721;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68368;;;;;;;;;;;;
+135627;CIP 62.19, NCIMB 10201;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;34803;30;34803;;;;;;;;;;;;;;;;;;;;
+141877;CCUG 8013;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;sorbitol;68374;indole;1;68374;indole;68374;L-aspartate arylamidase;-;68374;Human sputum,81-yr-old woman;45068;;
+141877;CCUG 8013;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;cellobiose;68374;;;;;;alpha-maltosidase;-;68374;;;;
+141877;CCUG 8013;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68374;;;;;;alpha-galactosidase;+;68374;;;;
+141877;CCUG 8013;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68374;;;;;;alpha-glucosidase;-;68374;;;;
+141877;CCUG 8013;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;trehalose;68374;;;;;;beta-galactosidase;+;68374;;;;
+141877;CCUG 8013;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-arabitol;68374;;;;;;N-acetyl-beta-glucosaminidase;-;68374;;;;
+141877;CCUG 8013;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68374;;;;;;beta-glucuronidase;+;68374;;;;
+141877;CCUG 8013;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68374;;;;;;beta-glucosidase;-;68374;;;;
+141877;CCUG 8013;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68374;;;;;;lipase;-;68374;;;;
+141877;CCUG 8013;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68374;;;;;;urease;-;68374;;;;
+141877;CCUG 8013;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;malonate;68374;;;;;;lysine decarboxylase;-;68374;;;;
+141877;CCUG 8013;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;palatinose;68374;;;;;;arginine dihydrolase;+;68374;;;;
+141877;CCUG 8013;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ribitol;68374;;;;;;ornithine decarboxylase;+;68374;;;;
+141877;CCUG 8013;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;maltose;68374;;;;;;;;;;;;
+141877;CCUG 8013;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68374;;;;;;;;;;;;
+141877;CCUG 8013;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;Potassium 5-ketogluconate;68374;;;;;;;;;;;;
+141877;CCUG 8013;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-galacturonic acid;68374;;;;;;;;;;;;
+141877;CCUG 8013;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabitol;68374;;;;;;;;;;;;
+141877;CCUG 8013;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68374;;;;;;;;;;;;
+141877;CCUG 8013;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68374;;;;;;;;;;;;
+141877;CCUG 8013;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68374;;;;;;;;;;;;
+141877;CCUG 8013;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68374;;;;;;;;;;;;
+136340;CIP 104739;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35725;30;35725;;;;;;;;;;;;;;;;;;;;
+141887;CCUG 8230;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;microaerophile;45078;;;;;;;;;;;;;Human urine;45078;;
+136440;CIP 105743;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35859;30;35859;;;;;;;;;;;;;;;;;;;;
+142194;CCUG 11333, ATCC 23519, NCTC 9027;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+136454;CIP 54.52, NCTC 9002, CCUG 25;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35874;30;35874;;;;;;;;;;;;;;;;;;;GCA_900450435;66792
+136454;CIP 54.52, NCTC 9002, CCUG 25;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34338;66792
+142195;CCUG 11334, NCTC 9028;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900450305;66792
+142195;CCUG 11334, NCTC 9028;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34327;66792
+136460;CIP 105935;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35881;30;35881;;;;;;;;;;;;;;;;;;35881;;
+142196;CCUG 11335, NCTC 9699;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900636125;66792
+142196;CCUG 11335, NCTC 9699;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.3953;66792
+136468;CIP 105988;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;35889;30;35889;;;;;;;;;;;;;;;;;;35889;;
+142198;CCUG 11337, ATCC 23521, NCTC 9030;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900449245;66792
+142198;CCUG 11337, ATCC 23521, NCTC 9030;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34239;66792
+136473;CIP 106042;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 29- Brain heart agar;35894;30;35894;;;;;;;;;;;;;;;;;;35894;;
+142199;CCUG 11338, ATCC 23522, NCTC 9032;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900449785;66792
+142199;CCUG 11338, ATCC 23522, NCTC 9032;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34281;66792
+136474;CIP 106043;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;35895;30;35895;;;;;;;;;;;;;;;;;;35895;;
+142200;CCUG 11339;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+136531;CIP 106496, CGSC 7039;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35957;30;35957;;;;;;;;;;;;;;;;;;;;
+142201;CCUG 11341, ATCC 23524, NCTC 9034;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900449755;66792
+142201;CCUG 11341, ATCC 23524, NCTC 9034;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34279;66792
+136533;CIP 106497, CGSC 4436;Escherichia;Escherichia coli;PC0273;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;35959;30;35959;;;;;;;;;;;;;;;;;;;;
+142202;CCUG 11342, ATCC 23525, NCTC 9035;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900450155;66792
+142202;CCUG 11342, ATCC 23525, NCTC 9035;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34316;66792
+136770;CIP 107049;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;36321;30;36321;;;;;;;;;;;;;;;;;;36321;;
+142203;CCUG 11343, ATCC 23526, NCTC 9036;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900450495;66792
+142203;CCUG 11343, ATCC 23526, NCTC 9036;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34341;66792
+136789;CIP 105670, NCTC 50162;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;36420;30;36420;;;;;;;;;;;;;;;;;;;;
+142204;CCUG 11344, ATCC 23527, NCTC 9037;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900447915;66792
+142204;CCUG 11344, ATCC 23527, NCTC 9037;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.3413;66792
+136844;CIP pIP1607;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;36524;30;36524;;;;;;;;;;;;;;;;;;;;
+142205;CCUG 11345, ATCC 23528, NCTC 9038;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900635215;66792
+142205;CCUG 11345, ATCC 23528, NCTC 9038;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.39513;66792
+136853;CIP 104368;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;36548;30;36548;;;;;;;;;;;;;;;;;;;;
+142206;CCUG 11346, NCTC 9039;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+136885;CIP 110602;Escherichia;Escherichia coli;2011/09450;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;36617;30;36617;;;;;;;;;;;;;;;;;;36617;;
+142207;CCUG 11347, NCTC 9040;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900636295;66792
+142207;CCUG 11347, NCTC 9040;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.39539;66792
+136887;CIP 105643, NCTC 50129;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;36620;30;36620;;;;;;;;;;;;;;;;;;;;
+142208;CCUG 11348, ATCC 23529, NCTC 9042;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138009;CIP 102494;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;38959;30;38959;;;;;;;;;;;;;;;;;;38959;;
+142209;CCUG 11349, NCTC 9043;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900449585;66792
+142209;CCUG 11349, NCTC 9043;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34265;66792
+138010;CIP 102770;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;38960;30;38960;;;;;;;;;;;;;;;;;;38960;;
+142210;CCUG 11350, NCTC 9045;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;sorbitol;68374;indole;1;68374;indole;68374;L-aspartate arylamidase;-;68374;;;GCA_900449615;66792
+142210;CCUG 11350, NCTC 9045;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;cellobiose;68374;;;;;;alpha-maltosidase;-;68374;;;562.34268;66792
+142210;CCUG 11350, NCTC 9045;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68374;;;;;;alpha-galactosidase;+;68374;;;;
+142210;CCUG 11350, NCTC 9045;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68374;;;;;;alpha-glucosidase;-;68374;;;;
+142210;CCUG 11350, NCTC 9045;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;trehalose;68374;;;;;;beta-galactosidase;+;68374;;;;
+142210;CCUG 11350, NCTC 9045;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-arabitol;68374;;;;;;N-acetyl-beta-glucosaminidase;-;68374;;;;
+142210;CCUG 11350, NCTC 9045;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68374;;;;;;beta-glucuronidase;+;68374;;;;
+142210;CCUG 11350, NCTC 9045;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68374;;;;;;beta-glucosidase;-;68374;;;;
+142210;CCUG 11350, NCTC 9045;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68374;;;;;;lipase;-;68374;;;;
+142210;CCUG 11350, NCTC 9045;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68374;;;;;;urease;-;68374;;;;
+142210;CCUG 11350, NCTC 9045;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;malonate;68374;;;;;;lysine decarboxylase;-;68374;;;;
+142210;CCUG 11350, NCTC 9045;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;palatinose;68374;;;;;;arginine dihydrolase;-;68374;;;;
+142210;CCUG 11350, NCTC 9045;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ribitol;68374;;;;;;ornithine decarboxylase;+;68374;;;;
+142210;CCUG 11350, NCTC 9045;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;maltose;68374;;;;;;;;;;;;
+142210;CCUG 11350, NCTC 9045;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68374;;;;;;;;;;;;
+142210;CCUG 11350, NCTC 9045;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;Potassium 5-ketogluconate;68374;;;;;;;;;;;;
+142210;CCUG 11350, NCTC 9045;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-galacturonic acid;68374;;;;;;;;;;;;
+142210;CCUG 11350, NCTC 9045;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabitol;68374;;;;;;;;;;;;
+142210;CCUG 11350, NCTC 9045;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68374;;;;;;;;;;;;
+142210;CCUG 11350, NCTC 9045;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68374;;;;;;;;;;;;
+142210;CCUG 11350, NCTC 9045;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68374;;;;;;;;;;;;
+142210;CCUG 11350, NCTC 9045;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68374;;;;;;;;;;;;
+138239;CIP 105779;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39357;30;39357;;;;;;;;;;;;;;;;;;39357;;
+142211;CCUG 11351, NCTC 9046;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;sorbitol;68374;indole;1;68374;indole;68374;L-aspartate arylamidase;-;68374;;;;
+142211;CCUG 11351, NCTC 9046;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;cellobiose;68374;;;;;;alpha-maltosidase;-;68374;;;;
+142211;CCUG 11351, NCTC 9046;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68374;;;;;;alpha-galactosidase;+;68374;;;;
+142211;CCUG 11351, NCTC 9046;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68374;;;;;;alpha-glucosidase;-;68374;;;;
+142211;CCUG 11351, NCTC 9046;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;trehalose;68374;;;;;;beta-galactosidase;+;68374;;;;
+142211;CCUG 11351, NCTC 9046;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-arabitol;68374;;;;;;N-acetyl-beta-glucosaminidase;-;68374;;;;
+142211;CCUG 11351, NCTC 9046;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68374;;;;;;beta-glucuronidase;+;68374;;;;
+142211;CCUG 11351, NCTC 9046;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68374;;;;;;beta-glucosidase;+;68374;;;;
+142211;CCUG 11351, NCTC 9046;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68374;;;;;;lipase;-;68374;;;;
+142211;CCUG 11351, NCTC 9046;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68374;;;;;;urease;-;68374;;;;
+142211;CCUG 11351, NCTC 9046;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;malonate;68374;;;;;;lysine decarboxylase;+;68374;;;;
+142211;CCUG 11351, NCTC 9046;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;palatinose;68374;;;;;;arginine dihydrolase;-;68374;;;;
+142211;CCUG 11351, NCTC 9046;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ribitol;68374;;;;;;ornithine decarboxylase;+;68374;;;;
+142211;CCUG 11351, NCTC 9046;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;maltose;68374;;;;;;;;;;;;
+142211;CCUG 11351, NCTC 9046;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68374;;;;;;;;;;;;
+142211;CCUG 11351, NCTC 9046;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;Potassium 5-ketogluconate;68374;;;;;;;;;;;;
+142211;CCUG 11351, NCTC 9046;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-galacturonic acid;68374;;;;;;;;;;;;
+142211;CCUG 11351, NCTC 9046;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabitol;68374;;;;;;;;;;;;
+142211;CCUG 11351, NCTC 9046;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68374;;;;;;;;;;;;
+142211;CCUG 11351, NCTC 9046;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68374;;;;;;;;;;;;
+142211;CCUG 11351, NCTC 9046;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68374;;;;;;;;;;;;
+142211;CCUG 11351, NCTC 9046;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68374;;;;;;;;;;;;
+138260;CIP 105901;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39382;30;39382;;;;;;;;;;;;;;;;;;39382;;
+142212;CCUG 11352;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138261;CIP 105902;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39383;30;39383;;;;;;;;;;;;;;;;;;39383;;
+142213;CCUG 11353;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;sorbitol;68374;indole;1;68374;indole;68374;L-aspartate arylamidase;-;68374;;;;
+142213;CCUG 11353;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;cellobiose;68374;;;;;;alpha-maltosidase;-;68374;;;;
+142213;CCUG 11353;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68374;;;;;;alpha-galactosidase;+;68374;;;;
+142213;CCUG 11353;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68374;;;;;;alpha-glucosidase;-;68374;;;;
+142213;CCUG 11353;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;trehalose;68374;;;;;;beta-galactosidase;+;68374;;;;
+142213;CCUG 11353;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-arabitol;68374;;;;;;N-acetyl-beta-glucosaminidase;-;68374;;;;
+142213;CCUG 11353;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68374;;;;;;beta-glucuronidase;+;68374;;;;
+142213;CCUG 11353;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68374;;;;;;beta-glucosidase;-;68374;;;;
+142213;CCUG 11353;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68374;;;;;;lipase;-;68374;;;;
+142213;CCUG 11353;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68374;;;;;;urease;-;68374;;;;
+142213;CCUG 11353;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;malonate;68374;;;;;;lysine decarboxylase;+;68374;;;;
+142213;CCUG 11353;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;palatinose;68374;;;;;;arginine dihydrolase;-;68374;;;;
+142213;CCUG 11353;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ribitol;68374;;;;;;ornithine decarboxylase;-;68374;;;;
+142213;CCUG 11353;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;maltose;68374;;;;;;;;;;;;
+142213;CCUG 11353;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68374;;;;;;;;;;;;
+142213;CCUG 11353;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;Potassium 5-ketogluconate;68374;;;;;;;;;;;;
+142213;CCUG 11353;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-galacturonic acid;68374;;;;;;;;;;;;
+142213;CCUG 11353;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabitol;68374;;;;;;;;;;;;
+142213;CCUG 11353;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68374;;;;;;;;;;;;
+142213;CCUG 11353;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68374;;;;;;;;;;;;
+142213;CCUG 11353;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68374;;;;;;;;;;;;
+142213;CCUG 11353;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68374;;;;;;;;;;;;
+138267;CIP 105926;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39390;30;39390;;;;;;;;;;;;;;;;;;39390;;
+138188;CIP 105228;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39233;30;39233;;;;;;;;;;;;;;;;;;39233;;
+142165;CCUG 11302;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138304;CIP 106019;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39439;30;39439;;;;;;;;;;;;;;;;;;39439;;
+142166;CCUG 11303, ATCC 23501, NCTC 9003;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900449135;66792
+142166;CCUG 11303, ATCC 23501, NCTC 9003;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34228;66792
+138315;CIP 106041;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39450;30;39450;;;;;;;;;;;;;;;;;;39450;;
+142167;CCUG 11304;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138316;CIP 106045;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 29- Brain heart agar;39451;30;39451;;;;;;;;;;;;;;;;;;39451;;
+142168;CCUG 11305;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138317;CIP 106046;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 29- Brain heart agar;39452;30;39452;;;;;;;;;;;;;;;;;;39452;;
+142169;CCUG 11306;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138318;CIP 106047;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39453;30;39453;;;;;;;;;;;;;;;;;;39453;;
+142170;CCUG 11307, NCTC 9005;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900449815;66792
+142170;CCUG 11307, NCTC 9005;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34285;66792
+138319;CIP 106048;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39454;30;39454;;;;;;;;;;;;;;;;;;39454;;
+142171;CCUG 11308;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138320;CIP 106052;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39455;30;39455;;;;;;;;;;;;;;;;;;39455;;
+142172;CCUG 11309;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138321;CIP 106053;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39456;30;39456;;;;;;;;;;;;;;;;;;39456;;
+142173;CCUG 11310;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138322;CIP 106055;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39457;30;39457;;;;;;;;;;;;;;;;;;39457;;
+142174;CCUG 11311;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138475;CIP 105240;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39829;30;39829;;;;;;;;;;;;;;;;;;39829;;
+142175;CCUG 11312;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138477;CIP A248;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39831;30;39831;;;;;;;;;;;;;;;;;;;;
+142197;CCUG 11336, NCTC 9029;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900449675;66792
+142197;CCUG 11336, NCTC 9029;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34273;66792
+138482;CIP 103930;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39839;30;39839;;;;;;;;;;;;;;;;;;;;
+142217;CCUG 11357;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138483;CIP 51.10;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;39843;30;39843;;;;;;;;;;;;;;;;;;;;
+142218;CCUG 11358;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138492;CIP 104722;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;39863;30;39863;;;;;;;;;;;;;;;;;;;;
+142219;CCUG 11359;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138587;CIP 106016;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;40156;30;40156;;;;;;;;;;;;;;;;;;40156;;
+142220;CCUG 11360, NCTC 9056;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900447975;66792
+142220;CCUG 11360, NCTC 9056;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34131;66792
+138607;CIP 52.171, NCTC 8960;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;40180;30;40180;;;;;;;;;;;;;;;;;;;GCA_900450095;66792
+138607;CIP 52.171, NCTC 8960;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34312;66792
+142221;CCUG 11361;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138616;CIP 105182, NCTC 11602;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;40193;30;40193;;;;;;;;;;;;;;;;;;;;
+142222;CCUG 11362;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138617;CIP 105215;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;40194;30;40194;;;;;;;;;;;;;;;;;;40194;;
+142223;CCUG 11363;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138620;CIP 51.9;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;40202;30;40202;;;;;;;;;;;;;;;;;;;;
+142224;CCUG 11364;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138651;CIP 51.43;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;40239;30;40239;;;;;;;;;;;;;;;;;;;;
+142225;CCUG 11365;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138744;CIP 52.168;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;40449;30;40449;;;;;;;;;;;;;;;;;;40449;;
+142226;CCUG 11366;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138751;CIP 102753;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;40456;30;40456;;;;;;;;;;;;;;;;;;40456;;
+142227;CCUG 11367;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138796;CIP 51.57;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;40687;30;40687;;;;;;;;;;;;;;;;;;;;
+142228;CCUG 11368, NCTC 9065;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900449025;66792
+142228;CCUG 11368, NCTC 9065;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34219;66792
+138814;CIP 110354;Escherichia;Escherichia coli;2011/05538;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;40753;30;40753;;;;;;;;;;;;;;;;;;;;
+142229;CCUG 11369;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138815;CIP 110355;Escherichia;Escherichia coli;P11-4632, 2011/06190;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;40754;30;40754;;;;;;;;;;;;;;;;;;;;
+142230;CCUG 11370;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138879;CIP 60.71;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;40857;30;40857;;;;;;;;;;;;;;;;;;;;
+142231;CCUG 11371;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+139043;CIP 78.18;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;41067;30;41067;;;;;;;;;;;;;;;;;;;;
+142232;CCUG 11372;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+139283;CIP 105865;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;41422;30;41422;;;;;;;;;;;;;;;;;;;;
+142233;CCUG 11373, ATCC 23534, NCTC 9071;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900450125;66792
+142233;CCUG 11373, ATCC 23534, NCTC 9071;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34314;66792
+139284;CIP 105867;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;41423;30;41423;;;;;;;;;;;;;;;;;;;;
+142234;CCUG 11374, NCTC 9073;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900449415;66792
+142234;CCUG 11374, NCTC 9073;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34251;66792
+139326;CIP 106235;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;41467;30;41467;;;;;;;;;;;;;;;;;;;;
+142235;CCUG 11375;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+139359;CIP 54.121, ATCC 23589, NCIMB 9950;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;41506;30;41506;;;;;;;;;;;;;;;;;;;;
+142243;CCUG 11384, NCTC 9082;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900635205;66792
+142243;CCUG 11384, NCTC 9082;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.39512;66792
+139361;CIP 54.123, NCIMB 9954;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;41509;30;41509;;;;;;;;;;;;;;;;;;;;
+142244;CCUG 11385, NCDC H17A, ATCC 23538, NCTC 9083;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;Human feces from healthy individual;45503;GCA_900448325;66792
+142244;CCUG 11385, NCDC H17A, ATCC 23538, NCTC 9083;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34154;66792
+139506;CIP 110905, NCTC 13216, WDCM 00202, CCM 7395, CCUG 54767;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;41768;30;41768;;;;;;;sorbitol;68374;indole;1;68374;indole;68374;L-aspartate arylamidase;-;68374;;;GCA_900706905;66792
+139506;CIP 110905, NCTC 13216, WDCM 00202, CCM 7395, CCUG 54767;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;cellobiose;68374;;;;;;alpha-maltosidase;-;68374;;;562.48257;66792
+139506;CIP 110905, NCTC 13216, WDCM 00202, CCM 7395, CCUG 54767;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68374;;;;;;alpha-galactosidase;+;68374;;;;
+139506;CIP 110905, NCTC 13216, WDCM 00202, CCM 7395, CCUG 54767;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68374;;;;;;alpha-glucosidase;-;68374;;;;
+139506;CIP 110905, NCTC 13216, WDCM 00202, CCM 7395, CCUG 54767;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;trehalose;68374;;;;;;beta-galactosidase;+;68374;;;;
+139506;CIP 110905, NCTC 13216, WDCM 00202, CCM 7395, CCUG 54767;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-arabitol;68374;;;;;;N-acetyl-beta-glucosaminidase;-;68374;;;;
+139506;CIP 110905, NCTC 13216, WDCM 00202, CCM 7395, CCUG 54767;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68374;;;;;;beta-glucuronidase;+;68374;;;;
+139506;CIP 110905, NCTC 13216, WDCM 00202, CCM 7395, CCUG 54767;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68374;;;;;;beta-glucosidase;-;68374;;;;
+139506;CIP 110905, NCTC 13216, WDCM 00202, CCM 7395, CCUG 54767;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68374;;;;;;lipase;-;68374;;;;
+139506;CIP 110905, NCTC 13216, WDCM 00202, CCM 7395, CCUG 54767;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68374;;;;;;urease;-;68374;;;;
+139506;CIP 110905, NCTC 13216, WDCM 00202, CCM 7395, CCUG 54767;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;malonate;68374;;;;;;lysine decarboxylase;+;68374;;;;
+139506;CIP 110905, NCTC 13216, WDCM 00202, CCM 7395, CCUG 54767;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;palatinose;68374;;;;;;arginine dihydrolase;-;68374;;;;
+139506;CIP 110905, NCTC 13216, WDCM 00202, CCM 7395, CCUG 54767;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ribitol;68374;;;;;;ornithine decarboxylase;-;68374;;;;
+139506;CIP 110905, NCTC 13216, WDCM 00202, CCM 7395, CCUG 54767;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;maltose;68374;;;;;;;;;;;;
+139506;CIP 110905, NCTC 13216, WDCM 00202, CCM 7395, CCUG 54767;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68374;;;;;;;;;;;;
+139506;CIP 110905, NCTC 13216, WDCM 00202, CCM 7395, CCUG 54767;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;Potassium 5-ketogluconate;68374;;;;;;;;;;;;
+139506;CIP 110905, NCTC 13216, WDCM 00202, CCM 7395, CCUG 54767;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-galacturonic acid;68374;;;;;;;;;;;;
+139506;CIP 110905, NCTC 13216, WDCM 00202, CCM 7395, CCUG 54767;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabitol;68374;;;;;;;;;;;;
+139506;CIP 110905, NCTC 13216, WDCM 00202, CCM 7395, CCUG 54767;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68374;;;;;;;;;;;;
+139506;CIP 110905, NCTC 13216, WDCM 00202, CCM 7395, CCUG 54767;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68374;;;;;;;;;;;;
+139506;CIP 110905, NCTC 13216, WDCM 00202, CCM 7395, CCUG 54767;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68374;;;;;;;;;;;;
+139506;CIP 110905, NCTC 13216, WDCM 00202, CCM 7395, CCUG 54767;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68374;;;;;;;;;;;;
+142245;CCUG 11386;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;sorbitol;68374;indole;1;68374;indole;68374;L-aspartate arylamidase;-;68374;Human feces from healthy individual;45504;;
+142245;CCUG 11386;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;cellobiose;68374;;;;;;alpha-maltosidase;-;68374;;;;
+142245;CCUG 11386;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68374;;;;;;alpha-galactosidase;+;68374;;;;
+142245;CCUG 11386;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68374;;;;;;alpha-glucosidase;-;68374;;;;
+142245;CCUG 11386;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;trehalose;68374;;;;;;beta-galactosidase;+;68374;;;;
+142245;CCUG 11386;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-arabitol;68374;;;;;;N-acetyl-beta-glucosaminidase;-;68374;;;;
+142245;CCUG 11386;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68374;;;;;;beta-glucuronidase;+;68374;;;;
+142245;CCUG 11386;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68374;;;;;;beta-glucosidase;-;68374;;;;
+142245;CCUG 11386;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68374;;;;;;lipase;-;68374;;;;
+142245;CCUG 11386;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68374;;;;;;urease;-;68374;;;;
+142245;CCUG 11386;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;malonate;68374;;;;;;lysine decarboxylase;+;68374;;;;
+142245;CCUG 11386;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;palatinose;68374;;;;;;arginine dihydrolase;-;68374;;;;
+142245;CCUG 11386;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ribitol;68374;;;;;;ornithine decarboxylase;+;68374;;;;
+142245;CCUG 11386;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;maltose;68374;;;;;;;;;;;;
+142245;CCUG 11386;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68374;;;;;;;;;;;;
+142245;CCUG 11386;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-galacturonic acid;68374;;;;;;;;;;;;
+142245;CCUG 11386;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabitol;68374;;;;;;;;;;;;
+142245;CCUG 11386;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68374;;;;;;;;;;;;
+142245;CCUG 11386;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68374;;;;;;;;;;;;
+142245;CCUG 11386;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68374;;;;;;;;;;;;
+142245;CCUG 11386;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68374;;;;;;;;;;;;
+139528;CIP 110272, NCIMB 13059, NCTC 10090, WDCM 00091, CECT 8147, CCUG 11443;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;41828;30;41828;;;;;;;;;;;;;;;;;;;GCA_900449985;66792
+139528;CIP 110272, NCIMB 13059, NCTC 10090, WDCM 00091, CECT 8147, CCUG 11443;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.343;66792
+142246;CCUG 11387;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+139592;CIP 105644, NCTC 50133;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;42095;30;42095;;;;;;;;;;;;;;;;;;;;
+142247;CCUG 11388, NCTC 9086;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900449445;66792
+142247;CCUG 11388, NCTC 9086;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34255;66792
+139622;CIP 62.21, NCTC 8621;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;42188;30;42188;;;;;;;;;;;;;;;;;;;GCA_900449225;66792
+139622;CIP 62.21, NCTC 8621;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34237;66792
+142248;CCUG 11389, NCTC 9087;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900636145;66792
+142248;CCUG 11389, NCTC 9087;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.39531;66792
+139623;CIP 105242;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;42189;30;42189;;;;;;;;;;;;;;;;;;42189;;
+139738;DSM 19642, NCCB 3176;Escherichia;Escherichia coli;K-12 CL83 (JM83-recA56) with plasmid pCL1920;0;Escherichia coli;20215;;;LB (Luria-Bertani) MEDIUM (DSMZ Medium 381);42349;37;42349;;;;;;;L-arabinose;68368;acetoin;0;68368;acetoin;68368;cytochrome oxidase;-;68368;;;;
+139738;DSM 19642, NCCB 3176;Escherichia;Escherichia coli;K-12 CL83 (JM83-recA56) with plasmid pCL1920;0;;;;;;;;;;;;;;;amygdalin;68368;indole;1;68368;indole;68368;gelatinase;-;68368;;;;
+139738;DSM 19642, NCCB 3176;Escherichia;Escherichia coli;K-12 CL83 (JM83-recA56) with plasmid pCL1920;0;;;;;;;;;;;;;;;melibiose;68368;hydrogen sulfide;0;68368;;;tryptophan deaminase;-;68368;;;;
+139738;DSM 19642, NCCB 3176;Escherichia;Escherichia coli;K-12 CL83 (JM83-recA56) with plasmid pCL1920;0;;;;;;;;;;;;;;;sucrose;68368;;;;;;urease;-;68368;;;;
+139738;DSM 19642, NCCB 3176;Escherichia;Escherichia coli;K-12 CL83 (JM83-recA56) with plasmid pCL1920;0;;;;;;;;;;;;;;;L-rhamnose;68368;;;;;;ornithine decarboxylase;-;68368;;;;
+139738;DSM 19642, NCCB 3176;Escherichia;Escherichia coli;K-12 CL83 (JM83-recA56) with plasmid pCL1920;0;;;;;;;;;;;;;;;sorbitol;68368;;;;;;lysine decarboxylase;+;68368;;;;
+139738;DSM 19642, NCCB 3176;Escherichia;Escherichia coli;K-12 CL83 (JM83-recA56) with plasmid pCL1920;0;;;;;;;;;;;;;;;myo-inositol;68368;;;;;;arginine dihydrolase;-;68368;;;;
+139738;DSM 19642, NCCB 3176;Escherichia;Escherichia coli;K-12 CL83 (JM83-recA56) with plasmid pCL1920;0;;;;;;;;;;;;;;;D-mannitol;68368;;;;;;beta-galactosidase;-;68368;;;;
+139738;DSM 19642, NCCB 3176;Escherichia;Escherichia coli;K-12 CL83 (JM83-recA56) with plasmid pCL1920;0;;;;;;;;;;;;;;;D-glucose;68368;;;;;;;;;;;;
+139738;DSM 19642, NCCB 3176;Escherichia;Escherichia coli;K-12 CL83 (JM83-recA56) with plasmid pCL1920;0;;;;;;;;;;;;;;;gelatin;68368;;;;;;;;;;;;
+139738;DSM 19642, NCCB 3176;Escherichia;Escherichia coli;K-12 CL83 (JM83-recA56) with plasmid pCL1920;0;;;;;;;;;;;;;;;tryptophan;68368;;;;;;;;;;;;
+139738;DSM 19642, NCCB 3176;Escherichia;Escherichia coli;K-12 CL83 (JM83-recA56) with plasmid pCL1920;0;;;;;;;;;;;;;;;urea;68368;;;;;;;;;;;;
+139738;DSM 19642, NCCB 3176;Escherichia;Escherichia coli;K-12 CL83 (JM83-recA56) with plasmid pCL1920;0;;;;;;;;;;;;;;;citrate;68368;;;;;;;;;;;;
+139738;DSM 19642, NCCB 3176;Escherichia;Escherichia coli;K-12 CL83 (JM83-recA56) with plasmid pCL1920;0;;;;;;;;;;;;;;;ornithine;68368;;;;;;;;;;;;
+139738;DSM 19642, NCCB 3176;Escherichia;Escherichia coli;K-12 CL83 (JM83-recA56) with plasmid pCL1920;0;;;;;;;;;;;;;;;lysine;68368;;;;;;;;;;;;
+139738;DSM 19642, NCCB 3176;Escherichia;Escherichia coli;K-12 CL83 (JM83-recA56) with plasmid pCL1920;0;;;;;;;;;;;;;;;arginine;68368;;;;;;;;;;;;
+139739;DSM 27469, CGSC 7636;Escherichia;Escherichia coli;BW25113;0;Escherichia coli;20215;;;LB (Luria-Bertani) MEDIUM (DSMZ Medium 381);42350;30;42350;;;;;;;L-arabinose;68368;acetoin;0;68368;acetoin;68368;cytochrome oxidase;-;68368;;;;
+139739;DSM 27469, CGSC 7636;Escherichia;Escherichia coli;BW25113;0;;;;;;;;;;;;;;;amygdalin;68368;indole;1;68368;indole;68368;gelatinase;-;68368;;;;
+139739;DSM 27469, CGSC 7636;Escherichia;Escherichia coli;BW25113;0;;;;;;;;;;;;;;;melibiose;68368;hydrogen sulfide;0;68368;;;tryptophan deaminase;-;68368;;;;
+139739;DSM 27469, CGSC 7636;Escherichia;Escherichia coli;BW25113;0;;;;;;;;;;;;;;;sucrose;68368;;;;;;urease;-;68368;;;;
+139739;DSM 27469, CGSC 7636;Escherichia;Escherichia coli;BW25113;0;;;;;;;;;;;;;;;L-rhamnose;68368;;;;;;ornithine decarboxylase;-;68368;;;;
+139739;DSM 27469, CGSC 7636;Escherichia;Escherichia coli;BW25113;0;;;;;;;;;;;;;;;sorbitol;68368;;;;;;lysine decarboxylase;+;68368;;;;
+139739;DSM 27469, CGSC 7636;Escherichia;Escherichia coli;BW25113;0;;;;;;;;;;;;;;;myo-inositol;68368;;;;;;arginine dihydrolase;-;68368;;;;
+139739;DSM 27469, CGSC 7636;Escherichia;Escherichia coli;BW25113;0;;;;;;;;;;;;;;;D-mannitol;68368;;;;;;beta-galactosidase;-;68368;;;;
+139739;DSM 27469, CGSC 7636;Escherichia;Escherichia coli;BW25113;0;;;;;;;;;;;;;;;D-glucose;68368;;;;;;;;;;;;
+139739;DSM 27469, CGSC 7636;Escherichia;Escherichia coli;BW25113;0;;;;;;;;;;;;;;;gelatin;68368;;;;;;;;;;;;
+139739;DSM 27469, CGSC 7636;Escherichia;Escherichia coli;BW25113;0;;;;;;;;;;;;;;;tryptophan;68368;;;;;;;;;;;;
+139739;DSM 27469, CGSC 7636;Escherichia;Escherichia coli;BW25113;0;;;;;;;;;;;;;;;urea;68368;;;;;;;;;;;;
+139739;DSM 27469, CGSC 7636;Escherichia;Escherichia coli;BW25113;0;;;;;;;;;;;;;;;citrate;68368;;;;;;;;;;;;
+139739;DSM 27469, CGSC 7636;Escherichia;Escherichia coli;BW25113;0;;;;;;;;;;;;;;;ornithine;68368;;;;;;;;;;;;
+139739;DSM 27469, CGSC 7636;Escherichia;Escherichia coli;BW25113;0;;;;;;;;;;;;;;;lysine;68368;;;;;;;;;;;;
+139739;DSM 27469, CGSC 7636;Escherichia;Escherichia coli;BW25113;0;;;;;;;;;;;;;;;arginine;68368;;;;;;;;;;;;
+141176;CCUG 26;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+130298;DSM 10971;Escherichia;Escherichia coli;K12 UT5600;0;Escherichia coli;20215;;;LB (Luria-Bertani) MEDIUM (DSMZ Medium 381);21589;37;21589;;;;;;;amygdalin;68368;acetoin;0;68368;acetoin;68368;cytochrome oxidase;-;68368;;;;
+130298;DSM 10971;Escherichia;Escherichia coli;K12 UT5600;0;;;;;;;;;;;;;;;melibiose;68368;indole;1;68368;indole;68368;gelatinase;-;68368;;;;
+130298;DSM 10971;Escherichia;Escherichia coli;K12 UT5600;0;;;;;;;;;;;;;;;sucrose;68368;hydrogen sulfide;0;68368;;;tryptophan deaminase;-;68368;;;;
+130298;DSM 10971;Escherichia;Escherichia coli;K12 UT5600;0;;;;;;;;;;;;;;;L-rhamnose;68368;;;;;;urease;-;68368;;;;
+130298;DSM 10971;Escherichia;Escherichia coli;K12 UT5600;0;;;;;;;;;;;;;;;sorbitol;68368;;;;;;ornithine decarboxylase;-;68368;;;;
+130298;DSM 10971;Escherichia;Escherichia coli;K12 UT5600;0;;;;;;;;;;;;;;;myo-inositol;68368;;;;;;lysine decarboxylase;+;68368;;;;
+130298;DSM 10971;Escherichia;Escherichia coli;K12 UT5600;0;;;;;;;;;;;;;;;D-mannitol;68368;;;;;;arginine dihydrolase;-;68368;;;;
+130298;DSM 10971;Escherichia;Escherichia coli;K12 UT5600;0;;;;;;;;;;;;;;;D-glucose;68368;;;;;;beta-galactosidase;+;68368;;;;
+130298;DSM 10971;Escherichia;Escherichia coli;K12 UT5600;0;;;;;;;;;;;;;;;gelatin;68368;;;;;;;;;;;;
+130298;DSM 10971;Escherichia;Escherichia coli;K12 UT5600;0;;;;;;;;;;;;;;;tryptophan;68368;;;;;;;;;;;;
+130298;DSM 10971;Escherichia;Escherichia coli;K12 UT5600;0;;;;;;;;;;;;;;;urea;68368;;;;;;;;;;;;
+130298;DSM 10971;Escherichia;Escherichia coli;K12 UT5600;0;;;;;;;;;;;;;;;citrate;68368;;;;;;;;;;;;
+130298;DSM 10971;Escherichia;Escherichia coli;K12 UT5600;0;;;;;;;;;;;;;;;ornithine;68368;;;;;;;;;;;;
+130298;DSM 10971;Escherichia;Escherichia coli;K12 UT5600;0;;;;;;;;;;;;;;;lysine;68368;;;;;;;;;;;;
+130298;DSM 10971;Escherichia;Escherichia coli;K12 UT5600;0;;;;;;;;;;;;;;;arginine;68368;;;;;;;;;;;;
+141177;CCUG 27, ATCC 19138, NCTC 9006;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;sorbitol;68374;indole;1;68374;indole;68374;L-aspartate arylamidase;-;68374;;;GCA_900448995;66792
+141177;CCUG 27, ATCC 19138, NCTC 9006;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;cellobiose;68374;;;;;;alpha-maltosidase;-;68374;;;562.34216;66792
+141177;CCUG 27, ATCC 19138, NCTC 9006;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68374;;;;;;alpha-galactosidase;+;68374;;;;
+141177;CCUG 27, ATCC 19138, NCTC 9006;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68374;;;;;;alpha-glucosidase;-;68374;;;;
+141177;CCUG 27, ATCC 19138, NCTC 9006;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;trehalose;68374;;;;;;beta-galactosidase;+;68374;;;;
+141177;CCUG 27, ATCC 19138, NCTC 9006;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-arabitol;68374;;;;;;N-acetyl-beta-glucosaminidase;-;68374;;;;
+141177;CCUG 27, ATCC 19138, NCTC 9006;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68374;;;;;;beta-glucuronidase;+;68374;;;;
+141177;CCUG 27, ATCC 19138, NCTC 9006;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68374;;;;;;beta-glucosidase;-;68374;;;;
+141177;CCUG 27, ATCC 19138, NCTC 9006;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68374;;;;;;lipase;-;68374;;;;
+141177;CCUG 27, ATCC 19138, NCTC 9006;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68374;;;;;;urease;-;68374;;;;
+141177;CCUG 27, ATCC 19138, NCTC 9006;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;malonate;68374;;;;;;lysine decarboxylase;+;68374;;;;
+141177;CCUG 27, ATCC 19138, NCTC 9006;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;palatinose;68374;;;;;;arginine dihydrolase;-;68374;;;;
+141177;CCUG 27, ATCC 19138, NCTC 9006;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ribitol;68374;;;;;;ornithine decarboxylase;+;68374;;;;
+141177;CCUG 27, ATCC 19138, NCTC 9006;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;maltose;68374;;;;;;;;;;;;
+141177;CCUG 27, ATCC 19138, NCTC 9006;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68374;;;;;;;;;;;;
+141177;CCUG 27, ATCC 19138, NCTC 9006;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;Potassium 5-ketogluconate;68374;;;;;;;;;;;;
+141177;CCUG 27, ATCC 19138, NCTC 9006;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-galacturonic acid;68374;;;;;;;;;;;;
+141177;CCUG 27, ATCC 19138, NCTC 9006;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabitol;68374;;;;;;;;;;;;
+141177;CCUG 27, ATCC 19138, NCTC 9006;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68374;;;;;;;;;;;;
+141177;CCUG 27, ATCC 19138, NCTC 9006;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68374;;;;;;;;;;;;
+141177;CCUG 27, ATCC 19138, NCTC 9006;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68374;;;;;;;;;;;;
+141177;CCUG 27, ATCC 19138, NCTC 9006;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68374;;;;;;;;;;;;
+130299;DSM 10972;Escherichia;Escherichia coli;K12 strain 1200;0;Escherichia coli;20215;;;LB (Luria-Bertani) MEDIUM (DSMZ Medium 381);21590;37;21590;;;;;;;L-arabinose;68368;acetoin;0;68368;acetoin;68368;cytochrome oxidase;-;68368;;;;
+130299;DSM 10972;Escherichia;Escherichia coli;K12 strain 1200;0;;;;;;;;;;;;;;;amygdalin;68368;indole;1;68368;indole;68368;gelatinase;-;68368;;;;
+130299;DSM 10972;Escherichia;Escherichia coli;K12 strain 1200;0;;;;;;;;;;;;;;;melibiose;68368;hydrogen sulfide;0;68368;;;tryptophan deaminase;-;68368;;;;
+130299;DSM 10972;Escherichia;Escherichia coli;K12 strain 1200;0;;;;;;;;;;;;;;;sucrose;68368;;;;;;urease;-;68368;;;;
+130299;DSM 10972;Escherichia;Escherichia coli;K12 strain 1200;0;;;;;;;;;;;;;;;L-rhamnose;68368;;;;;;ornithine decarboxylase;-;68368;;;;
+130299;DSM 10972;Escherichia;Escherichia coli;K12 strain 1200;0;;;;;;;;;;;;;;;sorbitol;68368;;;;;;lysine decarboxylase;+;68368;;;;
+130299;DSM 10972;Escherichia;Escherichia coli;K12 strain 1200;0;;;;;;;;;;;;;;;myo-inositol;68368;;;;;;arginine dihydrolase;-;68368;;;;
+130299;DSM 10972;Escherichia;Escherichia coli;K12 strain 1200;0;;;;;;;;;;;;;;;D-mannitol;68368;;;;;;beta-galactosidase;+;68368;;;;
+130299;DSM 10972;Escherichia;Escherichia coli;K12 strain 1200;0;;;;;;;;;;;;;;;D-glucose;68368;;;;;;;;;;;;
+130299;DSM 10972;Escherichia;Escherichia coli;K12 strain 1200;0;;;;;;;;;;;;;;;gelatin;68368;;;;;;;;;;;;
+130299;DSM 10972;Escherichia;Escherichia coli;K12 strain 1200;0;;;;;;;;;;;;;;;tryptophan;68368;;;;;;;;;;;;
+130299;DSM 10972;Escherichia;Escherichia coli;K12 strain 1200;0;;;;;;;;;;;;;;;urea;68368;;;;;;;;;;;;
+130299;DSM 10972;Escherichia;Escherichia coli;K12 strain 1200;0;;;;;;;;;;;;;;;citrate;68368;;;;;;;;;;;;
+130299;DSM 10972;Escherichia;Escherichia coli;K12 strain 1200;0;;;;;;;;;;;;;;;ornithine;68368;;;;;;;;;;;;
+130299;DSM 10972;Escherichia;Escherichia coli;K12 strain 1200;0;;;;;;;;;;;;;;;lysine;68368;;;;;;;;;;;;
+130299;DSM 10972;Escherichia;Escherichia coli;K12 strain 1200;0;;;;;;;;;;;;;;;arginine;68368;;;;;;;;;;;;
+141178;CCUG 28, ATCC 23503, NCTC 9007;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900448835;66792
+141178;CCUG 28, ATCC 23503, NCTC 9007;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34201;66792
+130300;DSM 15371;Escherichia;Escherichia coli;SK7863psk(BEC/PP:3,3);0;Escherichia coli;20215;;;;;;;;;;;;;L-arabinose;68368;acetoin;0;68368;acetoin;68368;cytochrome oxidase;-;68368;;;;
+130300;DSM 15371;Escherichia;Escherichia coli;SK7863psk(BEC/PP:3,3);0;;;;;;;;;;;;;;;amygdalin;68368;indole;1;68368;indole;68368;gelatinase;-;68368;;;;
+130300;DSM 15371;Escherichia;Escherichia coli;SK7863psk(BEC/PP:3,3);0;;;;;;;;;;;;;;;melibiose;68368;hydrogen sulfide;0;68368;;;tryptophan deaminase;-;68368;;;;
+130300;DSM 15371;Escherichia;Escherichia coli;SK7863psk(BEC/PP:3,3);0;;;;;;;;;;;;;;;sucrose;68368;;;;;;urease;-;68368;;;;
+130300;DSM 15371;Escherichia;Escherichia coli;SK7863psk(BEC/PP:3,3);0;;;;;;;;;;;;;;;L-rhamnose;68368;;;;;;ornithine decarboxylase;-;68368;;;;
+130300;DSM 15371;Escherichia;Escherichia coli;SK7863psk(BEC/PP:3,3);0;;;;;;;;;;;;;;;sorbitol;68368;;;;;;lysine decarboxylase;-;68368;;;;
+130300;DSM 15371;Escherichia;Escherichia coli;SK7863psk(BEC/PP:3,3);0;;;;;;;;;;;;;;;myo-inositol;68368;;;;;;arginine dihydrolase;-;68368;;;;
+130300;DSM 15371;Escherichia;Escherichia coli;SK7863psk(BEC/PP:3,3);0;;;;;;;;;;;;;;;D-mannitol;68368;;;;;;beta-galactosidase;-;68368;;;;
+130300;DSM 15371;Escherichia;Escherichia coli;SK7863psk(BEC/PP:3,3);0;;;;;;;;;;;;;;;D-glucose;68368;;;;;;;;;;;;
+130300;DSM 15371;Escherichia;Escherichia coli;SK7863psk(BEC/PP:3,3);0;;;;;;;;;;;;;;;gelatin;68368;;;;;;;;;;;;
+130300;DSM 15371;Escherichia;Escherichia coli;SK7863psk(BEC/PP:3,3);0;;;;;;;;;;;;;;;tryptophan;68368;;;;;;;;;;;;
+130300;DSM 15371;Escherichia;Escherichia coli;SK7863psk(BEC/PP:3,3);0;;;;;;;;;;;;;;;urea;68368;;;;;;;;;;;;
+130300;DSM 15371;Escherichia;Escherichia coli;SK7863psk(BEC/PP:3,3);0;;;;;;;;;;;;;;;citrate;68368;;;;;;;;;;;;
+130300;DSM 15371;Escherichia;Escherichia coli;SK7863psk(BEC/PP:3,3);0;;;;;;;;;;;;;;;ornithine;68368;;;;;;;;;;;;
+130300;DSM 15371;Escherichia;Escherichia coli;SK7863psk(BEC/PP:3,3);0;;;;;;;;;;;;;;;lysine;68368;;;;;;;;;;;;
+130300;DSM 15371;Escherichia;Escherichia coli;SK7863psk(BEC/PP:3,3);0;;;;;;;;;;;;;;;arginine;68368;;;;;;;;;;;;
+141179;CCUG 29 A, ATCC 25304, NCTC 9008;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900636195;66792
+141179;CCUG 29 A, ATCC 25304, NCTC 9008;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.39533;66792
+130301;DSM 27502, CB 9149;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;LB (Luria-Bertani) MEDIUM (DSMZ Medium 381);21591;37;21591;;;;;;;L-arabinose;68368;acetoin;0;68368;acetoin;68368;cytochrome oxidase;-;68368;human source;21591;;
+130301;DSM 27502, CB 9149;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;amygdalin;68368;indole;1;68368;indole;68368;gelatinase;-;68368;;;;
+130301;DSM 27502, CB 9149;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;melibiose;68368;hydrogen sulfide;0;68368;;;tryptophan deaminase;-;68368;;;;
+130301;DSM 27502, CB 9149;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68368;;;;;;urease;-;68368;;;;
+130301;DSM 27502, CB 9149;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68368;;;;;;ornithine decarboxylase;+;68368;;;;
+130301;DSM 27502, CB 9149;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sorbitol;68368;;;;;;lysine decarboxylase;+;68368;;;;
+130301;DSM 27502, CB 9149;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68368;;;;;;arginine dihydrolase;-;68368;;;;
+130301;DSM 27502, CB 9149;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68368;;;;;;beta-galactosidase;+;68368;;;;
+130301;DSM 27502, CB 9149;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68368;;;;;;;;;;;;
+130301;DSM 27502, CB 9149;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;gelatin;68368;;;;;;;;;;;;
+130301;DSM 27502, CB 9149;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68368;;;;;;;;;;;;
+130301;DSM 27502, CB 9149;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68368;;;;;;;;;;;;
+130301;DSM 27502, CB 9149;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;citrate;68368;;;;;;;;;;;;
+130301;DSM 27502, CB 9149;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68368;;;;;;;;;;;;
+130301;DSM 27502, CB 9149;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68368;;;;;;;;;;;;
+130301;DSM 27502, CB 9149;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68368;;;;;;;;;;;;
+141180;CCUG 30 A, NCTC 9018;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;sorbitol;68374;indole;1;68374;indole;68374;L-aspartate arylamidase;-;68374;;;GCA_900448005;66792
+141180;CCUG 30 A, NCTC 9018;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;cellobiose;68374;;;;;;alpha-maltosidase;-;68374;;;562.34132;66792
+141180;CCUG 30 A, NCTC 9018;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68374;;;;;;alpha-galactosidase;+;68374;;;;
+141180;CCUG 30 A, NCTC 9018;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68374;;;;;;alpha-glucosidase;-;68374;;;;
+141180;CCUG 30 A, NCTC 9018;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;trehalose;68374;;;;;;beta-galactosidase;+;68374;;;;
+141180;CCUG 30 A, NCTC 9018;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-arabitol;68374;;;;;;N-acetyl-beta-glucosaminidase;-;68374;;;;
+141180;CCUG 30 A, NCTC 9018;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68374;;;;;;beta-glucuronidase;+;68374;;;;
+141180;CCUG 30 A, NCTC 9018;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68374;;;;;;beta-glucosidase;-;68374;;;;
+141180;CCUG 30 A, NCTC 9018;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68374;;;;;;lipase;-;68374;;;;
+141180;CCUG 30 A, NCTC 9018;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68374;;;;;;urease;-;68374;;;;
+141180;CCUG 30 A, NCTC 9018;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;malonate;68374;;;;;;lysine decarboxylase;-;68374;;;;
+141180;CCUG 30 A, NCTC 9018;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;palatinose;68374;;;;;;arginine dihydrolase;-;68374;;;;
+141180;CCUG 30 A, NCTC 9018;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ribitol;68374;;;;;;ornithine decarboxylase;-;68374;;;;
+141180;CCUG 30 A, NCTC 9018;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;maltose;68374;;;;;;;;;;;;
+141180;CCUG 30 A, NCTC 9018;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68374;;;;;;;;;;;;
+141180;CCUG 30 A, NCTC 9018;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;Potassium 5-ketogluconate;68374;;;;;;;;;;;;
+141180;CCUG 30 A, NCTC 9018;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-galacturonic acid;68374;;;;;;;;;;;;
+141180;CCUG 30 A, NCTC 9018;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabitol;68374;;;;;;;;;;;;
+141180;CCUG 30 A, NCTC 9018;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68374;;;;;;;;;;;;
+141180;CCUG 30 A, NCTC 9018;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68374;;;;;;;;;;;;
+141180;CCUG 30 A, NCTC 9018;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68374;;;;;;;;;;;;
+141180;CCUG 30 A, NCTC 9018;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68374;;;;;;;;;;;;
+130302;DSM 27503, CB 10214;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;LB (Luria-Bertani) MEDIUM (DSMZ Medium 381);21592;37;21592;;;;;;;L-arabinose;68368;acetoin;0;68368;acetoin;68368;cytochrome oxidase;-;68368;pig feces;21592;;
+130302;DSM 27503, CB 10214;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;amygdalin;68368;indole;1;68368;indole;68368;gelatinase;-;68368;;;;
+130302;DSM 27503, CB 10214;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;melibiose;68368;hydrogen sulfide;0;68368;;;tryptophan deaminase;-;68368;;;;
+130302;DSM 27503, CB 10214;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68368;;;;;;urease;-;68368;;;;
+130302;DSM 27503, CB 10214;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68368;;;;;;ornithine decarboxylase;-;68368;;;;
+130302;DSM 27503, CB 10214;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sorbitol;68368;;;;;;lysine decarboxylase;+;68368;;;;
+130302;DSM 27503, CB 10214;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68368;;;;;;arginine dihydrolase;-;68368;;;;
+130302;DSM 27503, CB 10214;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68368;;;;;;beta-galactosidase;+;68368;;;;
+130302;DSM 27503, CB 10214;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68368;;;;;;;;;;;;
+130302;DSM 27503, CB 10214;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;gelatin;68368;;;;;;;;;;;;
+130302;DSM 27503, CB 10214;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68368;;;;;;;;;;;;
+130302;DSM 27503, CB 10214;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68368;;;;;;;;;;;;
+130302;DSM 27503, CB 10214;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;citrate;68368;;;;;;;;;;;;
+130302;DSM 27503, CB 10214;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68368;;;;;;;;;;;;
+130302;DSM 27503, CB 10214;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68368;;;;;;;;;;;;
+130302;DSM 27503, CB 10214;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68368;;;;;;;;;;;;
+141181;CCUG 31;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;sorbitol;68374;indole;1;68374;indole;68374;L-aspartate arylamidase;-;68374;;;;
+141181;CCUG 31;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;cellobiose;68374;;;;;;alpha-maltosidase;-;68374;;;;
+141181;CCUG 31;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68374;;;;;;alpha-galactosidase;+;68374;;;;
+141181;CCUG 31;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68374;;;;;;alpha-glucosidase;-;68374;;;;
+141181;CCUG 31;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;trehalose;68374;;;;;;beta-galactosidase;+;68374;;;;
+141181;CCUG 31;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-arabitol;68374;;;;;;N-acetyl-beta-glucosaminidase;-;68374;;;;
+141181;CCUG 31;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68374;;;;;;beta-glucuronidase;+;68374;;;;
+141181;CCUG 31;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68374;;;;;;beta-glucosidase;-;68374;;;;
+141181;CCUG 31;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68374;;;;;;lipase;-;68374;;;;
+141181;CCUG 31;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68374;;;;;;urease;-;68374;;;;
+141181;CCUG 31;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;malonate;68374;;;;;;lysine decarboxylase;+;68374;;;;
+141181;CCUG 31;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;palatinose;68374;;;;;;arginine dihydrolase;-;68374;;;;
+141181;CCUG 31;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ribitol;68374;;;;;;ornithine decarboxylase;+;68374;;;;
+141181;CCUG 31;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;maltose;68374;;;;;;;;;;;;
+141181;CCUG 31;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68374;;;;;;;;;;;;
+141181;CCUG 31;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;Potassium 5-ketogluconate;68374;;;;;;;;;;;;
+141181;CCUG 31;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-galacturonic acid;68374;;;;;;;;;;;;
+141181;CCUG 31;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabitol;68374;;;;;;;;;;;;
+141181;CCUG 31;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68374;;;;;;;;;;;;
+141181;CCUG 31;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68374;;;;;;;;;;;;
+141181;CCUG 31;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68374;;;;;;;;;;;;
+141181;CCUG 31;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68374;;;;;;;;;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;Escherichia coli;20215;;;COLUMBIA BLOOD MEDIUM (DSMZ Medium 693);24520;37;24520;;;aerobe;63750;;;sorbitol;68374;indole;1;68374;indole;68374;L-aspartate arylamidase;-;68374;bloodculture, human bacteraemia;24520;GCA_900448335;66792
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;TRYPTICASE SOY YEAST EXTRACT MEDIUM (DSMZ Medium 92);24520;30;63750;;;;;;;cellobiose;68374;hydrogen sulfide;0;68368;;;alpha-maltosidase;-;68374;Human blood;63750;562.34155;66792
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;myo-inositol;68374;;;;;;alpha-galactosidase;+;68374;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;L-rhamnose;68374;;;;;;alpha-glucosidase;-;68374;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;trehalose;68374;;;;;;beta-galactosidase;+;68374;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;D-arabitol;68374;;;;;;N-acetyl-beta-glucosaminidase;-;68374;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;L-arabinose;68374;;;;;;beta-glucuronidase;+;68374;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;sucrose;68374;;;;;;beta-glucosidase;-;68374;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;D-glucose;68374;;;;;;lipase;-;68374;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;tryptophan;68374;;;;;;urease;-;68374;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;malonate;68374;;;;;;lysine decarboxylase;+;68374;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;palatinose;68374;;;;;;arginine dihydrolase;-;68374;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;ribitol;68374;;;;;;ornithine decarboxylase;-;68374;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;maltose;68374;;;;;;gelatinase;-;68368;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;D-mannitol;68374;;;;;;tryptophan deaminase;-;68368;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;Potassium 5-ketogluconate;68374;;;;;;urease;-;68368;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;D-galacturonic acid;68374;;;;;;ornithine decarboxylase;-;68368;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;L-arabitol;68374;;;;;;lysine decarboxylase;+;68368;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;urea;68374;;;;;;arginine dihydrolase;-;68368;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;lysine;68374;;;;;;beta-galactosidase;+;68368;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;arginine;68374;;;;;;;;;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;ornithine;68374;;;;;;;;;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;amygdalin;68368;;;;;;;;;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;melibiose;68368;;;;;;;;;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;sucrose;68368;;;;;;;;;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;L-rhamnose;68368;;;;;;;;;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;sorbitol;68368;;;;;;;;;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;myo-inositol;68368;;;;;;;;;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;D-mannitol;68368;;;;;;;;;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;D-glucose;68368;;;;;;;;;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;gelatin;68368;;;;;;;;;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;urea;68368;;;;;;;;;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;ornithine;68368;;;;;;;;;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;lysine;68368;;;;;;;;;;;;
+132730;DSM 105182, NCTC 13846, CCUG 70662;Escherichia;Escherichia coli;E2;0;;;;;;;;;;;;;;;arginine;68368;;;;;;;;;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;sorbitol;68374;indole;1;68374;indole;68374;L-aspartate arylamidase;-;68374;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;cellobiose;68374;acetoin;0;68368;acetoin;68368;alpha-maltosidase;-;68374;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68374;indole;1;68368;indole;68368;alpha-galactosidase;+;68374;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68374;hydrogen sulfide;0;68368;;;alpha-glucosidase;-;68374;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;trehalose;68374;;;;;;beta-galactosidase;-;68374;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-arabitol;68374;;;;;;N-acetyl-beta-glucosaminidase;-;68374;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68374;;;;;;beta-glucuronidase;+;68374;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68374;;;;;;beta-glucosidase;-;68374;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68374;;;;;;lipase;-;68374;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68374;;;;;;urease;-;68374;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;malonate;68374;;;;;;lysine decarboxylase;+;68374;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;palatinose;68374;;;;;;arginine dihydrolase;-;68374;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ribitol;68374;;;;;;ornithine decarboxylase;-;68374;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;maltose;68374;;;;;;cytochrome oxidase;-;68368;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68374;;;;;;gelatinase;-;68368;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;Potassium 5-ketogluconate;68374;;;;;;tryptophan deaminase;-;68368;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-galacturonic acid;68374;;;;;;urease;-;68368;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabitol;68374;;;;;;ornithine decarboxylase;-;68368;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68374;;;;;;lysine decarboxylase;+;68368;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68374;;;;;;arginine dihydrolase;-;68368;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68374;;;;;;beta-galactosidase;-;68368;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68374;;;;;;;;;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68368;;;;;;;;;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;amygdalin;68368;;;;;;;;;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;melibiose;68368;;;;;;;;;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68368;;;;;;;;;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68368;;;;;;;;;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sorbitol;68368;;;;;;;;;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68368;;;;;;;;;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68368;;;;;;;;;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68368;;;;;;;;;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;gelatin;68368;;;;;;;;;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68368;;;;;;;;;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68368;;;;;;;;;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;citrate;68368;;;;;;;;;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68368;;;;;;;;;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68368;;;;;;;;;;;;
+141256;CCUG 430 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68368;;;;;;;;;;;;
+135234;CIP 110347;Escherichia;Escherichia coli;2004/08351;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;34217;30;34217;;;;;;;;;;;;;;;;;;;;
+141941;CCUG 8511;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+137965;CIP 52.131;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;38915;30;38915;;;;;;;;;;;;;;;;;;38915;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;sorbitol;68374;indole;0;68374;indole;68374;L-aspartate arylamidase;-;68374;Human urine,20-yr-old patient;45149;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;cellobiose;68374;acetoin;0;68368;acetoin;68368;alpha-maltosidase;-;68374;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68374;indole;0;68368;indole;68368;alpha-galactosidase;+;68374;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68374;hydrogen sulfide;0;68368;;;alpha-glucosidase;-;68374;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;trehalose;68374;;;;;;beta-galactosidase;-;68374;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-arabitol;68374;;;;;;N-acetyl-beta-glucosaminidase;-;68374;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68374;;;;;;beta-glucuronidase;-;68374;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68374;;;;;;beta-glucosidase;-;68374;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68374;;;;;;lipase;-;68374;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68374;;;;;;urease;-;68374;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;malonate;68374;;;;;;lysine decarboxylase;-;68374;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;palatinose;68374;;;;;;arginine dihydrolase;-;68374;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ribitol;68374;;;;;;ornithine decarboxylase;+;68374;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;maltose;68374;;;;;;cytochrome oxidase;-;68368;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68374;;;;;;gelatinase;-;68368;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;Potassium 5-ketogluconate;68374;;;;;;tryptophan deaminase;-;68368;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-galacturonic acid;68374;;;;;;urease;-;68368;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabitol;68374;;;;;;ornithine decarboxylase;+;68368;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68374;;;;;;lysine decarboxylase;+;68368;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68374;;;;;;arginine dihydrolase;-;68368;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68374;;;;;;beta-galactosidase;+;68368;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68374;;;;;;;;;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68368;;;;;;;;;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;amygdalin;68368;;;;;;;;;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;melibiose;68368;;;;;;;;;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68368;;;;;;;;;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68368;;;;;;;;;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sorbitol;68368;;;;;;;;;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68368;;;;;;;;;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68368;;;;;;;;;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68368;;;;;;;;;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;gelatin;68368;;;;;;;;;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68368;;;;;;;;;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68368;;;;;;;;;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;citrate;68368;;;;;;;;;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68368;;;;;;;;;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68368;;;;;;;;;;;;
+141956;CCUG 8743 A;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68368;;;;;;;;;;;;
+138073;CIP 104540;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39034;30;39034;;;;;;;;;;;;;;;;;;;;
+142015;CCUG 9855 B;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;Human urine;45238;;
+138086;CIP 104644;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39063;30;39063;;;;;;;;;;;;;;;;;;39063;;
+142163;CCUG 11300;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138187;CIP 105216;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39231;30;39231;;;;;;;;;;;;;;;;;;39231;;
+142164;CCUG 11301;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+142297;CCUG 11444, CNCTC Eck 249/65;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+139274;CIP 105669, NCTC 50161;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;41410;30;41410;;;;;;;;;;;;;;;;;;;;
+142298;CCUG 11445;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+139276;CIP 105672, NCTC 50164;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;41413;30;41413;;;;;;;;;;;;;;;;;;;;
+142299;CCUG 11446, NCTC 10677;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+139279;CIP 105861;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;41418;30;41418;;;;;;;;;;;;;;;;;;;;
+142300;CCUG 11447, NCTC 10758;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;Pig enteritis;45565;GCA_900448605;66792
+142300;CCUG 11447, NCTC 10758;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.3418;66792
+139280;CIP 105862;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;41419;30;41419;;;;;;;;;;;;;;;;;;;;
+142301;CCUG 11448, NCTC 10664;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;Human feces,gastro-enteritis;45566;GCA_900448755;66792
+142301;CCUG 11448, NCTC 10664;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34195;66792
+139456;CIP 52.170, NCTC 8959;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;41665;30;41665;;;;;;;;;;;;;;;;;;41665;GCA_900448265;66792
+139456;CIP 52.170, NCTC 8959;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.3415;66792
+142302;CCUG 11449;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+139463;CIP 62.24, NCTC 8623, CCUG 11424;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;41684;30;41684;;;;;;;;;;;;;;;;;Human gastro-enteritis;45542;GCA_900636175;66792
+139463;CIP 62.24, NCTC 8623, CCUG 11424;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.39532;66792
+139463;CIP 62.24, NCTC 8623, CCUG 11424;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;2870469529;66792
+142303;CCUG 11450, NCTC 9004;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;45568;GCA_900449335;66792
+142303;CCUG 11450, NCTC 9004;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34246;66792
+139472;CIP 106782;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;41698;30;41698;;;;;;;;;;;;;;;;;;;;
+139483;CIP 103470;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;41724;30;41724;;;;;;;;;;;;;;;;;;41724;;
+139486;CIP 105706;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;41728;30;41728;;;;;;;;;;;;;;;;;;41728;;
+139591;CIP 105642, NCTC 50130;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;42094;30;42094;;;;;;;;;;;;;;;;;;;;
+24844;DSM 18455;Escherichia;Escherichia coli;WG5;0;Escherichia coli;20215;;;LB (Luria-Bertani) MEDIUM (DSMZ Medium 381);7551;37;7551;;;;;;;L-arabinose;68368;acetoin;0;68368;acetoin;68368;cytochrome oxidase;-;68368;;;;
+24844;DSM 18455;Escherichia;Escherichia coli;WG5;0;;;;;;;;;;;;;;;amygdalin;68368;indole;1;68368;indole;68368;gelatinase;-;68368;;;;
+24844;DSM 18455;Escherichia;Escherichia coli;WG5;0;;;;;;;;;;;;;;;melibiose;68368;hydrogen sulfide;0;68368;;;tryptophan deaminase;-;68368;;;;
+24844;DSM 18455;Escherichia;Escherichia coli;WG5;0;;;;;;;;;;;;;;;sucrose;68368;;;;;;urease;-;68368;;;;
+24844;DSM 18455;Escherichia;Escherichia coli;WG5;0;;;;;;;;;;;;;;;L-rhamnose;68368;;;;;;ornithine decarboxylase;-;68368;;;;
+24844;DSM 18455;Escherichia;Escherichia coli;WG5;0;;;;;;;;;;;;;;;sorbitol;68368;;;;;;lysine decarboxylase;-;68368;;;;
+24844;DSM 18455;Escherichia;Escherichia coli;WG5;0;;;;;;;;;;;;;;;myo-inositol;68368;;;;;;arginine dihydrolase;-;68368;;;;
+24844;DSM 18455;Escherichia;Escherichia coli;WG5;0;;;;;;;;;;;;;;;D-mannitol;68368;;;;;;beta-galactosidase;+;68368;;;;
+24844;DSM 18455;Escherichia;Escherichia coli;WG5;0;;;;;;;;;;;;;;;D-glucose;68368;;;;;;;;;;;;
+24844;DSM 18455;Escherichia;Escherichia coli;WG5;0;;;;;;;;;;;;;;;gelatin;68368;;;;;;;;;;;;
+24844;DSM 18455;Escherichia;Escherichia coli;WG5;0;;;;;;;;;;;;;;;tryptophan;68368;;;;;;;;;;;;
+24844;DSM 18455;Escherichia;Escherichia coli;WG5;0;;;;;;;;;;;;;;;urea;68368;;;;;;;;;;;;
+24844;DSM 18455;Escherichia;Escherichia coli;WG5;0;;;;;;;;;;;;;;;citrate;68368;;;;;;;;;;;;
+24844;DSM 18455;Escherichia;Escherichia coli;WG5;0;;;;;;;;;;;;;;;ornithine;68368;;;;;;;;;;;;
+24844;DSM 18455;Escherichia;Escherichia coli;WG5;0;;;;;;;;;;;;;;;lysine;68368;;;;;;;;;;;;
+24844;DSM 18455;Escherichia;Escherichia coli;WG5;0;;;;;;;;;;;;;;;arginine;68368;;;;;;;;;;;;
+142176;CCUG 11313;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+24845;DSM 25162;Escherichia;Escherichia coli;S17-1(PAS300);0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+142177;CCUG 11314;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+137689;CIP 105543;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;38555;30;38555;;;;;;;;;;;;;;;;;;;;
+142178;CCUG 11315, ATCC 23505, NCTC 9009;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900448795;66792
+142178;CCUG 11315, ATCC 23505, NCTC 9009;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34196;66792
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;38592;30;38592;;;;;;;sorbitol;68374;indole;1;68374;indole;68374;L-aspartate arylamidase;-;68374;Human feces;49536;GCA_007922655;66792
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;cellobiose;68374;acetoin;0;68368;acetoin;68368;alpha-maltosidase;-;68374;;;83334.297;66792
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68374;indole;1;68368;indole;68368;alpha-galactosidase;+;68374;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68374;hydrogen sulfide;0;68368;;;alpha-glucosidase;-;68374;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;trehalose;68374;;;;;;beta-galactosidase;+;68374;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-arabitol;68374;;;;;;N-acetyl-beta-glucosaminidase;-;68374;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68374;;;;;;beta-glucuronidase;-;68374;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68374;;;;;;beta-glucosidase;-;68374;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68374;;;;;;lipase;-;68374;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68374;;;;;;urease;-;68374;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;malonate;68374;;;;;;lysine decarboxylase;+;68374;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;palatinose;68374;;;;;;arginine dihydrolase;-;68374;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ribitol;68374;;;;;;ornithine decarboxylase;+;68374;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;maltose;68374;;;;;;cytochrome oxidase;-;68368;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68374;;;;;;gelatinase;-;68368;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;Potassium 5-ketogluconate;68374;;;;;;tryptophan deaminase;-;68368;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-galacturonic acid;68374;;;;;;urease;-;68368;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabitol;68374;;;;;;ornithine decarboxylase;+;68368;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68374;;;;;;lysine decarboxylase;+;68368;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68374;;;;;;arginine dihydrolase;-;68368;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68374;;;;;;beta-galactosidase;+;68368;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68374;;;;;;alkaline phosphatase;+;68382;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68368;;;;;;esterase (C 4);-;68382;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;amygdalin;68368;;;;;;esterase lipase (C 8);-;68382;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;melibiose;68368;;;;;;lipase (C 14);-;68382;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68368;;;;;;leucine arylamidase;+;68382;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68368;;;;;;valine arylamidase;-;68382;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sorbitol;68368;;;;;;cystine arylamidase;-;68382;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68368;;;;;;trypsin;-;68382;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68368;;;;;;alpha-chymotrypsin;-;68382;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68368;;;;;;acid phosphatase;+;68382;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;gelatin;68368;;;;;;naphthol-AS-BI-phosphohydrolase;+;68382;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68368;;;;;;alpha-galactosidase;-;68382;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68368;;;;;;beta-galactosidase;+;68382;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;citrate;68368;;;;;;beta-glucuronidase;-;68382;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68368;;;;;;alpha-glucosidase;+;68382;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68368;;;;;;beta-glucosidase;-;68382;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68368;;;;;;N-acetyl-beta-glucosaminidase;-;68382;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;alpha-mannosidase;-;68382;;;;
+137703;CIP 105917, ATCC 43888, CCUG 29188;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;alpha-fucosidase;-;68382;;;;
+142179;CCUG 11316, NCDC Bi8337-41, ATCC 23506, NCTC 9010;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;Human peritonitis;45436;GCA_900449635;66792
+142179;CCUG 11316, NCDC Bi8337-41, ATCC 23506, NCTC 9010;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;GCA_000333175;66792
+142179;CCUG 11316, NCDC Bi8337-41, ATCC 23506, NCTC 9010;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;1246623.3;66792
+142179;CCUG 11316, NCDC Bi8337-41, ATCC 23506, NCTC 9010;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34269;66792
+142179;CCUG 11316, NCDC Bi8337-41, ATCC 23506, NCTC 9010;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;2541047595;66792
+137704;CIP 105999;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;38596;30;38596;;;;;;;;;;;;;;;;;;38596;;
+142180;CCUG 11317, ATCC 23507, NCTC 9011;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;sorbitol;68374;indole;1;68374;indole;68374;L-aspartate arylamidase;-;68374;;;GCA_900448765;66792
+142180;CCUG 11317, ATCC 23507, NCTC 9011;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;cellobiose;68374;;;;;;alpha-maltosidase;-;68374;;;562.34197;66792
+142180;CCUG 11317, ATCC 23507, NCTC 9011;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68374;;;;;;alpha-galactosidase;+;68374;;;;
+142180;CCUG 11317, ATCC 23507, NCTC 9011;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68374;;;;;;alpha-glucosidase;-;68374;;;;
+142180;CCUG 11317, ATCC 23507, NCTC 9011;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;trehalose;68374;;;;;;beta-galactosidase;+;68374;;;;
+142180;CCUG 11317, ATCC 23507, NCTC 9011;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-arabitol;68374;;;;;;N-acetyl-beta-glucosaminidase;-;68374;;;;
+142180;CCUG 11317, ATCC 23507, NCTC 9011;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68374;;;;;;beta-glucuronidase;-;68374;;;;
+142180;CCUG 11317, ATCC 23507, NCTC 9011;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68374;;;;;;beta-glucosidase;-;68374;;;;
+142180;CCUG 11317, ATCC 23507, NCTC 9011;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68374;;;;;;lipase;-;68374;;;;
+142180;CCUG 11317, ATCC 23507, NCTC 9011;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68374;;;;;;urease;-;68374;;;;
+142180;CCUG 11317, ATCC 23507, NCTC 9011;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;malonate;68374;;;;;;lysine decarboxylase;-;68374;;;;
+142180;CCUG 11317, ATCC 23507, NCTC 9011;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;palatinose;68374;;;;;;arginine dihydrolase;-;68374;;;;
+142180;CCUG 11317, ATCC 23507, NCTC 9011;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ribitol;68374;;;;;;ornithine decarboxylase;-;68374;;;;
+142180;CCUG 11317, ATCC 23507, NCTC 9011;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;maltose;68374;;;;;;;;;;;;
+142180;CCUG 11317, ATCC 23507, NCTC 9011;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68374;;;;;;;;;;;;
+142180;CCUG 11317, ATCC 23507, NCTC 9011;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;Potassium 5-ketogluconate;68374;;;;;;;;;;;;
+142180;CCUG 11317, ATCC 23507, NCTC 9011;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-galacturonic acid;68374;;;;;;;;;;;;
+142180;CCUG 11317, ATCC 23507, NCTC 9011;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabitol;68374;;;;;;;;;;;;
+142180;CCUG 11317, ATCC 23507, NCTC 9011;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68374;;;;;;;;;;;;
+142180;CCUG 11317, ATCC 23507, NCTC 9011;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68374;;;;;;;;;;;;
+142180;CCUG 11317, ATCC 23507, NCTC 9011;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68374;;;;;;;;;;;;
+142180;CCUG 11317, ATCC 23507, NCTC 9011;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68374;;;;;;;;;;;;
+137705;CIP 106005;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;38597;30;38597;;;;;;;;;;;;;;;;;;38597;;
+142181;CCUG 11318, ATCC 23508, NCTC 9012;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900448965;66792
+142181;CCUG 11318, ATCC 23508, NCTC 9012;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34214;66792
+137706;CIP 106015;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;38598;30;38598;;;;;;;;;;;;;;;;;;38598;;
+142182;CCUG 11319, ATCC 23509, NCTC 9013;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900450355;66792
+142182;CCUG 11319, ATCC 23509, NCTC 9013;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.3433;66792
+137707;CIP 106025;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;38599;30;38599;;;;;;;;;;;;;;;;;;38599;;
+142183;CCUG 11320, ATCC 19110, NCTC 9014;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;Human urine;45440;GCA_900448585;66792
+142183;CCUG 11320, ATCC 19110, NCTC 9014;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34178;66792
+137708;CIP 106026;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;38600;30;38600;;;;;;;;;;;;;;;;;;38600;;
+142184;CCUG 11321, ATCC 23510, NCTC 9015;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;sorbitol;68374;indole;1;68374;indole;68374;L-aspartate arylamidase;-;68374;;;GCA_900448855;66792
+142184;CCUG 11321, ATCC 23510, NCTC 9015;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;cellobiose;68374;;;;;;alpha-maltosidase;-;68374;;;562.34203;66792
+142184;CCUG 11321, ATCC 23510, NCTC 9015;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68374;;;;;;alpha-galactosidase;+;68374;;;;
+142184;CCUG 11321, ATCC 23510, NCTC 9015;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68374;;;;;;alpha-glucosidase;-;68374;;;;
+142184;CCUG 11321, ATCC 23510, NCTC 9015;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;trehalose;68374;;;;;;beta-galactosidase;+;68374;;;;
+142184;CCUG 11321, ATCC 23510, NCTC 9015;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-arabitol;68374;;;;;;N-acetyl-beta-glucosaminidase;-;68374;;;;
+142184;CCUG 11321, ATCC 23510, NCTC 9015;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68374;;;;;;beta-glucuronidase;+;68374;;;;
+142184;CCUG 11321, ATCC 23510, NCTC 9015;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68374;;;;;;beta-glucosidase;-;68374;;;;
+142184;CCUG 11321, ATCC 23510, NCTC 9015;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68374;;;;;;lipase;-;68374;;;;
+142184;CCUG 11321, ATCC 23510, NCTC 9015;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68374;;;;;;urease;-;68374;;;;
+142184;CCUG 11321, ATCC 23510, NCTC 9015;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;malonate;68374;;;;;;lysine decarboxylase;+;68374;;;;
+142184;CCUG 11321, ATCC 23510, NCTC 9015;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;palatinose;68374;;;;;;arginine dihydrolase;-;68374;;;;
+142184;CCUG 11321, ATCC 23510, NCTC 9015;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ribitol;68374;;;;;;ornithine decarboxylase;-;68374;;;;
+142184;CCUG 11321, ATCC 23510, NCTC 9015;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;maltose;68374;;;;;;;;;;;;
+142184;CCUG 11321, ATCC 23510, NCTC 9015;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68374;;;;;;;;;;;;
+142184;CCUG 11321, ATCC 23510, NCTC 9015;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;Potassium 5-ketogluconate;68374;;;;;;;;;;;;
+142184;CCUG 11321, ATCC 23510, NCTC 9015;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-galacturonic acid;68374;;;;;;;;;;;;
+142184;CCUG 11321, ATCC 23510, NCTC 9015;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabitol;68374;;;;;;;;;;;;
+142184;CCUG 11321, ATCC 23510, NCTC 9015;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68374;;;;;;;;;;;;
+142184;CCUG 11321, ATCC 23510, NCTC 9015;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68374;;;;;;;;;;;;
+142184;CCUG 11321, ATCC 23510, NCTC 9015;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68374;;;;;;;;;;;;
+142184;CCUG 11321, ATCC 23510, NCTC 9015;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68374;;;;;;;;;;;;
+137710;CIP 106040;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;38602;30;38602;;;;;;;;;;;;;;;;;;38602;;
+142185;CCUG 11322, ATCC 23511, NCTC 9016;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900707035;66792
+142185;CCUG 11322, ATCC 23511, NCTC 9016;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.48259;66792
+137711;CIP 106049;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;38603;30;38603;;;;;;;;;;;;;;;;;;38603;;
+142186;CCUG 11323, ATCC 23512, NCTC 9017;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+137712;CIP 106054;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;38604;30;38604;;;;;;;;;;;;;;;;;;38604;;
+142187;CCUG 11324, ATCC 23514, NCTC 9019;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900450315;66792
+142187;CCUG 11324, ATCC 23514, NCTC 9019;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34328;66792
+138305;CIP 106020;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39440;30;39440;;;;;;;;;;;;;;;;;;39440;;
+142188;CCUG 11325, ATCC 23515, NCTC 9020;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900448065;66792
+142188;CCUG 11325, ATCC 23515, NCTC 9020;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34133;66792
+138306;CIP 106021;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39441;30;39441;;;;;;;;;;;;;;;;;;39441;;
+142189;CCUG 11328;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138307;CIP 106022;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;39442;30;39442;;;;;;;;;;;;;;;;;;39442;;
+142190;CCUG 11329;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138308;CIP 106023;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;39443;30;39443;;;;;;;;;;;;;;;;;;39443;;
+142191;CCUG 11330, NCTC 9024;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900448575;66792
+142191;CCUG 11330, NCTC 9024;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34177;66792
+138309;CIP 106024;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39444;30;39444;;;;;;;;;;;;;;;;;;39444;;
+142192;CCUG 11331, NCTC 10429;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900449995;66792
+142192;CCUG 11331, NCTC 10429;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34301;66792
+138310;CIP 106030;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39445;30;39445;;;;;;;;;;;;;;;;;;39445;;
+142193;CCUG 11332, NCTC 9026;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;37;45450;;;aerobe;45450;;;;;;;;;;;;;;;GCA_900448875;66792
+142193;CCUG 11332, NCTC 9026;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34205;66792
+138311;CIP 106032;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39446;30;39446;;;;;;;;;;;;;;;;;;39446;;
+142252;CCUG 11393, NCDC H307b, ATCC 23980, NCTC 9091;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;Human feces;45511;GCA_900449575;66792
+142252;CCUG 11393, NCDC H307b, ATCC 23980, NCTC 9091;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34264;66792
+138312;CIP 106033;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39447;30;39447;;;;;;;;;;;;;;;;;;39447;;
+142253;CCUG 11394, NCTC 9092;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900449645;66792
+142253;CCUG 11394, NCTC 9092;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.3427;66792
+138313;CIP 106034;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39448;30;39448;;;;;;;;;;;;;;;;;;39448;;
+142254;CCUG 11395, NCTC 9093;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138314;CIP 106035;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39449;30;39449;;;;;;;;;;;;;;;;;;39449;;
+142255;CCUG 11396;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138323;CIP 106056;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39458;30;39458;;;;;;;;;;;;;;;;;;39458;;
+142256;CCUG 11397;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138324;CIP 106057;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;39459;30;39459;;;;;;;;;;;;;;;;;;39459;;
+142257;CCUG 11398, NCTC 9097;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900449495;66792
+142257;CCUG 11398, NCTC 9097;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34259;66792
+138385;CIP 106916;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;39614;30;39614;;;;;;;;;;;;;;;;;;39614;;
+142258;CCUG 11399;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138386;CIP 106917;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;39615;30;39615;;;;;;;;;;;;;;;;;;39615;;
+142259;CCUG 11400, NCTC 9099;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900450345;66792
+142259;CCUG 11400, NCTC 9099;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34331;66792
+138387;CIP 106919;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 29- Brain heart agar;39616;30;39616;;;;;;;;;;;;;;;;;;39616;;
+142260;CCUG 11401;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+138393;CIP 107035;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;39639;30;39639;;;;;;;;;;;;;;;;;;39639;;
+142261;CCUG 11402, NCTC 9101;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900449525;66792
+142261;CCUG 11402, NCTC 9101;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.3426;66792
+138434;CIP 105641, NCTC 50131;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 72- for trypto casein soja agar;39723;30;39723;;;;;;;;;;;;;;;;;;;;
+142282;CCUG 11426;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+139100;CIP 53.28;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;41145;30;41145;;;;;;;;;;;;;;;;;;;;
+142284;CCUG 11429;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+139104;CIP 53.34;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;41150;30;41150;;;;;;;;;;;;;;;;;;;;
+142285;CCUG 11430;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;sorbitol;68374;indole;1;68374;indole;68374;L-aspartate arylamidase;-;68374;;;;
+142285;CCUG 11430;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;cellobiose;68374;;;;;;alpha-maltosidase;-;68374;;;;
+142285;CCUG 11430;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68374;;;;;;alpha-galactosidase;+;68374;;;;
+142285;CCUG 11430;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68374;;;;;;alpha-glucosidase;-;68374;;;;
+142285;CCUG 11430;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;trehalose;68374;;;;;;beta-galactosidase;+;68374;;;;
+142285;CCUG 11430;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-arabitol;68374;;;;;;N-acetyl-beta-glucosaminidase;-;68374;;;;
+142285;CCUG 11430;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68374;;;;;;beta-glucuronidase;+;68374;;;;
+142285;CCUG 11430;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68374;;;;;;beta-glucosidase;-;68374;;;;
+142285;CCUG 11430;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68374;;;;;;lipase;-;68374;;;;
+142285;CCUG 11430;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68374;;;;;;urease;-;68374;;;;
+142285;CCUG 11430;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;malonate;68374;;;;;;lysine decarboxylase;+;68374;;;;
+142285;CCUG 11430;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;palatinose;68374;;;;;;arginine dihydrolase;+;68374;;;;
+142285;CCUG 11430;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ribitol;68374;;;;;;ornithine decarboxylase;-;68374;;;;
+142285;CCUG 11430;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;maltose;68374;;;;;;;;;;;;
+142285;CCUG 11430;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68374;;;;;;;;;;;;
+142285;CCUG 11430;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;Potassium 5-ketogluconate;68374;;;;;;;;;;;;
+142285;CCUG 11430;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-galacturonic acid;68374;;;;;;;;;;;;
+142285;CCUG 11430;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabitol;68374;;;;;;;;;;;;
+142285;CCUG 11430;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68374;;;;;;;;;;;;
+142285;CCUG 11430;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68374;;;;;;;;;;;;
+142285;CCUG 11430;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68374;;;;;;;;;;;;
+142285;CCUG 11430;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68374;;;;;;;;;;;;
+139113;CIP 53.35;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;41160;30;41160;;;;;;;;;;;;;;;;;;;;
+142286;CCUG 11431;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+139135;CIP 54.122, ATCC 23559, NCIMB 9951;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;41196;30;41196;;;;;;;;;;;;;;;;;;;;
+142287;CCUG 11432;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+139195;CIP 104738;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;41285;30;41285;;;;;;;;;;;;;;;;;;;;
+142288;CCUG 11433;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+139261;CIP 105652, NCTC 50141;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;41396;30;41396;;;;;;;;;;;;;;;;;;;;
+142289;CCUG 11434;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+139262;CIP 105655, NCTC 50145;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;41397;30;41397;;;;;;;;;;;;;;;;;;;;
+142291;CCUG 11436;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;Human feces,diarrhea;45554;;
+139263;CIP 105657, NCTC 50147;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;41398;30;41398;;;;;;;;;;;;;;;;;;;;
+142292;CCUG 11437;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+139265;CIP 105658, NCTC 50148;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;41401;30;41401;;;;;;;;;;;;;;;;;;;;
+142293;CCUG 11438;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+139266;CIP 105660, NCTC 50150;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;41402;30;41402;;;;;;;;;;;;;;;;;;;;
+142294;CCUG 11439, NCTC 10086, CNCTC EcK 196/59;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;GCA_900450405;66792
+142294;CCUG 11439, NCTC 10086, CNCTC EcK 196/59;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;562.34335;66792
+139267;CIP 105662, NCTC 50152;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;41403;30;41403;;;;;;;;;;;;;;;;;;;;
+142295;CCUG 11440;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;;;;;;;;;;;;;;
+139272;CIP 105667, NCTC 50158;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;41408;30;41408;;;;;;;;;;;;;;;;;;;;
+142296;CCUG 11442, NCDC C771, ATCC 23985;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;;;;;;;;;;;sorbitol;68374;indole;0;68374;indole;68374;L-aspartate arylamidase;-;68374;Human infantile diarrhea;45560;;
+142296;CCUG 11442, NCDC C771, ATCC 23985;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;cellobiose;68374;;;;;;alpha-maltosidase;-;68374;;;;
+142296;CCUG 11442, NCDC C771, ATCC 23985;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;myo-inositol;68374;;;;;;alpha-galactosidase;+;68374;;;;
+142296;CCUG 11442, NCDC C771, ATCC 23985;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-rhamnose;68374;;;;;;alpha-glucosidase;-;68374;;;;
+142296;CCUG 11442, NCDC C771, ATCC 23985;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;trehalose;68374;;;;;;beta-galactosidase;+;68374;;;;
+142296;CCUG 11442, NCDC C771, ATCC 23985;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-arabitol;68374;;;;;;N-acetyl-beta-glucosaminidase;-;68374;;;;
+142296;CCUG 11442, NCDC C771, ATCC 23985;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabinose;68374;;;;;;beta-glucuronidase;+;68374;;;;
+142296;CCUG 11442, NCDC C771, ATCC 23985;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;sucrose;68374;;;;;;beta-glucosidase;-;68374;;;;
+142296;CCUG 11442, NCDC C771, ATCC 23985;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-glucose;68374;;;;;;lipase;-;68374;;;;
+142296;CCUG 11442, NCDC C771, ATCC 23985;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;tryptophan;68374;;;;;;urease;-;68374;;;;
+142296;CCUG 11442, NCDC C771, ATCC 23985;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;malonate;68374;;;;;;lysine decarboxylase;+;68374;;;;
+142296;CCUG 11442, NCDC C771, ATCC 23985;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;palatinose;68374;;;;;;arginine dihydrolase;-;68374;;;;
+142296;CCUG 11442, NCDC C771, ATCC 23985;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ribitol;68374;;;;;;ornithine decarboxylase;-;68374;;;;
+142296;CCUG 11442, NCDC C771, ATCC 23985;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;maltose;68374;;;;;;;;;;;;
+142296;CCUG 11442, NCDC C771, ATCC 23985;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-mannitol;68374;;;;;;;;;;;;
+142296;CCUG 11442, NCDC C771, ATCC 23985;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;Potassium 5-ketogluconate;68374;;;;;;;;;;;;
+142296;CCUG 11442, NCDC C771, ATCC 23985;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;D-galacturonic acid;68374;;;;;;;;;;;;
+142296;CCUG 11442, NCDC C771, ATCC 23985;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;L-arabitol;68374;;;;;;;;;;;;
+142296;CCUG 11442, NCDC C771, ATCC 23985;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;urea;68374;;;;;;;;;;;;
+142296;CCUG 11442, NCDC C771, ATCC 23985;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;lysine;68374;;;;;;;;;;;;
+142296;CCUG 11442, NCDC C771, ATCC 23985;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;arginine;68374;;;;;;;;;;;;
+142296;CCUG 11442, NCDC C771, ATCC 23985;Escherichia;Escherichia coli;;0;;;;;;;;;;;;;;;ornithine;68374;;;;;;;;;;;;
+139273;CIP 105668, NCTC 50160;Escherichia;Escherichia coli;;0;Escherichia coli;20215;;;MEDIUM 3 - Columbia agar;41409;30;41409;;;;;;;;;;;;;;;;;;;;

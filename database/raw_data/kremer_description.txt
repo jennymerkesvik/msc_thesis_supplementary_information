@@ -1,0 +1,24 @@
+
+Meta data - ‘LO_temp_size_scaling.csv’
+
+Columns:
+
+isolate.code = numerical identification code, used in Thomas et al. 2012, 2016
+curve.code = numerical code indicating unique growth rate curves (some isolates were measured more than once), also used in Thomas et al. 2012, 2016.
+genus = genus name
+species = species name
+name = genus + species name
+group = functional group identity (Greens, Diatoms, Cyanobacteria, Dinoflagellates)
+environment = environment isolate was collected from (marine, freshwater)
+temperature = growth temperature (degrees Celsius)
+inv.kT = inverse temperature scaled by Boltzmann’s constant
+r = specific growth rate (day^-1)
+ln.r = natural log of specific growth rate
+ln.rM = natural log of mass-corrected specific growth rate
+ln.rT = natural log of temperature-corrected specific growth rate
+bv = log10(biovolume, cubic micrometers)
+ln.m = natural log of cell mass (micrograms carbon)
+wts = weighting used for each growth rate observation in quantile regression analyses, based on number of points in each growth rate curve (see main text)
+colors = color code used for plotting each functional group
+symbol = symbol code used for plotting each functional group
+mte.analysis = indicator variable - 1 = used in MTE analysis, 0 = not used.
