@@ -1,0 +1,215 @@
+﻿vieirasilva_genus;vieirasilva_species;vieirasilva_strain;vieirasilva_speciesStrain;vieirasilva_growthTemp;vieirasilva_doublingH
+Acidovorax;Acidovorax avenae;;Acidovorax avenae;28;11
+Acaryochloris;Acaryochloris marina;;Acaryochloris marina;25;45
+Actinobacillus;Actinobacillus pleuropneumoniae;;Actinobacillus pleuropneumoniae;37;0.75
+Acinetobacter;Acinetobacter;ADP1;Acinetobacter ADP1;30;0.5
+Aeromonas;Aeromonas hydrophila;;Aeromonas hydrophila;28;0.35
+Aeropyrum;Aeropyrum pernix;;Aeropyrum pernix;95;4
+Agrobacterium;Agrobacterium tumefaciens ;C58;Agrobacterium tumefaciens C58;26;3
+Alcanivorax;Alcanivorax borkumensis;;Alcanivorax borkumensis;28;10
+Anaeromyxobacter;Anaeromyxobacter dehalogenans;;Anaeromyxobacter dehalogenans;30;9.2
+Anaplasma;Anaplasma marginale;;Anaplasma marginale;37;21.6
+Anaplasma;Anaplasma phagocytophilum;;Anaplasma phagocytophilum;37;7
+Anabaena;Anabaena variabilis;;Anabaena variabilis;20;8
+Aquifex;Aquifex aeolicus;;Aquifex aeolicus;95;1.8
+Arthrobacter;Arthrobacter aurescens;;Arthrobacter aurescens;30;2
+Arcobacter;Arcobacter butzleri;;Arcobacter butzleri;37;0.66
+Archaeoglobus;Archaeoglobus fulgidus;;Archaeoglobus fulgidus;85;4
+Azoarcus;Azoarcus sp ;EbN1;Azoarcus sp EbN1;28;4.3
+Bacillus;Bacillus anthracis ;Ames;Bacillus anthracis Ames;37;0.5
+Bacillus;Bacillus cereus ;ATCC 14579;Bacillus cereus ATCC 14579;30;0.3
+Bacteroides;Bacteroides fragilis;;Bacteroides fragilis;37;0.63
+Bacillus;Bacillus halodurans;;Bacillus halodurans;30;0.6
+Bartonella;Bartonella henselae ;Houston-1;Bartonella henselae Houston-1;37;3
+Bacillus;Bacillus licheniformis ;ATCC14580;Bacillus licheniformis ATCC14580;37;0.58
+Bartonella;Bartonella quintana ;Toulouse;Bartonella quintana Toulouse;37;3
+Bacillus;Bacillus subtilis ;168;Bacillus subtilis 168;37;0.43
+Bacteroides;Bacteroides thetaiotaomicron ;VPI5482;Bacteroides thetaiotaomicron VPI5482;37;1.47
+Bacillus;Bacillus thuringiensis ;konkukian 97-27;Bacillus thuringiensis konkukian 97-27;30;0.42
+Bdellovibrio;Bdellovibrio bacteriovorus;;Bdellovibrio bacteriovorus;30;1.4
+Bifidobacterium;Bifidobacterium longum ;NCC2705;Bifidobacterium longum NCC2705;37;1.51
+Bordetella;Bordetella bronchiseptica ;RB50;Bordetella bronchiseptica RB50;37;1.42
+Borrelia;Borrelia burgdorferi;;Borrelia burgdorferi;30;4
+Borrelia;Borrelia garinii ;PBi;Borrelia garinii PBi;37;4
+Bordetella;Bordetella pertussis ;12822;Bordetella pertussis 12822;37;3.8
+Brucella;Brucella abortus ;biovar1 9-941;Brucella abortus biovar1 9-941;37;2
+Bradyrhizobium;Bradyrhizobium japonicum ;USDA110;Bradyrhizobium japonicum USDA110;26;20
+Brucella;Brucella melitensis ;16M;Brucella melitensis 16M;37;2
+Brucella;Brucella suis ;1330;Brucella suis 1330;37;2
+Buchnera;Buchnera aphidicola ;Sg;Buchnera aphidicola Sg;22;36
+Buchnera;Buchnera aphidicola ;Baizongia pistaciae;Buchnera aphidicola Baizongia pistaciae;22;36
+Burkholderia;Burkholderia mallei ;ATCC23344;Burkholderia mallei ATCC23344;37;0.75
+Burkholderia;Burkholderia pseudomallei ;K96243;Burkholderia pseudomallei K96243;37;1
+Candidatus;Candidatus Blochmannia ;floridanus;Candidatus Blochmannia floridanus;30;36
+Caulobacter;Caulobacter crescentus;;Caulobacter crescentus;30;1.5
+Carboxydothermus;Carboxydothermus hydrogenoformans;;Carboxydothermus hydrogenoformans;68;2
+Campylobacter;Campylobacter jejuni;;Campylobacter jejuni;37;1.5
+Caldivirga;Caldivirga maquilingensis;;Caldivirga maquilingensis;83;8
+Candidatus;Candidatus Pelagibacter ;ubique;Candidatus Pelagibacter ubique;;30
+Chlamydophila;Chlamydophila abortus ;S26/3;Chlamydophila abortus S26/3;37;24
+Chloroflexus;Chloroflexus aurantiacus;;Chloroflexus aurantiacus;49;6
+Chlamydophila;Chlamydophila caviae ;GPIC;Chlamydophila caviae GPIC;37;24
+Chlamydia;Chlamydia trachomatis ;M;Chlamydia trachomatis M;37;24
+Chlamydia;Chlamydia pneumonia ;A;Chlamydia pneumonia A;37;24
+Chlorobium;Chlorobium tepidum ;TLS;Chlorobium tepidum TLS;30;2
+Chlamydia;Chlamydia trachomatis;;Chlamydia trachomatis;37;24
+Chromobacterium;Chromobacterium violaceum ;ATCC12472;Chromobacterium violaceum ATCC12472;26;0.8
+Clostridium;Clostridium acetobutylicum ;ATCC824;Clostridium acetobutylicum ATCC824;37;0.58
+Clostridium;Clostridium perfringens ;13;Clostridium perfringens 13;37;0.2
+Clostridium;Clostridium tetani ;E88;Clostridium tetani E88;37;0.5
+Coxiella;Coxiella burnetii ;RSA 493;Coxiella burnetii RSA 493;37;8
+Corynebacterium;Corynebacterium glutamicum;;Corynebacterium glutamicum;30;1.2
+Colwellia;Colwellia psychrerythraea;;Colwellia psychrerythraea;10;7.14
+Delftia;Delftia acidovorans;;Delftia acidovorans;30;4.62
+Dehalococcoides;Dehalococcoides ethenogenes ;195;Dehalococcoides ethenogenes 195;35;19
+Desulfotalea;Desulfotalea psychrophila ;LSv54;Desulfotalea psychrophila LSv54;7;27
+Deinococcus;Deinococcus radiodurans ;chromosome1;Deinococcus radiodurans chromosome1;30;1.5
+Desulfotomaculum;Desulfotomaculum reducens;;Desulfotomaculum reducens;37;20
+Desulfovibrio;Desulfovibrio vulgaris ;vulgaris Hildenborough;Desulfovibrio vulgaris vulgaris Hildenborough;32;14
+Dinoroseobacter;Dinoroseobacter shibae;;Dinoroseobacter shibae;33;4.08
+Ehrlichia;Ehrlichia canis;;Ehrlichia canis;37;28
+Ehrlichia;Ehrlichia chaffeensis;;Ehrlichia chaffeensis;37;19
+Enterococcus;Enterococcus faecalis ;V583;Enterococcus faecalis V583;37;0.5
+Enterobacter;Enterobacter sakazakii;;Enterobacter sakazakii;37;0.23
+Erwinia;Erwinia carotovora ;atroseptica SCRI1043;Erwinia carotovora atroseptica SCRI1043;28;0.2
+Escherichia;Escherichia coli ;MG1655;Escherichia coli MG1655;37;0.35
+Francisella;Francisella tularensis;;Francisella tularensis;37;3
+Fusobacterium;Fusobacterium nucleatum;;Fusobacterium nucleatum;37;0.72
+Geobacter;Geobacter sulfurreducens ;PCA;Geobacter sulfurreducens PCA;30;6
+Gluconobacter;Gluconobacter oxydans ;621H;Gluconobacter oxydans 621H;28;0.94
+Gloeobacter;Gloeobacter violaceus;;Gloeobacter violaceus;;72
+Gramella;Gramella forsetii;;Gramella forsetii;;4.17
+Haemophilus;Haemophilus ducreyi ;35000HP;Haemophilus ducreyi 35000HP;36;1.8
+Haemophilus;Haemophilus influenzae;;Haemophilus influenzae;36;0.5
+Haloarcula;Haloarcula marismortui;;Haloarcula marismortui;50;12
+Halobacterium;Halobacterium sp. ;Strain NRC-1;Halobacterium sp. Strain NRC-1;37;9
+Haloquadratum;Haloquadratum walsbyi;;Haloquadratum walsbyi;37;24
+Herpetosiphon;Herpetosiphon aurantiacus;;Herpetosiphon aurantiacus;30;20
+Helicobacter;Helicobacter hepaticus ;ATCC51449;Helicobacter hepaticus ATCC51449;37;4.2
+Helicobacter;Helicobacter pylori;;Helicobacter pylori;37;2.4
+Hyperthermus;Hyperthermus butylicus;;Hyperthermus butylicus;99;2
+Ignicoccus;Ignicoccus hospitalis;;Ignicoccus hospitalis;90;0.83
+Lactobacillus;Lactobacillus acidophilus ;NCFM;Lactobacillus acidophilus NCFM;45;1.8
+Lactobacillus;Lactobacillus johnsonii ;NCC533;Lactobacillus johnsonii NCC533;30;0.9
+Lactococcus;Lactococcus lactis ;IL1403;Lactococcus lactis IL1403;40;0.7
+Lactobacillus;Lactobacillus plantarum ;WCFS1;Lactobacillus plantarum WCFS1;30;1.6
+Leptospira;Leptospira interrogans ;serovar lai 56601 chr1;Leptospira interrogans serovar lai 56601 chr1;29;9
+Legionella;Legionella pneumophila ;pneumophila Philadelphia 1;Legionella pneumophila pneumophila Philadelphia 1;37;3.3
+Leifsonia;Leifsonia xyli ;xyli CTCB07;Leifsonia xyli xyli CTCB07;23;5
+Listeria;Listeria innocua ;Clip11262;Listeria innocua Clip11262;22;0.6
+Listeria;Listeria monocytogenes ;strain EGD;Listeria monocytogenes strain EGD;23;1
+Mannheimia;Mannheimia succiniciproducens ;MBEL55E;Mannheimia succiniciproducens MBEL55E;37;0.6
+Methanosarcina;Methanosarcina barkeri;;Methanosarcina barkeri;37;12
+Methanococcoides;Methanococcoides burtonii;;Methanococcoides burtonii;32;20
+Methylococcus;Methylococcus capsulatus;;Methylococcus capsulatus;37;1.87
+Methylobacterium;Methylobacterium extorquens;;Methylobacterium extorquens;28;4.2
+Methylobacillus;Methylobacillus flagellatus;;Methylobacillus flagellatus;36;2
+Methanococcus;Methanococcus jannaschii;;Methanococcus jannaschii;83;0.5
+Methanopyrus;Methanopyrus kandleri;;Methanopyrus kandleri;98;0.83
+Mesorhizobium;Mesorhizobium loti;;Mesorhizobium loti;26;2.4
+Methanobacterium;Methanobacterium thermoautotrophicum;;Methanobacterium thermoautotrophicum;65;1
+Moorella;Moorella thermoacetica;;Moorella thermoacetica;58;5
+Mycobacterium;Mycobacterium avium ;paratuberculosis k10;Mycobacterium avium paratuberculosis k10;37;10
+Mycobacterium;Mycobacterium bovis ;bovis AF2122/97;Mycobacterium bovis bovis AF2122/97;37;23
+Mycoplasma;Mycoplasma capricolum;;Mycoplasma capricolum;37;2.5
+Mycoplasma;Mycoplasma gallisepticum ;R;Mycoplasma gallisepticum R;37;1
+Mycoplasma;Mycoplasma genitalium;;Mycoplasma genitalium;37;12
+Mycoplasma;Mycoplasma hyopneumoniae ;232;Mycoplasma hyopneumoniae 232;37;2
+Mycobacterium;Mycobacterium leprae;;Mycobacterium leprae;37;240
+Mycoplasma;Mycoplasma mobile ;163K;Mycoplasma mobile 163K;20;10
+Mycoplasma;Mycoplasma mycoides ;mycoides SC;Mycoplasma mycoides mycoides SC;45;2.2
+Mycoplasma;Mycoplasma pneumoniae;;Mycoplasma pneumoniae;37;6
+Mycoplasma;Mycoplasma pulmonis ;UAB CTIP;Mycoplasma pulmonis UAB CTIP;37;1.5
+Mycobacterium;Mycobacterium tuberculosis;;Mycobacterium tuberculosis;37;19
+Myxococcus;Myxococcus xanthus;;Myxococcus xanthus;30;5
+Nanoarchaeum;Nanoarchaeum equitans;;Nanoarchaeum equitans;90;0.75
+Neisseria;Neisseria gonorrhoeae ;FA1090;Neisseria gonorrhoeae FA1090;36;0.58
+Neisseria;Neisseria meningitidis ;A;Neisseria meningitidis A;37;0.72
+Nitrosomonas;Nitrosomonas europaea ;ATCC19718;Nitrosomonas europaea ATCC19718;27;18.5
+Nitrobacter;Nitrobacter winogradskyi;;Nitrobacter winogradskyi;28;8
+Nocardia;Nocardia farcinica;;Nocardia farcinica;37;3
+Nostoc;Nostoc sp. ;PCC 7120;Nostoc sp. PCC 7120;;12
+Oenococcus;Oenococcus oeni;;Oenococcus oeni;24;10.5
+Paracoccus;Paracoccus denitrificans;;Paracoccus denitrificans;30;2.1
+Pasteurella;Pasteurella multocida ;PM70;Pasteurella multocida PM70;37;1
+Parachlamydia;Parachlamydia sp ;UWE25;Parachlamydia sp UWE25;;48
+Petrotoga;Petrotoga mobilis;;Petrotoga mobilis;55;12
+Photorhabdus;Photorhabdus luminescens ;laumondii TTO1;Photorhabdus luminescens laumondii TTO1;28;0.5
+Photobacterium;Photobacterium profundum ;SS9;Photobacterium profundum SS9;10;2.5
+Pirellula;Pirellula sp;;Pirellula sp;28;10
+Picrophilus;Picrophilus torridus ;DSM 9790;Picrophilus torridus DSM 9790;60;6
+Porphyromonas;Porphyromonas gingivalis ;W83;Porphyromonas gingivalis W83;37;2.7
+Propionibacterium;Propionibacterium acnes ;KPA171202;Propionibacterium acnes KPA171202;31;5.1
+Prochlorococcus;Prochlorococcus marinus ;marinus CCMP1375;Prochlorococcus marinus marinus CCMP1375;;17
+Pseudomonas;Pseudomonas aeruginosa ;PA01;Pseudomonas aeruginosa PA01;37;0.5
+Pseudoalteromonas;Pseudoalteromonas haloplanktis;;Pseudoalteromonas haloplanktis;26;0.5
+Psychromonas;Psychromonas ingrahamii;;Psychromonas ingrahamii;12;12
+Pseudomonas;Pseudomonas putida ;KT2440;Pseudomonas putida KT2440;27;1.1
+Pseudomonas;Pseudomonas syringae ;tomato DC3000;Pseudomonas syringae tomato DC3000;27;1.47
+Pyrococcus;Pyrococcus abyssi;;Pyrococcus abyssi;96;0.62
+Pyrobaculum;Pyrobaculum aerophilum;;Pyrobaculum aerophilum;100;3
+Pyrobaculum;Pyrobaculum arsenaticum;;Pyrobaculum arsenaticum;95;1.3
+Pyrococcus;Pyrococcus furiosus;;Pyrococcus furiosus;100;0.62
+Pyrococcus;Pyrococcus horikoshii;;Pyrococcus horikoshii;98;0.62
+Ralstonia;Ralstonia solanacearum ;GMI1000;Ralstonia solanacearum GMI1000;30;4
+Rhodoferax;Rhodoferax ferrireducens;;Rhodoferax ferrireducens;25;8
+Rhodopseudomonas;Rhodopseudomonas palustris;;Rhodopseudomonas palustris;33;9
+Rhodococcus;Rhodococcus sp. ;Strain RHA1;Rhodococcus sp. Strain RHA1;30;5.3
+Rhodospirillum;Rhodospirillum rubrum;;Rhodospirillum rubrum;28;3.8
+Rhodobacter;Rhodobacter sphaeroides;;Rhodobacter sphaeroides;32;3
+Rickettsia;Rickettsia conorii ;Malish 7;Rickettsia conorii Malish 7;35;4.1
+Rickettsia;Rickettsia prowazekii;;Rickettsia prowazekii;35;10
+Rickettsia;Rickettsia typhi ;wilmington;Rickettsia typhi wilmington;35;10
+Rubrobacter;Rubrobacter xylanophilus;;Rubrobacter xylanophilus;60;3.85
+Salinibacter;Salinibacter ruber;;Salinibacter ruber;42;14
+Salmonella;Salmonella typhimurium ;LT2;Salmonella typhimurium LT2;37;0.4
+Shewanella;Shewanella oneidensis ;MR-1;Shewanella oneidensis MR-1;30;0.66
+Sinorhizobium;Sinorhizobium meliloti ;1021;Sinorhizobium meliloti 1021;28;1.5
+Silicibacter;Silicibacter pomeroyi;;Silicibacter pomeroyi;;1.65
+Sorangium;Sorangium cellulosum;;Sorangium cellulosum;30;16
+Sodalis;Sodalis glossinidius;;Sodalis glossinidius;25;26
+Sphingopyxis;Sphingopyxis alaskensis;;Sphingopyxis alaskensis;;2.39
+Streptococcus;Streptococcus agalactiae ;2603VR;Streptococcus agalactiae 2603VR;37;1.8
+Staphylococcus;Staphylococcus aureus ;strain N315;Staphylococcus aureus strain N315;34;0.4
+Streptomyces;Streptomyces coelicolor ;A3(2);Streptomyces coelicolor A3(2);30;2.2
+Staphylococcus;Staphylococcus epidermidis ;ATCC 12228;Staphylococcus epidermidis ATCC 12228;34;0.8
+Staphylothermus;Staphylothermus marinus;;Staphylothermus marinus;87;6.3
+Streptococcus;Streptococcus mutans ;UA159;Streptococcus mutans UA159;37;0.75
+Streptococcus;Streptococcus pneumoniae ;TIGR4;Streptococcus pneumoniae TIGR4;37;0.5
+Streptococcus;Streptococcus pyogenes ;M1;Streptococcus pyogenes M1;37;0.4
+Streptococcus;Streptococcus thermophilus ;LMG18311;Streptococcus thermophilus LMG18311;37;0.43
+Sulfolobus;Sulfolobus acidocaldarius;;Sulfolobus acidocaldarius;70;5.67
+Sulfolobus;Sulfolobus solfataricus;;Sulfolobus solfataricus;87;6
+Sulfolobus;Sulfolobus tokodaii;;Sulfolobus tokodaii;80;6
+Syntrophus;Syntrophus aciditrophicus;;Syntrophus aciditrophicus;35;24
+Synechococcus;Synechococcus elongatus ;PCC6301;Synechococcus elongatus PCC6301;32;6.1
+Syntrophobacter;Syntrophobacter fumaroxidans;;Syntrophobacter fumaroxidans;37;97.86
+Synechocystis;Synechocystis PCC6803;;Synechocystis PCC6803;35;12
+Symbiobacterium;Symbiobacterium thermophilum;;Symbiobacterium thermophilum;60;4.2
+Synechococcus;Synechococcus sp ;WH8102;Synechococcus sp WH8102;32;6
+Thermoplasma;Thermoplasma acidophilum;;Thermoplasma acidophilum;59;2.5
+Thiomicrospira;Thiomicrospira crunogena;;Thiomicrospira crunogena;30;1
+Thermosynechococcus;Thermosynechococcus elongatus ;BP-1;Thermosynechococcus elongatus BP-1;55;5.4
+Thermotoga;Thermotoga maritima;;Thermotoga maritima;80;1.2
+Thermoanaerobacter;Thermoanaerobacter tengcongensis;;Thermoanaerobacter tengcongensis;75;1.1
+Thermus;Thermus thermophilus ;HB27;Thermus thermophilus HB27;75;2.5
+Thermoplasma;Thermoplasma volcanium;;Thermoplasma volcanium;60;2.5
+Treponema;Treponema denticola ;ATCC35405;Treponema denticola ATCC35405;37;5
+Trichodesmium;Trichodesmium erythraeum;;Trichodesmium erythraeum;28;25
+Treponema;Treponema pallidum;;Treponema pallidum;37;33
+Tropheryma;Tropheryma whipplei ;Twist;Tropheryma whipplei Twist;37;28
+Ureaplasma;Ureaplasma urealyticum;;Ureaplasma urealyticum;37;0.9
+Vibrio;Vibrio cholerae;;Vibrio cholerae;37;0.2
+Vibrio;Vibrio fischeri ;ES114;Vibrio fischeri ES114;30;0.3
+Vibrio;Vibrio parahaemolyticus;;Vibrio parahaemolyticus;25;0.2
+Vibrio;Vibrio vulnificus ;CMCP6 chr1;Vibrio vulnificus CMCP6 chr1;25;0.16
+Wigglesworthia;Wigglesworthia glossinidia ;brevipalpis;Wigglesworthia glossinidia brevipalpis;;36
+Wolbachia;Wolbachia endosymbiont ;TRS Brugia malayi;Wolbachia endosymbiont TRS Brugia malayi;;14
+Wolinella;Wolinella succinogenes;;Wolinella succinogenes;37;1
+Xanthomonas;Xanthomonas axonopodis;;Xanthomonas axonopodis;27;7
+Xanthomonas;Xanthomonas campestris;;Xanthomonas campestris;37;3
+Xanthomonas;Xanthomonas oryzae ;oryzae KACC10331;Xanthomonas oryzae oryzae KACC10331;28;2
+Xylella;Xylella fastidiosa ;9a5c;Xylella fastidiosa 9a5c;28;5.13
+Yersinia;Yersinia pestis ;CO92;Yersinia pestis CO92;37;1.25
+Yersinia;Yersinia pseudotuberculosis;;Yersinia pseudotuberculosis;37;0.5
+Zymomonas;Zymomonas mobilis;;Zymomonas mobilis;27;2

@@ -1,0 +1,49 @@
+﻿mason_genus;mason_species;mason_strain;mason_speciesStrain;mason_medium;mason_doublingH;mason_growthTemp;mason_ref
+Azotobacter;Azotobacter chroococcum;;Azotobacter chroococcum;Glucose broth;0.45;;MASON, M. M. 1934 Master's Thesis, Cornell University
+Bacillus;Bacillus cereus;;Bacillus cereus;Glucose broth;0.283333333;;MASON, M. M. 1934 Master's Thesis, Cornell University.
+Bacillus;Bacillus megaterium;;Bacillus megaterium;Broth;0.516666667;;HENRICI, A. T. 1928 Morphologic Variation and Rate of Growth of Bacteria, Springfield, C. C. Thomas.
+Bacillus;Bacillus mycoides;;Bacillus mycoides;Broth;0.466666667;;WARD, M., AND FRANKLAND 1895 Proc. Royal Soc. London, 58, 265.
+Bacillus;Bacillus subtilis;;Bacillus subtilis;Glucose broth;0.433333333;;MASON, M. M. 1934 Master's Thesis, Cornell University.
+Bacillus;Bacillus thermophilis;;Bacillus thermophilis;Glucose broth;0.266666667;55;HANSEN, P. A. 1932 Arch. Microbiol., 4, 23.
+Clostridium;Clostridium botulinum;;Clostridium botulinum;Glucose broth;0.583333333;;WAGNER, E., MAYER, K. F., AND DOZIER, C. C. 1925 Jour. Bact., 10, 321.
+Clostridium;Clostridium butyricum;;Clostridium butyricum;Corn mash;0.85;;McCoY, E., FRED, E. B., ET AL. 1926 Jour. Inf. Dis., 39, 451.
+Clostridium;Clostridium perfringens;;Clostridium perfringens;milk;0.583333333;;FRAZIER, W. C., AND WHITTIER, E. 0. 1931 Jour. Bact., 21, 239.
+Corynebacterium;Corynebacterium diphtheriae;;Corynebacterium diphtheriae;Seum + glucose broth;0.566666667;;MASON, M. M. 1934 Master's Thesis, Cornell University.
+Corynebacterium;Corynebacterium pseudodiphtheriticum;;Corynebacterium pseudodiphtheriticum;Boroth;0.616666666666667|0.383333333333333;;HENRICI, A. T. 1928 Morphologic Variation and Rate of Growth of Bacteria, Springfield, C. C. Thomas.|FRAZIER, W. C., AND WHITTIER, E. 0. 1931 Jour. Bact., 21, 239.
+Enterococcus;Enterococcus faecalis;;Enterococcus faecalis;Milk;0.45;;MASON, M. M. 1934 Master's Thesis, Cornell University.
+Escherichia;Escherichia coli;;Escherichia coli;Milk;0.208333333;;FRAZIER, W. C., AND WHITTIER, E. 0. 1931 Jour. Bact., 21, 239.
+Escherichia;Escherichia communior;;Escherichia communior;Broth;0.266666667;;HEHEWERTH 1901 Arch. Hyg., 39, 321.
+Klebsiella;Klebsiella aerogenes;;Klebsiella aerogenes;Peptone + glucose;0.286666667;;MASON, M. M. 1934 Master's Thesis, Cornell University.
+Lactobacillus;Lactobacillus acidophilus;;Lactobacillus acidophilus;Milk;1.1;;FOTER, M. J. 1933-4 Unpublished data, Cornell University.
+Lactobacillus;Lactobacillus casei;;Lactobacillus casei;Milk;0.633333333;;FRAZIER, W. C., AND WHITTIER, E. 0. 1931 Jour. Bact., 21, 239.
+Lactobacillus;Lactobacillus delbrueckii;;Lactobacillus delbrueckii;Wort;1.383333333;45;SLATOR, A. 1916 Jour. Chem. Soc., 109, 2.
+Lactobacillus;Lactobacillus delbrueckii;bulgaricus;Lactobacillus delbrueckii bulgaricus;Yeast extract;0.616666667;;COHEN, B., AND CLARK, W. M. 1917 Jour. Bact., 4, 409.
+Lactobacillus;Lactobacillus pentoaceticus;;Lactobacillus pentoaceticus;Yeast extract;0.95;;ANDERSON, J. A., FRED, E. B., AND PETERSON, W. H. 1920 Jour. Inf. Dis., 27, 281.
+Lactococcus;Lactococcus lactis;;Lactococcus lactis;Milk;0.391666667;;HEINEMANN, D. G., AND GLENN, T. H. 1908 Jour. Inf. Dis., 5, 534.
+Neisseria;Neisseria mucosa;;Neisseria mucosa;Milk;0.533333333;;HEINEMANN, D. G., AND GLENN, T. H. 1908 Jour. Inf. Dis., 5, 534.
+Pasteurella;Pasteurella lepiseptica;;Pasteurella lepiseptica;Broth + blood;0.406666667;;WEBSTER, L. T. 1925 Jour. Exp. Med., 41, 571.
+Pectobacterium;Pectobacterium carotovorum;;Pectobacterium carotovorum;Glucose broth;0.7;;MASON, M. M. 1934 Master's Thesis, Cornell University.
+Phytomonas;Phytomonas campestre;;Phytomonas campestre;Broth;1.233333333;25;WERNHAM, C. C. 1933 Unpublished data, Cornell University.
+Phytomonas;Phytomonas phaseoli;;Phytomonas phaseoli;Glucose broth;2.3;;MASON, M. M. 1934 Master's Thesis, Cornell University.
+Phytomonas;Phytomonas sojae;;Phytomonas sojae;Broth;1.366666667;25;WOLF AND FOSTER 1921 North Carolina Agr. Exp. Sta. Tech. Bul. 20.
+Proteus;Proteus vulgaris;;Proteus vulgaris;Broth;0.358333333;;STARK, C. B. 1923 Doctor's Thesis, Cornell University.
+Pseudomonas;Pseudomonas aeruginosa;;Pseudomonas aeruginosa;Glucose broth;0.516666667;;MASON, M. M. 1934 Master's Thesis, Cornell University.
+Pseudomonas;Pseudomonas fluorescens;;Pseudomonas fluorescens;Glucose broth;0.571666667;;MASON, M. M. 1934 Master's Thesis, Cornell University.
+Pseudomonas;Pseudomonas savastanoi;;Pseudomonas savastanoi;Broth;1.583333333;25;WOLF AND FOSTER 1921 North Carolina Agr. Exp. Sta. Tech. Bul. 20.
+Pseudomonas;Pseudomonas syringae;;Pseudomonas syringae;Broth;1.26666666666667|1.35;25;WOLF AND FOSTER 1921 North Carolina Agr. Exp. Sta. Tech. Bul. 20.
+Rhizobium;Rhizobium leguminosarum;;Rhizobium leguminosarum;Mannitol-mineral-yeast extract;1.683333333;;SHERMAN, J. M., AND CAMERON, G. M. 1932 Unpublished data, Cornell University.
+Salmonella;Salmonella enterica;;Salmonella enterica;Broth;0.433333333;;WILSON, G. S. 1922 Jour. Bact., 7, 405.
+Salmonella;Salmonella enterica;enterica Enteritidis;Salmonella enterica enterica Enteritidis;Broth;0.358333333;42;LANE-CLAYPON, J. E. 1909 Jour. Hyg., 9, 239.
+Salmonella;Salmonella enterica;enterica Paratyphi A;Salmonella enterica enterica Paratyphi A;Broth;0.383333333;;REICHENBACH, H. 1911 Z. f. Hyg., 69, 171.
+Salmonella;Salmonella enterica;enterica Typhi;Salmonella enterica enterica Typhi;Broth;0.391666667;;MULLER, M. 1895 Zeit. Hyg., 20, 245.
+Serratia;Serratia marcescens;;Serratia marcescens;Milk;0.616666667;;HEINEMANN, D. G., AND GLENN, T. H. 1908 Jour. Inf. Dis., 5, 534.
+Shigella;Shigella dysenteriae;;Shigella dysenteriae;Milk;0.383333333;;HEINEMANN, D. G., AND GLENN, T. H. 1908 Jour. Inf. Dis., 5, 534.
+Staphylococcus;Staphylococcus aureus;;Staphylococcus aureus;Broth;0.45;;GRAHAM-SMITH, G. S. 1920 Jour. Hyg., 19, 133.
+Staphylococcus;Staphylococcus epidermidis;;Staphylococcus epidermidis;Glucose broth;0.408333333;;MASON, M. M. 1934 Master's Thesis, Cornell University.
+Streptococcus;Streptococcus agalactiae;;Streptococcus agalactiae;Milk + glucose;0.6;;MASON, M. M. 1934 Master's Thesis, Cornell University.
+Streptococcus;Streptococcus pneumoniae;;Streptococcus pneumoniae;Broth + serum;0.341666667;;CHESNEY, M. M. 1916 Jour. Exp. Med., 24, 381.
+Streptococcus;Streptococcus pyogenes;;Streptococcus pyogenes;Glucose broth;0.433333333;;FOSTER, L. F. 1921 Jour. Bact., 6, 143.
+Streptococcus;Streptococcus thermophilus;;Streptococcus thermophilus;Milk;0.45;;FRAZIER, W. C., AND WHITTIER, E. 0. 1931 Jour. Bact., 21, 239.
+Vibrio;Vibrio cholerae;;Vibrio cholerae;Broth;0.353333333;;HEINEMANN, D. G., AND GLENN, T. H. 1908 Jour. Inf. Dis., 5, 534.
+Vibrio;Vibrio costatus;;Vibrio costatus;Broth;0.7;;LLOYD, B., AND CRANSTON, J. A. 1930 Biochem. Jour., 24, 529.
+Xanthomonas;Xanthomonas campestris;;Xanthomonas campestris;Broth;2.75;25;WOLF AND FOSTER 1921 North Carolina Agr. Exp. Sta. Tech. Bul. 20.

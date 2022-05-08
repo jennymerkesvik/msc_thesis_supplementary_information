@@ -1,0 +1,549 @@
+﻿refseq_taxID;refseq_genus;refseq_species;refseq_strain;refseq_speciesStrain;refseq_source
+52;Chondromyces;Chondromyces crocatus;;Chondromyces crocatus;soil
+192;Azospirillum;Azospirillum brasilense;;Azospirillum brasilense;root
+195;Campylobacter;Campylobacter coli;;Campylobacter coli;organic chicken farm
+199;Campylobacter;Campylobacter concisus;;Campylobacter concisus;gingival sulcus
+296;Pseudomonas;Pseudomonas fragi;;Pseudomonas fragi;sediment of arctic
+316;Pseudomonas;Pseudomonas stutzeri;;Pseudomonas stutzeri;soil
+470;Acinetobacter;Acinetobacter baumannii;;Acinetobacter baumannii;hospital
+504;Kingella;Kingella kingae;;Kingella kingae;oropharynx
+549;Pantoea;Pantoea agglomerans;;Pantoea agglomerans;lettuce
+571;Klebsiella;Klebsiella oxytoca;;Klebsiella oxytoca;perirectal
+732;Aggregatibacter;Aggregatibacter aphrophilus;;Aggregatibacter aphrophilus;curette
+818;Bacteroides;Bacteroides thetaiotaomicron;;Bacteroides thetaiotaomicron;feces
+824;Campylobacter;Campylobacter gracilis;;Campylobacter gracilis;oral
+964;Herbaspirillum;Herbaspirillum seropedicae;;Herbaspirillum seropedicae;plant (maize/sorghum/rice)
+986;Flavobacterium;Flavobacterium johnsoniae;;Flavobacterium johnsoniae;root
+1079;Blastochloris;Blastochloris viridis;;Blastochloris viridis;freshwater river biome
+1246;Leuconostoc;Leuconostoc lactis;;Leuconostoc lactis;kimchi
+1254;Pediococcus;Pediococcus acidilactici;;Pediococcus acidilactici;feces
+1274;Dermacoccus;Dermacoccus nishinomiyaensis;;Dermacoccus nishinomiyaensis;hot spring
+1280;Staphylococcus;Staphylococcus aureus;;Staphylococcus aureus;the wound exudate of bone fracture
+1284;Staphylococcus;Staphylococcus hyicus;;Staphylococcus hyicus;pig with exfoliative dermatitis
+1286;Staphylococcus;Staphylococcus simulans;;Staphylococcus simulans;peripheral blood
+1288;Staphylococcus;Staphylococcus xylosus;;Staphylococcus xylosus;animal faecal matter
+1295;Staphylococcus;Staphylococcus schleiferi;;Staphylococcus schleiferi;skin
+1304;Streptococcus;Streptococcus salivarius;;Streptococcus salivarius;oral cavity
+1308;Streptococcus;Streptococcus thermophilus;;Streptococcus thermophilus;traditional dairy
+1346;Streptococcus;Streptococcus iniae;;Streptococcus iniae;tissue from oliver flounder
+1374;Planococcus;Planococcus kocurii;;Planococcus kocurii;fish
+1376;Aerococcus;Aerococcus urinae;;Aerococcus urinae;human urine
+1377;Aerococcus;Aerococcus viridans;;Aerococcus viridans;air sample
+1405;Bacillus;Bacillus mycoides;;Bacillus mycoides;soil
+1408;Bacillus;Bacillus pumilus;;Bacillus pumilus;sugar beet rhizosphere
+1426;Parageobacillus;Parageobacillus thermoglucosidans;;Parageobacillus thermoglucosidans;soil
+1428;Bacillus;Bacillus thuringiensis;;Bacillus thuringiensis;soil
+1478;Bacillus;Bacillus simplex;;Bacillus simplex;sugar beet rhizosphere
+1479;Bacillus;Bacillus smithii;;Bacillus smithii;cheese
+1482;Virgibacillus;Virgibacillus halodenitrificans;;Virgibacillus halodenitrificans;solid waste landfill sample
+1492;Clostridium;Clostridium butyricum;;Clostridium butyricum;fecal sample
+1520;Clostridium;Clostridium beijerinckii;;Clostridium beijerinckii;soil
+1600;Lactobacillus;Lactobacillus acetotolerans;;Lactobacillus acetotolerans;japanese sake
+1661;Trueperella;Trueperella pyogenes;;Trueperella pyogenes;uterus
+1687;Bifidobacterium;Bifidobacterium coryneforme;;Bifidobacterium coryneforme;honeybee, hindgut
+1705;Corynebacterium;Corynebacterium stationis;;Corynebacterium stationis;seawater
+1717;Corynebacterium;Corynebacterium diphtheriae;;Corynebacterium diphtheriae;not known
+1771;Mycobacterium;Mycobacterium phlei;;Mycobacterium phlei;environment
+1888;Streptomyces;Streptomyces albus;;Streptomyces albus;soil
+1901;Streptomyces;Streptomyces clavuligerus;;Streptomyces clavuligerus;soil
+1926;Streptomyces;Streptomyces reticuli;;Streptomyces reticuli;soil
+2045;Pimelobacter;Pimelobacter simplex;;Pimelobacter simplex;dry grass and soil
+2094;Mycoplasma;Mycoplasma arginini;;Mycoplasma arginini;cow's milk [envo_0010035]
+2113;Mycoplasma;Mycoplasma californicum;;Mycoplasma californicum;cow with mastitis
+2162;Methanobacterium;Methanobacterium formicicum;;Methanobacterium formicicum;rumen contents
+2325;Thermoanaerobacter;Thermoanaerobacter kivui;;Thermoanaerobacter kivui;marine sediment
+2423;Fervidobacterium;Fervidobacterium islandicum;;Fervidobacterium islandicum;hot spring water sample
+13035;Dactylococcopsis;Dactylococcopsis salina;PCC 8305;Dactylococcopsis salina PCC 8305;solar lake
+28031;Lysinibacillus;Lysinibacillus fusiformis;;Lysinibacillus fusiformis;soil
+28072;Nostoc;Nostoc sp. PCC 7524;PCC 7524;Nostoc sp. PCC 7524;moderate hot spring
+28095;Burkholderia;Burkholderia gladioli;;Burkholderia gladioli;plant
+28116;Bacteroides;Bacteroides ovatus;;Bacteroides ovatus;feces
+28141;Cronobacter;Cronobacter sakazakii;;Cronobacter sakazakii;infant's throat
+29343;Clostridium;Clostridium cellulosi;;Clostridium cellulosi;soil
+29433;Moraxella;Moraxella ovis;;Moraxella ovis;case of pinkeye
+29486;Yersinia;Yersinia ruckeri;;Yersinia ruckeri;aquatic
+29519;Borreliella;Borreliella garinii;;Borreliella garinii;tick
+29554;Mycoplasma;Mycoplasma canadense;;Mycoplasma canadense;cow's milk (envo:0010035)
+33033;Parvimonas;Parvimonas micra;;Parvimonas micra;periapical abscess
+33050;Sphingopyxis;Sphingopyxis macrogoltabida;;Sphingopyxis macrogoltabida;soil
+33941;Geobacillus;Geobacillus thermoleovorans;;Geobacillus thermoleovorans;soil near hot water effluent
+34062;Moraxella;Moraxella osloensis;;Moraxella osloensis;withdrawn fluid
+35703;Citrobacter;Citrobacter amalonaticus;;Citrobacter amalonaticus;stool
+35755;Corynebacterium;Corynebacterium kutscheri;;Corynebacterium kutscheri;lung abscess
+35806;Rhodovulum;Rhodovulum sulfidophilum;;Rhodovulum sulfidophilum;marine mud
+37329;Nocardia;Nocardia farcinica;;Nocardia farcinica;not known
+39960;Erythrobacter;Erythrobacter litoralis;;Erythrobacter litoralis;cyanobacterial mat
+40215;Acinetobacter;Acinetobacter junii;;Acinetobacter junii;limnetic water
+40754;Thioploca;Thioploca ingrica;;Thioploca ingrica;lake sediment
+42256;Rubrobacter;Rubrobacter radiotolerans;;Rubrobacter radiotolerans;water
+43263;Pseudomonas;Pseudomonas alcaligenes;;Pseudomonas alcaligenes;water sample louisiana bayou
+43657;Pseudoalteromonas;Pseudoalteromonas luteoviolacea;;Pseudoalteromonas luteoviolacea;in vitro substrate
+43658;Pseudoalteromonas;Pseudoalteromonas rubra;;Pseudoalteromonas rubra;sea water
+44251;Paenibacillus;Paenibacillus durus;;Paenibacillus durus;marine sediment
+44574;Nitrosomonas;Nitrosomonas communis;;Nitrosomonas communis;neutral soil and freshwater
+44742;Desulfovibrio;Desulfovibrio fairfieldensis;;Desulfovibrio fairfieldensis;liver abcess material
+47763;Streptomyces;Streptomyces lydicus;;Streptomyces lydicus;china: tianjin
+47885;Pseudomonas;Pseudomonas oryzihabitans;;Pseudomonas oryzihabitans;nasopharynx
+47917;Serratia;Serratia fonticola;;Serratia fonticola;soil
+48664;Xanthomonas;Xanthomonas fragariae;;Xanthomonas fragariae;strawberry leaf tissue
+51663;Pediococcus;Pediococcus damnosus;;Pediococcus damnosus;pilsner beer
+52773;Actinomyces;Actinomyces meyeri;;Actinomyces meyeri;curette
+53345;Enterococcus;Enterococcus durans;;Enterococcus durans;water
+53444;Lactobacillus;Lactobacillus lindneri;;Lactobacillus lindneri;brewery environment
+56110;Oscillatoria;Oscillatoria acuminata;PCC 6304;Oscillatoria acuminata PCC 6304;soil
+56458;Xanthomonas;Xanthomonas sacchari;;Xanthomonas sacchari;rice seeds
+56956;Thermus;Thermus brockianus;;Thermus brockianus;environmental
+58049;Colwellia;Colwellia sp. MT41;MT41;Colwellia sp. MT41;water
+61015;Staphylococcus;Staphylococcus succinus;;Staphylococcus succinus;doenjang, fermented soybeans
+61647;Pluralibacter;Pluralibacter gergoviae;;Pluralibacter gergoviae;fish ball
+61648;Kluyvera;Kluyvera intermedia;;Kluyvera intermedia;perirectal
+61652;Serratia;Serratia rubidaea;;Serratia rubidaea;sputum
+66712;Propionibacterium;Propionibacterium freudenreichii;subsp. freudenreichii;Propionibacterium freudenreichii subsp. freudenreichii;emmental cheese
+68570;Streptomyces;Streptomyces albulus;;Streptomyces albulus;environment
+70255;Staphylococcus;Staphylococcus condimenti;;Staphylococcus condimenti;soy sauce mash
+71999;Kocuria;Kocuria palustris;;Kocuria palustris;culture contaminant
+76123;Prevotella;Prevotella enoeca;;Prevotella enoeca;curette
+76731;Roseateles;Roseateles depolymerans;;Roseateles depolymerans;water
+82985;Pragia;Pragia fontium;;Pragia fontium;water pipe
+83617;Stenotrophomonas;Stenotrophomonas nitritireducens;;Stenotrophomonas nitritireducens;lake sediments
+84292;Microbacterium;Microbacterium chocolatum;;Microbacterium chocolatum;soil
+84531;Lysobacter;Lysobacter antibioticus;;Lysobacter antibioticus;agricultural site
+85698;Achromobacter;Achromobacter xylosoxidans;;Achromobacter xylosoxidans;pus
+90270;Xanthomonas;Xanthomonas gardneri;;Xanthomonas gardneri;tomato field
+93220;Pandoraea;Pandoraea pnomenusa;;Pandoraea pnomenusa;cystic fibrosis patient
+99598;Calothrix;Calothrix sp. PCC 7507;PCC 7507;Calothrix sp. PCC 7507;sphagnum bog
+105219;Ralstonia;Ralstonia mannitolilytica;;Ralstonia mannitolilytica;bone marrow
+106592;Ensifer;Ensifer adhaerens;;Ensifer adhaerens;silty clay loam soil (ph 6.1)
+106634;Thioalkalivibrio;Thioalkalivibrio versutus;;Thioalkalivibrio versutus;slush of soda lake
+109790;Lactobacillus;Lactobacillus jensenii;;Lactobacillus jensenii;vaginal environment
+111780;Stanieria;Stanieria cyanosphaera;PCC 7437;Stanieria cyanosphaera PCC 7437;pool at botanical garden
+111781;Leptolyngbya;Leptolyngbya sp. PCC 7376;PCC 7376;Leptolyngbya sp. PCC 7376;crystal cave (limestone)
+113653;Geoglobus;Geoglobus ahangari;;Geoglobus ahangari;marine hydrothermal vent
+118163;Pleurocapsa;Pleurocapsa sp. PCC 7327;PCC 7327;Pleurocapsa sp. PCC 7327;spring water (hunter's hot spring)
+121292;Pseudarthrobacter;Pseudarthrobacter sulfonivorans;;Pseudarthrobacter sulfonivorans;soil
+121719;Pannonibacter;Pannonibacter phragmitetus;;Pannonibacter phragmitetus;blood
+123899;Bordetella;Bordetella trematum;;Bordetella trematum;obscured
+128780;Stenotrophomonas;Stenotrophomonas acidaminiphila;;Stenotrophomonas acidaminiphila;superficial sediment of polluted river
+129338;Geobacillus;Geobacillus subterraneus;;Geobacillus subterraneus;liaohe oil field
+134962;Nocardia;Nocardia soli;;Nocardia soli;crude oil-contamination soil
+136857;Corynebacterium;Corynebacterium testudinoris;;Corynebacterium testudinoris;necrotic lesions in the mouth
+137591;Weissella;Weissella cibaria;;Weissella cibaria;fermented food
+148814;Lactobacillus;Lactobacillus kunkeei;;Lactobacillus kunkeei;gut
+152331;Lactobacillus;Lactobacillus parabuchneri;;Lactobacillus parabuchneri;emmental
+153496;Kozakia;Kozakia baliensis;;Kozakia baliensis;palm brown sugar
+157783;Pseudomonas;Pseudomonas cremoricolorata;;Pseudomonas cremoricolorata;waterfall
+158189;Sphaerochaeta;Sphaerochaeta globosa;str. Buddy;Sphaerochaeta globosa str. Buddy;marine hot spring
+158500;Novosphingobium;Novosphingobium resinovorum;;Novosphingobium resinovorum;soil
+158822;Cedecea;Cedecea neteri;;Cedecea neteri;pickled mackerel sashimi
+161398;Pseudoalteromonas;Pseudoalteromonas phenolica;;Pseudoalteromonas phenolica;sea water
+161896;Corynebacterium;Corynebacterium camporealensis;;Corynebacterium camporealensis;milk
+161899;Corynebacterium;Corynebacterium singulare;;Corynebacterium singulare;semen
+163003;Thermococcus;Thermococcus cleftensis;;Thermococcus cleftensis;deep-sea hydrothermal sulfide chimney
+169760;Paenibacillus;Paenibacillus stellifer;;Paenibacillus stellifer;food-packaging paperboard
+179408;Oscillatoria;Oscillatoria nigro-viridis;PCC 7112;Oscillatoria nigro-viridis PCC 7112;soil in orchid house
+187101;Sneathia;Sneathia amnii;;Sneathia amnii;amniotic fluid
+189426;Paenibacillus;Paenibacillus odorifer;;Paenibacillus odorifer;soil from wheat roots
+190893;Vibrio;Vibrio coralliilyticus;;Vibrio coralliilyticus;coral
+191292;Rhodococcus;Rhodococcus aetherivorans;;Rhodococcus aetherivorans;soil
+191610;Corynebacterium;Corynebacterium atypicum;;Corynebacterium atypicum;unknown human clinical source
+195253;Synechococcus;Synechococcus sp. PCC 6312;PCC 6312;Synechococcus sp. PCC 6312;fresh water
+195522;Thermococcus;Thermococcus nautili;;Thermococcus nautili;east pacific ridge
+198467;Anoxybacillus;Anoxybacillus gonensis;;Anoxybacillus gonensis;hot spring
+198620;Pseudomonas;Pseudomonas koreensis;;Pseudomonas koreensis;soil
+203275;Tannerella;Tannerella forsythia;92A2;Tannerella forsythia 92A2;periodontal pocket
+208439;Amycolatopsis;Amycolatopsis japonica;;Amycolatopsis japonica;soil
+212767;Mycobacterium;Mycobacterium sp. JS623;JS623;Mycobacterium sp. JS623;human smegma
+216142;Pseudomonas;Pseudomonas rhizosphaerae;;Pseudomonas rhizosphaerae;rhizospheric soil of grasses
+216942;Spiroplasma;Spiroplasma litorale;;Spiroplasma litorale;campground
+221027;Treponema;Treponema putidum;;Treponema putidum;periodontitis lesion
+224719;Methanobrevibacter;Methanobrevibacter sp. AbM4;AbM4;Methanobrevibacter sp. AbM4;rumen
+225937;Marinobacter;Marinobacter adhaerens;HP15;Marinobacter adhaerens HP15;german wadden sea
+230089;Photorhabdus;Photorhabdus temperata;subsp. thracensis;Photorhabdus temperata subsp. thracensis;entomopathogenic nematodes
+230361;Methanobrevibacter;Methanobrevibacter millerae;;Methanobrevibacter millerae;rumen fluid
+233316;Alteromonas;Alteromonas stellipolaris;;Alteromonas stellipolaris;seawater
+237609;Pseudomonas;Pseudomonas alkylphenolica;;Pseudomonas alkylphenolica;soil
+240427;Lactobacillus;Lactobacillus paracollinoides;;Lactobacillus paracollinoides;brewery environment
+246198;Prevotella;Prevotella intermedia;17;Prevotella intermedia 17;peridontal pocket
+246432;Staphylococcus;Staphylococcus equorum;;Staphylococcus equorum;saeu-jeotgal, salted fermented food
+246787;Bacteroides;Bacteroides cellulosilyticus;;Bacteroides cellulosilyticus;feces
+251229;Chroococcidiopsis;Chroococcidiopsis thermalis;PCC 7203;Chroococcidiopsis thermalis PCC 7203;soil sample
+257708;Roseomonas;Roseomonas gilardii;;Roseomonas gilardii;lake untersee
+261164;Psychrobacter;Psychrobacter alimentarius;;Psychrobacter alimentarius;rock (envo:00001995)
+261292;Nitrosomonas;Nitrosomonas sp. Is79A3;Is79A3;Nitrosomonas sp. Is79A3;freshwater lake
+272123;Anabaena;Anabaena cylindrica;PCC 7122;Anabaena cylindrica PCC 7122;water, most likely pond
+278137;Mycobacterium;Mycobacterium gilvum;Spyr1;Mycobacterium gilvum Spyr1;creosote contaminated soil
+279113;Collimonas;Collimonas pratensis;;Collimonas pratensis;dune grassland
+285473;Streptomyces;Streptomyces rubrolavendulae;;Streptomyces rubrolavendulae;soil
+289377;Thermodesulfobacterium;Thermodesulfobacterium commune;DSM 2178;Thermodesulfobacterium commune DSM 2178;sediment of ink pot hot spring
+292564;Cyanobium;Cyanobium gracile;PCC 6307;Cyanobium gracile PCC 6307;lake water
+292913;Sphingopyxis;Sphingopyxis sp. 113P3;113P3;Sphingopyxis sp. 113P3;activated sludge
+300019;Microbacterium;Microbacterium paludicola;;Microbacterium paludicola;farmland soil
+314722;Pseudoxanthomonas;Pseudoxanthomonas suwonensis;;Pseudoxanthomonas suwonensis;soil
+316275;Aliivibrio;Aliivibrio salmonicida;LFI1238;Aliivibrio salmonicida LFI1238;atlantic cod
+317936;Nostoc;Nostoc sp. PCC 7107;PCC 7107;Nostoc sp. PCC 7107;shallow pond
+320483;Anaplasma;Anaplasma marginale;str. Florida;Anaplasma marginale str. Florida;erythrocytes
+330734;Marinobacter;Marinobacter psychrophilus;;Marinobacter psychrophilus;sea-ice
+345632;Geobacter;Geobacter pickeringii;;Geobacter pickeringii;kaolin clays
+362257;Streptomyces;Streptomyces vietnamensis;;Streptomyces vietnamensis;soil
+366522;Sulfurospirillum;Sulfurospirillum cavolei;;Sulfurospirillum cavolei;chloroethene-contaminated groundwater
+373994;Rivularia;Rivularia sp. PCC 7116;PCC 7116;Rivularia sp. PCC 7116;unialgal culture in marine water
+376489;Halotalea;Halotalea alkalilenta;;Halotalea alkalilenta;rhizosphere
+391595;Roseobacter;Roseobacter litoralis;Och 149;Roseobacter litoralis Och 149;seaweed
+391616;Octadecabacter;Octadecabacter arcticus;238;Octadecabacter arcticus 238;150 km offshore
+400092;Pontibacter;Pontibacter korlensis;;Pontibacter korlensis;desert
+401472;Corynebacterium;Corynebacterium ureicelerivorans;;Corynebacterium ureicelerivorans;blood culture
+407035;Salinicoccus;Salinicoccus halodurans;;Salinicoccus halodurans;qaidam basin
+408015;Streptomyces;Streptomyces xiamenensis;;Streptomyces xiamenensis;sediment
+413882;Polyangium;Polyangium brachysporum;;Polyangium brachysporum;soil
+419475;Ochrobactrum;Ochrobactrum pseudogrignonense;;Ochrobactrum pseudogrignonense;tropical soil
+435897;Lysobacter;Lysobacter capsici;;Lysobacter capsici;soil
+443218;Hoyosella;Hoyosella subflava;DQS3-9A1;Hoyosella subflava DQS3-9A1;crude oil-polluted soil
+444103;Streptomyces;Streptomyces sp. CNQ-509;CNQ-509;Streptomyces sp. CNQ-509;marine sediment
+446468;Nocardiopsis;Nocardiopsis dassonvillei;subsp. dassonvillei DSM 43111;Nocardiopsis dassonvillei subsp. dassonvillei DSM 43111;blood
+446470;Stackebrandtia;Stackebrandtia nassauensis;DSM 44728;Stackebrandtia nassauensis DSM 44728;soil
+446860;Kocuria;Kocuria flava;;Kocuria flava;air
+457405;Fusobacterium;Fusobacterium nucleatum;subsp. animalis 7_1;Fusobacterium nucleatum subsp. animalis 7_1;biological product [envo:02000043]
+480520;Myroides;Myroides profundi;;Myroides profundi;sediment
+483219;Myxococcus;Myxococcus fulvus;HW-1;Myxococcus fulvus HW-1;seawater
+483547;Geoalkalibacter;Geoalkalibacter subterraneus;;Geoalkalibacter subterraneus;oil production brine
+487316;Acinetobacter;Acinetobacter soli;;Acinetobacter soli;soil
+497965;Cyanothece;Cyanothece sp. PCC 7822;PCC 7822;Cyanothece sp. PCC 7822;fresh water in rice field
+502558;Eggerthella;Eggerthella sp. YY7918;YY7918;Eggerthella sp. YY7918;adult human intestine
+502682;Erythrobacter;Erythrobacter gangjinensis;;Erythrobacter gangjinensis;water, [envo:00002006]
+516051;Muricauda;Muricauda lutaonensis;;Muricauda lutaonensis;a coastal hot spring
+521674;Planctopirus;Planctopirus limnophila;DSM 3776;Planctopirus limnophila DSM 3776;surface water
+523846;Methanothermus;Methanothermus fervidus;DSM 2088;Methanothermus fervidus DSM 2088;hot solfataric spring
+526224;Brachyspira;Brachyspira murdochii;DSM 12563;Brachyspira murdochii DSM 12563;intestinal contents of healthy swine
+526227;Meiothermus;Meiothermus silvanus;DSM 9946;Meiothermus silvanus DSM 9946;hot spring
+528191;Paenibacillus;Paenibacillus xylanexedens;;Paenibacillus xylanexedens;sediment
+529120;Alteromonas;Alteromonas macleodii;ATCC 27126;Alteromonas macleodii ATCC 27126;seawater surface
+529884;Rhodoluna;Rhodoluna lacicola;;Rhodoluna lacicola;freshwater
+531844;Flavobacteriaceae;Flavobacteriaceae bacterium;3519-10;Flavobacteriaceae bacterium 3519-10;glacial ice, 3519 m depth
+536227;Clostridium;Clostridium carboxidivorans;P7;Clostridium carboxidivorans P7;agricultural settling lagoon
+543877;Altererythrobacter;Altererythrobacter marensis;;Altererythrobacter marensis;seawater
+544580;Actinomyces;Actinomyces oris;;Actinomyces oris;curette
+546263;Neisseria;Neisseria elongata;subsp. glycolytica ATCC 29315;Neisseria elongata subsp. glycolytica ATCC 29315;throat
+546269;Filifactor;Filifactor alocis;ATCC 35896;Filifactor alocis ATCC 35896;biological product [envo:02000043]
+546271;Selenomonas;Selenomonas sputigena;ATCC 35185;Selenomonas sputigena ATCC 35185;subgingival sulcus
+547559;Natrialba;Natrialba magadii;ATCC 43099;Natrialba magadii ATCC 43099;atcc 43099
+548479;Mobiluncus;Mobiluncus curtisii;ATCC 43063;Mobiluncus curtisii ATCC 43063;biological product [envo:02000043]
+550540;Ferrimonas;Ferrimonas balearica;DSM 9799;Ferrimonas balearica DSM 9799;surface sediment
+553174;Prevotella;Prevotella melaninogenica;ATCC 25845;Prevotella melaninogenica ATCC 25845;biological product [envo:02000043]
+553190;Gardnerella;Gardnerella vaginalis;409-05;Gardnerella vaginalis 409-05;biological product [envo:02000043]
+555079;Thermosediminibacter;Thermosediminibacter oceani;DSM 16646;Thermosediminibacter oceani DSM 16646;deep sea sediment
+555217;Zymomonas;Zymomonas mobilis;subsp. mobilis ATCC 10988;Zymomonas mobilis subsp. mobilis ATCC 10988;fermenting agave juice
+558173;Corynebacterium;Corynebacterium doosanense;CAU 212 = DSM 45436;Corynebacterium doosanense CAU 212 = DSM 45436;yeongdeuk-gun
+568814;Streptococcus;Streptococcus suis;BM407;Streptococcus suis BM407;human case of meningitis
+571913;Luteipulveratus;Luteipulveratus mongoliensis;;Luteipulveratus mongoliensis;mongolian soil
+571915;Corynebacterium;Corynebacterium mustelae;;Corynebacterium mustelae;necropsy lung, liver and kidney tissue
+572478;Vulcanisaeta;Vulcanisaeta distributa;DSM 14429;Vulcanisaeta distributa DSM 14429;hot spring
+572479;Halanaerobium;Halanaerobium praevalens;DSM 2228;Halanaerobium praevalens DSM 2228;great salt lake sediment
+572480;Arcobacter;Arcobacter nitrofigilis;DSM 7299;Arcobacter nitrofigilis DSM 7299;roots
+572544;Ilyobacter;Ilyobacter polytropus;DSM 2926;Ilyobacter polytropus DSM 2926;marine mud
+573061;Clostridium;Clostridium cellulovorans;743B;Clostridium cellulovorans 743B;atcc 35296
+573065;Asticcacaulis;Asticcacaulis excentricus;CB 48;Asticcacaulis excentricus CB 48;pond water
+573413;Sediminispirochaeta;Sediminispirochaeta smaragdinae;DSM 11293;Sediminispirochaeta smaragdinae DSM 11293;oil field
+575540;Isosphaera;Isosphaera pallida;ATCC 43644;Isosphaera pallida ATCC 43644;algal mat from kah-nee-tah hot spring
+577650;Desulfobulbus;Desulfobulbus propionicus;DSM 2032;Desulfobulbus propionicus DSM 2032;freshwater mud
+579138;Zymomonas;Zymomonas mobilis;subsp. pomaceae ATCC 29192;Zymomonas mobilis subsp. pomaceae ATCC 29192;sick cider
+580340;Thermovirga;Thermovirga lienii;DSM 17291;Thermovirga lienii DSM 17291;production water from an oil well
+585423;Synechococcus;Synechococcus sp. KORDI-49;KORDI-49;Synechococcus sp. KORDI-49;seawater
+585425;Synechococcus;Synechococcus sp. KORDI-52;KORDI-52;Synechococcus sp. KORDI-52;seawater
+586416;Terribacillus;Terribacillus aidingensis;;Terribacillus aidingensis;plant
+589873;Alteromonas;Alteromonas australica;;Alteromonas australica;sea water
+590998;Cellulomonas;Cellulomonas fimi;ATCC 484;Cellulomonas fimi ATCC 484;soil
+593907;Cellulomonas;Cellulomonas gilvus;ATCC 13127;Cellulomonas gilvus ATCC 13127;feces
+595494;Tolumonas;Tolumonas auensis;DSM 9187;Tolumonas auensis DSM 9187;sediment of freshwater lake
+596154;Alicycliphilus;Alicycliphilus denitrificans;K601;Alicycliphilus denitrificans K601;anaerobic sewer sludge
+610130;Clostridium;Clostridium saccharolyticum;WM1;Clostridium saccharolyticum WM1;sludge
+621456;Sphingomonas;Sphingomonas melonis;TY;Sphingomonas melonis TY;no
+633147;Olsenella;Olsenella uli;DSM 7084;Olsenella uli DSM 7084;gingival crevice
+633149;Brevundimonas;Brevundimonas subvibrioides;ATCC 15264;Brevundimonas subvibrioides ATCC 15264;fresh water
+637971;Lactobacillus;Lactobacillus koreensis;;Lactobacillus koreensis;kimchi
+639283;Starkeya;Starkeya novella;DSM 506;Starkeya novella DSM 506;soil
+640081;Dechlorosoma;Dechlorosoma suillum;PS;Dechlorosoma suillum PS;swine waste primary lagoon sediment
+640132;Segniliparus;Segniliparus rotundus;DSM 44985;Segniliparus rotundus DSM 44985;sputum
+642492;Clostridium;Clostridium lentocellum;DSM 5427;Clostridium lentocellum DSM 5427;river sediment with paper mill waste
+643561;Acidovorax;Acidovorax avenae;subsp. avenae ATCC 19860;Acidovorax avenae subsp. avenae ATCC 19860;maize leaf
+643562;Desulfovibrio;Desulfovibrio aespoeensis;Aspo-2;Desulfovibrio aespoeensis Aspo-2;granitic rock aquifer at 600 m depth
+643867;Marivirga;Marivirga tractuosa;DSM 4126;Marivirga tractuosa DSM 4126;beach sand
+644282;Desulfarculus;Desulfarculus baarsii;DSM 2075;Desulfarculus baarsii DSM 2075;ditch mud
+646529;Desulfosporosinus;Desulfosporosinus acidiphilus;SJ4;Desulfosporosinus acidiphilus SJ4;acid mining effluent decantation pond
+649638;Truepera;Truepera radiovictrix;DSM 17093;Truepera radiovictrix DSM 17093;hot spings runoff
+649639;Bacillus;Bacillus cellulosilyticus;DSM 2522;Bacillus cellulosilyticus DSM 2522;soil
+658172;Candidatus;Candidatus Liberibacter;solanacearum CLso-ZC1;Candidatus Liberibacter solanacearum CLso-ZC1;zebra chip-infected potato field
+666509;Planktomarina;Planktomarina temperata;RCA23;Planktomarina temperata RCA23;water
+667015;Bacteroides;Bacteroides salanitronis;DSM 18170;Bacteroides salanitronis DSM 18170;cecum
+669041;Tenacibaculum;Tenacibaculum dicentrarchi;;Tenacibaculum dicentrarchi;skin lesion
+670487;Oceanithermus;Oceanithermus profundus;DSM 14977;Oceanithermus profundus DSM 14977;deep sea hot vent
+679901;Methanosalsum;Methanosalsum zhilinae;DSM 4017;Methanosalsum zhilinae DSM 4017;sediment of alkaline lake
+679935;Alistipes;Alistipes finegoldii;DSM 17242;Alistipes finegoldii DSM 17242;appendix tissue
+680279;Agarivorans;Agarivorans gilvus;;Agarivorans gilvus;water
+681645;Corynebacterium;Corynebacterium pseudotuberculosis;C231;Corynebacterium pseudotuberculosis C231;caseous lymphadenitis abscess
+690566;Sphingobium;Sphingobium chlorophenolicum;L-1;Sphingobium chlorophenolicum L-1;freshwater sediment
+693661;Archaeoglobus;Archaeoglobus veneficus;SNP6;Archaeoglobus veneficus SNP6;black smoker wall, 3500 m depth
+693977;Deinococcus;Deinococcus proteolyticus;MRP;Deinococcus proteolyticus MRP;feces
+694430;Natronococcus;Natronococcus occultus;SP4;Natronococcus occultus SP4;soda lake lake magadi
+694431;Desulfurella;Desulfurella acetivorans;A63;Desulfurella acetivorans A63;hot spring
+696127;Candidatus;Candidatus Midichloria;mitochondrii IricVA;Candidatus Midichloria mitochondrii IricVA;ovary from adult female
+696281;Desulfotomaculum;Desulfotomaculum ruminis;DSM 2154;Desulfotomaculum ruminis DSM 2154;rumen of hay-fed sheep
+697281;Mahella;Mahella australiensis;50-1 BON;Mahella australiensis 50-1 BON;riverslea oil field
+697284;Paenibacillus;Paenibacillus larvae;subsp. larvae DSM 25430;Paenibacillus larvae subsp. larvae DSM 25430;afb-diseased colony
+697303;Thermoanaerobacter;Thermoanaerobacter wiegelii;Rt8.B1;Thermoanaerobacter wiegelii Rt8.B1;freshwater hot spring
+698737;Staphylococcus;Staphylococcus lugdunensis;HKU09-01;Staphylococcus lugdunensis HKU09-01;clinical specimen
+698761;Rhizobium;Rhizobium tropici;CIAT 899;Rhizobium tropici CIAT 899;phaseolus vulgaris root nodule
+699246;Mageeibacillus;Mageeibacillus indolicus;UPII9-5;Mageeibacillus indolicus UPII9-5;biological product [envo:02000043]
+700015;Coriobacterium;Coriobacterium glomerans;PW2;Coriobacterium glomerans PW2;intestinal tract
+700598;Niastella;Niastella koreensis;GR20-10;Niastella koreensis GR20-10;soil cultivated with korean ginseng
+701347;Enterobacter;Enterobacter lignolyticus;SCF1;Enterobacter lignolyticus SCF1;short cloud forest soil
+702459;Bifidobacterium;Bifidobacterium bifidum;PRL2010;Bifidobacterium bifidum PRL2010;infant stool sample
+706191;Pantoea;Pantoea ananatis;LMG 20103;Pantoea ananatis LMG 20103;blight and dieback of eucalyptus
+706587;Desulfomonile;Desulfomonile tiedjei;DSM 6799;Desulfomonile tiedjei DSM 6799;sewage sludge
+709991;Odoribacter;Odoribacter splanchnicus;DSM 20712;Odoribacter splanchnicus DSM 20712;abdominal abscess
+710421;Mycobacterium;Mycobacterium chubuense;NBB4;Mycobacterium chubuense NBB4;creosote-contaminated soil
+710696;Intrasporangium;Intrasporangium calvum;DSM 43043;Intrasporangium calvum DSM 43043;air in a school dining room
+712357;Leptotrichia;Leptotrichia sp. oral taxon 212;oral taxon 212;Leptotrichia sp. oral taxon 212;curette
+717605;Thermobacillus;Thermobacillus composti;KWC4;Thermobacillus composti KWC4;composting reactor
+717773;Thioalkalimicrobium;Thioalkalimicrobium cyclicum;ALM1;Thioalkalimicrobium cyclicum ALM1;water
+743720;Pseudomonas;Pseudomonas fulva;12-X;Pseudomonas fulva 12-X;rice paddy
+743967;Mycoplasma;Mycoplasma yeatsii;GM274B;Mycoplasma yeatsii GM274B;ear canal of goat
+743971;Mycoplasma;Mycoplasma flocculare;ATCC 27399;Mycoplasma flocculare ATCC 27399;pig with catarrhal pneumonia
+744872;Treponema;Treponema caldarium;DSM 7334;Treponema caldarium DSM 7334;hunter's hot spring
+746697;Aequorivita;Aequorivita sublithincola;DSM 14238;Aequorivita sublithincola DSM 14238;sea water
+747365;Thermodesulfobium;Thermodesulfobium narugense;DSM 14796;Thermodesulfobium narugense DSM 14796;hot spring
+748449;Halobacteroides;Halobacteroides halobius;DSM 5150;Halobacteroides halobius DSM 5150;dead sea sediment
+754409;Winogradskyella;Winogradskyella sp. PG-2;PG-2;Winogradskyella sp. PG-2;marine agar 2216
+754502;Paraburkholderia;Paraburkholderia sprentiae;WSM5005;Paraburkholderia sprentiae WSM5005;root nodule
+755178;Cyanobacterium;Cyanobacterium aponinum;PCC 10605;Cyanobacterium aponinum PCC 10605;fresh water
+755732;Fluviicola;Fluviicola taffensis;DSM 16823;Fluviicola taffensis DSM 16823;water
+756272;Rubinisphaera;Rubinisphaera brasiliensis;DSM 5305;Rubinisphaera brasiliensis DSM 5305;water from a salt pit
+759620;Weissella;Weissella ceti;;Weissella ceti;brain
+760011;Sphaerochaeta;Sphaerochaeta coccoides;DSM 17374;Sphaerochaeta coccoides DSM 17374;termite hindgut
+760192;Haliscomenobacter;Haliscomenobacter hydrossis;DSM 1100;Haliscomenobacter hydrossis DSM 1100;activated sludge
+760570;Streptococcus;Streptococcus parasanguinis;ATCC 15912;Streptococcus parasanguinis ATCC 15912;biological product [envo:02000043]
+761193;Runella;Runella slithyformis;DSM 19594;Runella slithyformis DSM 19594;fresh water lake
+762903;Pseudopedobacter;Pseudopedobacter saltans;DSM 12145;Pseudopedobacter saltans DSM 12145;soil
+762948;Rothia;Rothia dentocariosa;ATCC 17931;Rothia dentocariosa ATCC 17931;biological product [envo:02000043]
+765177;Desulfurococcus;Desulfurococcus mucosus;DSM 2162;Desulfurococcus mucosus DSM 2162;hot solfataric spring
+765910;Marichromatium;Marichromatium purpuratum;984;Marichromatium purpuratum 984;marine sponge
+765911;Thiocystis;Thiocystis violascens;DSM 198;Thiocystis violascens DSM 198;brackish pond
+767029;Pseudopropionibacterium;Pseudopropionibacterium propionicum;F0230a;Pseudopropionibacterium propionicum F0230a;biological product [envo:02000043]
+767031;Prevotella;Prevotella denticola;F0289;Prevotella denticola F0289;biological product [envo:02000043]
+767434;Frateuria;Frateuria aurantia;DSM 6220;Frateuria aurantia DSM 6220;lilium auratum flower, japan
+767817;Desulfotomaculum;Desulfotomaculum gibsoniae;DSM 7213;Desulfotomaculum gibsoniae DSM 7213;freshwater mud
+768670;Calditerrivibrio;Calditerrivibrio nitroreducens;DSM 19672;Calditerrivibrio nitroreducens DSM 19672;terrestrial hot spring
+768672;Desulfurococcus;Desulfurococcus fermentans;DSM 16532;Desulfurococcus fermentans DSM 16532;freshwater hot spring
+768700;Mycoplasma;Mycoplasma suis;str. Illinois;Mycoplasma suis str. Illinois;blood of an infected pig
+771875;Fervidobacterium;Fervidobacterium pennivorans;DSM 9078;Fervidobacterium pennivorans DSM 9078;mud of hot spring spa
+797210;Halopiger;Halopiger xanaduensis;SH-6;Halopiger xanaduensis SH-6;sediment of lake shangmatala
+797304;Natronobacterium;Natronobacterium gregoryi;SP2;Natronobacterium gregoryi SP2;lake water
+838561;Spiroplasma;Spiroplasma mirum;ATCC 29335;Spiroplasma mirum ATCC 29335;rabbit tick
+857087;Methylomonas;Methylomonas methanica;MC09;Methylomonas methanica MC09;soil
+858215;Thermoanaerobacterium;Thermoanaerobacterium xylanolyticum;LX-11;Thermoanaerobacterium xylanolyticum LX-11;frying pan springs (thermal spring)
+859194;Mycoplasma;Mycoplasma haemofelis;Ohio2;Mycoplasma haemofelis Ohio2;blood from an infected cat
+860228;Capnocytophaga;Capnocytophaga canimorsus;Cc5;Capnocytophaga canimorsus Cc5;fatal septicemia after dog bite
+860235;Kibdelosporangium;Kibdelosporangium phytohabitans;;Kibdelosporangium phytohabitans;inner tissues of medicinal plant
+865938;Weeksella;Weeksella virosa;DSM 16922;Weeksella virosa DSM 16922;urine
+867900;Cellulophaga;Cellulophaga lytica;DSM 7489;Cellulophaga lytica DSM 7489;beach mud
+868864;Desulfurobacterium;Desulfurobacterium thermolithotrophum;DSM 11699;Desulfurobacterium thermolithotrophum DSM 11699;deep-sea hydrothermal vent chimney
+869209;Treponema;Treponema succinifaciens;DSM 2489;Treponema succinifaciens DSM 2489;colon
+869211;Spirochaeta;Spirochaeta thermophila;DSM 6578;Spirochaeta thermophila DSM 6578;marine hot spring
+869212;Turneriella;Turneriella parva;DSM 21527;Turneriella parva DSM 21527;contaminated culture medium
+879243;Porphyromonas;Porphyromonas asaccharolytica;DSM 20707;Porphyromonas asaccharolytica DSM 20707;empyema
+880070;Cyclobacterium;Cyclobacterium marinum;DSM 745;Cyclobacterium marinum DSM 745;coelomic fluid of a sand dollar
+880071;Bernardetia;Bernardetia litoralis;DSM 6794;Bernardetia litoralis DSM 6794;sea water aquarium outflow
+880073;Caldithrix;Caldithrix abyssi;DSM 13497;Caldithrix abyssi DSM 13497;hydrothermal vent -3000 m
+880074;Barnesiella;Barnesiella viscericola;DSM 18177;Barnesiella viscericola DSM 18177;chicken caecum
+888727;Eubacterium;Eubacterium sulci;ATCC 35585;Eubacterium sulci ATCC 35585;curette
+908937;Prevotella;Prevotella dentalis;DSM 3688;Prevotella dentalis DSM 3688;dental root canal
+914150;Kangiella;Kangiella geojedonensis;;Kangiella geojedonensis;seawater
+926556;Echinicola;Echinicola vietnamensis;DSM 17526;Echinicola vietnamensis DSM 17526;seawater from mussel farm
+926571;Nitrososphaera;Nitrososphaera viennensis;EN76;Nitrososphaera viennensis EN76;soil
+929556;Solitalea;Solitalea canadensis;DSM 3403;Solitalea canadensis DSM 3403;soil
+929562;Emticicia;Emticicia oligotrophica;DSM 17448;Emticicia oligotrophica DSM 17448;warm spring water
+930171;Pseudarthrobacter;Pseudarthrobacter phenanthrenivorans;Sphe3;Pseudarthrobacter phenanthrenivorans Sphe3;creosote-polluted soil
+931089;Corynebacterium;Corynebacterium deserti;GIMN1.010;Corynebacterium deserti GIMN1.010;mixed sand sample
+981539;Streptococcus;Streptococcus gallolyticus;subsp. gallolyticus ATCC 43143;Streptococcus gallolyticus subsp. gallolyticus ATCC 43143;human blood
+983544;Lacinutrix;Lacinutrix sp. 5H-3-7-4;5H-3-7-4;Lacinutrix sp. 5H-3-7-4;deep sea
+999552;Leisingera;Leisingera methylohalidivorans;DSM 14336;Leisingera methylohalidivorans DSM 14336;seawater collected from a tide pool
+1006006;Metallosphaera;Metallosphaera cuprina;Ar-4;Metallosphaera cuprina Ar-4;sulfuric hot spring
+1007676;Lactobacillus;Lactobacillus ginsenosidimutans;;Lactobacillus ginsenosidimutans;kimchi
+1028800;Neorhizobium;Neorhizobium galegae;bv. orientalis str. HAMBI 540;Neorhizobium galegae bv. orientalis str. HAMBI 540;galega orientalis root nodule
+1028989;Pseudomonas;Pseudomonas sp. StFLB209;StFLB209;Pseudomonas sp. StFLB209;leaf
+1029756;Hyphomicrobium;Hyphomicrobium nitrativorans;NL23;Hyphomicrobium nitrativorans NL23;denitrifying biofilm treating seawater
+1031564;Campylobacter;Campylobacter insulaenigrae;NCTC 12927;Campylobacter insulaenigrae NCTC 12927;marine mammal
+1031746;Campylobacter;Campylobacter hyointestinalis;subsp. hyointestinalis LMG 9260;Campylobacter hyointestinalis subsp. hyointestinalis LMG 9260;feces
+1042156;Clostridium;Clostridium sp. SY8519;SY8519;Clostridium sp. SY8519;adult human intestine
+1045854;Weissella;Weissella koreensis;KACC 15510;Weissella koreensis KACC 15510;kimchi
+1045855;Pseudoxanthomonas;Pseudoxanthomonas spadix;BD-a59;Pseudoxanthomonas spadix BD-a59;btex contaminated soil
+1050174;Corynebacterium;Corynebacterium epidermidicanis;;Corynebacterium epidermidicanis;skin
+1054217;Thermoplasmatales;Thermoplasmatales archaeon;BRNA1;Thermoplasmatales archaeon BRNA1;digesta samples from rumen
+1056495;Caldisphaera;Caldisphaera lagunensis;DSM 15908;Caldisphaera lagunensis DSM 15908;an acidic hot spring
+1071400;Lactobacillus;Lactobacillus buchneri;CD034;Lactobacillus buchneri CD034;stable grass silage
+1072256;Corynebacterium;Corynebacterium uterequi;;Corynebacterium uterequi;uterus of a maiden mare
+1072685;Basilea;Basilea psittacipulmonis;DSM 24701;Basilea psittacipulmonis DSM 24701;lung
+1074467;Lactobacillus;Lactobacillus heilongjiangensis;;Lactobacillus heilongjiangensis;traditional pickle
+1076550;Pantoea;Pantoea rwandensis;;Pantoea rwandensis;waterfall
+1088721;Novosphingobium;Novosphingobium pentaromativorans;US6-1;Novosphingobium pentaromativorans US6-1;mud sediment
+1094489;Bartonella;Bartonella australis;Aust/NH1;Bartonella australis Aust/NH1;host blood
+1094497;Bartonella;Bartonella vinsonii;subsp. berkhoffii str. Winnie;Bartonella vinsonii subsp. berkhoffii str. Winnie;host blood
+1096856;Pseudonocardia;Pseudonocardia sp. EC080619-01;EC080619-01;Pseudonocardia sp. EC080619-01;exoskeleton of ant
+1111676;Mycoplasma;Mycoplasma haemocanis;str. Illinois;Mycoplasma haemocanis str. Illinois;blood of naturally infected dog
+1116391;Paenibacillus;Paenibacillus mucilaginosus;3016;Paenibacillus mucilaginosus 3016;rhizosphere soil
+1117644;Mycoplasma;Mycoplasma canis;PG 14;Mycoplasma canis PG 14;throat
+1121088;Bacillus;Bacillus coagulans;DSM 1 = ATCC 7050;Bacillus coagulans DSM 1 = ATCC 7050;dairy (evaporated milk)
+1126833;Paenibacillus;Paenibacillus beijingensis;;Paenibacillus beijingensis;jujube rhizosphere soil
+1138822;Lactobacillus;Lactobacillus curieae;;Lactobacillus curieae;the brine of stinky tofu
+1141883;Massilia;Massilia putida;;Massilia putida;wolfram mine tailing
+1143323;Chlamydia;Chlamydia gallinacea;08-1274/3;Chlamydia gallinacea 08-1274/3;cloacal swab
+1157951;Providencia;Providencia stuartii;MRSN 2154;Providencia stuartii MRSN 2154;blood
+1160721;Ruminococcus;Ruminococcus bicirculans;;Ruminococcus bicirculans;washed fiber of faecal sample
+1163745;Helicobacter;Helicobacter cetorum;MIT 99-5656;Helicobacter cetorum MIT 99-5656;stomach of wild stranded animal
+1168034;Draconibacterium;Draconibacterium orientale;;Draconibacterium orientale;marine sediment sample
+1170562;Calothrix;Calothrix sp. PCC 6303;PCC 6303;Calothrix sp. PCC 6303;unialgal culture in lake water
+1171377;Bibersteinia;Bibersteinia trehalosi;USDA-ARS-USMARC-192;Bibersteinia trehalosi USDA-ARS-USMARC-192;mucus
+1173027;Microcoleus;Microcoleus sp. PCC 7113;PCC 7113;Microcoleus sp. PCC 7113;orchid house soil
+1173263;Synechococcus;Synechococcus sp. PCC 7502;PCC 7502;Synechococcus sp. PCC 7502;sphagnum bog
+1178482;Halomonas;Halomonas huangheensis;;Halomonas huangheensis;soil
+1182568;Deinococcus;Deinococcus puniceus;;Deinococcus puniceus;soil
+1182571;Deinococcus;Deinococcus swuensis;;Deinococcus swuensis;soil
+1183438;Gloeobacter;Gloeobacter kilaueensis;JS1;Gloeobacter kilaueensis JS1;cave entrance
+1192197;Pelosinus;Pelosinus fermentans;JBW45;Pelosinus fermentans JBW45;water sample
+1193729;Candidatus;Candidatus Endolissoclinum;faulkneri L2;Candidatus Endolissoclinum faulkneri L2;3 m depth in a coral reef
+1194526;Staphylococcus;Staphylococcus warneri;SG1;Staphylococcus warneri SG1;laboratory contaminant
+1196031;Bacillus;Bacillus oceanisediminis;2691;Bacillus oceanisediminis 2691;seawater
+1202450;Mycobacterium;Mycobacterium haemophilum;DSM 44634;Mycobacterium haemophilum DSM 44634;subcutaneous granuloma
+1205910;Nocardiopsis;Nocardiopsis alba;ATCC BAA-2165;Nocardiopsis alba ATCC BAA-2165;guts
+1219058;Sphingopyxis;Sphingopyxis terrae;NBRC 15098;Sphingopyxis terrae NBRC 15098;kyoto
+1224162;Corynebacterium;Corynebacterium marinum;DSM 44953;Corynebacterium marinum DSM 44953;coastal sediment
+1227812;Piscirickettsia;Piscirickettsia salmonis;LF-89 = ATCC VR-1361;Piscirickettsia salmonis LF-89 = ATCC VR-1361;coho salmon
+1229831;Chlamydia;Chlamydia avium;10DC88;Chlamydia avium 10DC88;spleen tissue from parrot (polytelis)
+1230341;Salimicrobium;Salimicrobium jeotgali;;Salimicrobium jeotgali;fermented anchovy (engraulis japonica)
+1231624;Asaia;Asaia bogorensis;NBRC 16594;Asaia bogorensis NBRC 16594;flower
+1235834;Kosakonia;Kosakonia sacchari;SP1;Kosakonia sacchari SP1;root
+1236179;Janthinobacterium;Janthinobacterium sp. B9-8;B9-8;Janthinobacterium sp. B9-8;soil
+1236517;Prevotella;Prevotella fusca;JCM 17724;Prevotella fusca JCM 17724;curette
+1239934;Borrelia;Borrelia afzelii;HLJ01;Borrelia afzelii HLJ01;homo sapiens
+1242245;Acinetobacter;Acinetobacter johnsonii;XBB1;Acinetobacter johnsonii XBB1;hospital sewage
+1244531;Campylobacter;Campylobacter iguaniorum;;Campylobacter iguaniorum;bearded dragon
+1249552;Pseudohongiella;Pseudohongiella spirulinae;;Pseudohongiella spirulinae;sea water
+1254439;Bifidobacterium;Bifidobacterium thermophilum;RBL67;Bifidobacterium thermophilum RBL67;baby feces
+1260251;Spiribacter;Spiribacter salinus;M19-40;Spiribacter salinus M19-40;solar saltern of 19% salinity
+1262449;Clostridium;Clostridium pasteurianum;DSM 525 = ATCC 6013;Clostridium pasteurianum DSM 525 = ATCC 6013;soil
+1262470;Herbaspirillum;Herbaspirillum hiltneri;N3;Herbaspirillum hiltneri N3;surface-sterilized wheat roots
+1265309;Ruegeria;Ruegeria mobilis;F1926;Ruegeria mobilis F1926;seawater
+1265350;Buchnera;Buchnera aphidicola;(Aphis glycines);Buchnera aphidicola (Aphis glycines);whole body
+1266845;Carnobacterium;Carnobacterium inhibens;subsp. gilichinskyi;Carnobacterium inhibens subsp. gilichinskyi;siberian permafrost
+1267021;Frischella;Frischella perrara;;Frischella perrara;gut
+1267562;Cupriavidus;Cupriavidus gilardii;CR3;Cupriavidus gilardii CR3;tar pits
+1267766;Altererythrobacter;Altererythrobacter atlanticus;;Altererythrobacter atlanticus;north atlantic rise deep-sea sediment
+1273541;Pyrodictium;Pyrodictium delaneyi;;Pyrodictium delaneyi;active hydrothermal chimney
+1274631;Bradyrhizobium;Bradyrhizobium icense;;Bradyrhizobium icense;root nodule
+1280380;Synechococcus;Synechococcus sp. KORDI-100;KORDI-100;Synechococcus sp. KORDI-100;seawater
+1291742;Lactobacillus;Lactobacillus hokkaidonensis;JCM 18461;Lactobacillus hokkaidonensis JCM 18461;timothy grass silage
+1294273;Roseibacterium;Roseibacterium elongatum;DSM 19469;Roseibacterium elongatum DSM 19469;sand
+1295009;Candidatus;Candidatus Methanomassiliicoccus;intestinalis Issoire-Mx1;Candidatus Methanomassiliicoccus intestinalis Issoire-Mx1;enrichment culture from feces
+1297617;Intestinimonas;Intestinimonas butyriciproducens;;Intestinimonas butyriciproducens;stool
+1300343;Dokdonia;Dokdonia donghaensis;DSW-1;Dokdonia donghaensis DSW-1;envo:00002006
+1301915;Methanocaldococcus;Methanocaldococcus bathoardescens;;Methanocaldococcus bathoardescens;marker113 at caldera of axial seamount
+1302858;Borrelia;Borrelia miyamotoi;LB-2001;Borrelia miyamotoi LB-2001;blood of infected scid mice
+1307763;Kiritimatiella;Kiritimatiella glycovorans;;Kiritimatiella glycovorans;hypersaline microbial mat
+1307839;bacterium;bacterium L21-Spi-D4;;bacterium L21-Spi-D4;hypersaline microbial mat
+1315283;Pseudoalteromonas;Pseudoalteromonas translucida;KMM 520;Pseudoalteromonas translucida KMM 520;seawater
+1318743;Bartonella;Bartonella ancashensis;;Bartonella ancashensis;blood
+1324350;Acinetobacter;Acinetobacter equi;;Acinetobacter equi;horse dung
+1324352;Chryseobacterium;Chryseobacterium gallinarum;;Chryseobacterium gallinarum;chicken
+1330330;Kosmotoga;Kosmotoga pacifica;;Kosmotoga pacifica;hydrothermal sediments
+1333848;Citrobacter;Citrobacter freundii;CFNIH1;Citrobacter freundii CFNIH1;sink aerator
+1337936;Calothrix;Calothrix sp. 336/3;336/3;Calothrix sp. 336/3;water
+1341692;Clostridium;Clostridium autoethanogenum;DSM 10061;Clostridium autoethanogenum DSM 10061;rabbit feces
+1348584;Cellulophaga;Cellulophaga baltica;18;Cellulophaga baltica 18;seawater
+1348623;Bacillus;Bacillus megaterium;NBRC 15308 = ATCC 14581;Bacillus megaterium NBRC 15308 = ATCC 14581;environmental sample
+1348774;Croceicoccus;Croceicoccus naphthovorans;;Croceicoccus naphthovorans;sterile tools
+1356852;Hymenobacter;Hymenobacter sp. 41365;41365;Hymenobacter sp. 41365;silkworm feces
+1367477;Bacillus;Bacillus infantis;NRRL B-14911;Bacillus infantis NRRL B-14911;open ocean
+1379270;Gemmatimonas;Gemmatimonas phototrophica;;Gemmatimonas phototrophica;surface water of swan lake
+1379870;Spirosoma;Spirosoma radiotolerans;;Spirosoma radiotolerans;soil
+1379910;Rufibacter;Rufibacter sp. DG31D;DG31D;Rufibacter sp. DG31D;soil
+1384459;Methyloceanibacter;Methyloceanibacter caenitepidi;;Methyloceanibacter caenitepidi;sediment
+1385664;Hymenobacter;Hymenobacter sp. DG25B;DG25B;Hymenobacter sp. DG25B;soil
+1403316;Mycoplasma;Mycoplasma parvum;str. Indiana;Mycoplasma parvum str. Indiana;blood of a naturally infected pig
+1410383;Candidatus;Candidatus Tachikawaea;gelatinosa;Candidatus Tachikawaea gelatinosa;midgut of urostylis westwoodii
+1415773;Mycoplasma;Mycoplasma ovis;str. Michigan;Mycoplasma ovis str. Michigan;blood sample
+1415775;Clostridium;Clostridium baratii;str. Sullivan;Clostridium baratii str. Sullivan;stool (adult)
+1420916;Marinobacter;Marinobacter similis;;Marinobacter similis;sea water
+1420917;Marinobacter;Marinobacter salarius;;Marinobacter salarius;sea water
+1423144;Phaeobacter;Phaeobacter gallaeciensis;DSM 26640;Phaeobacter gallaeciensis DSM 26640;scallop
+1423892;Ehrlichia;Ehrlichia muris;AS145;Ehrlichia muris AS145;spleen of wild mouse
+1437453;Streptomyces;Streptomyces leeuwenhoekii;;Streptomyces leeuwenhoekii;salar de atacama, atacama desert
+1440763;Luteibacter;Luteibacter rhizovicinus;DSM 16549;Luteibacter rhizovicinus DSM 16549;spring barley rhizosphere
+1441930;Chania;Chania multitudinisentens;RB-25;Chania multitudinisentens RB-25;soil
+1447715;Bifidobacterium;Bifidobacterium pseudolongum;PV8-2;Bifidobacterium pseudolongum PV8-2;fecal sample
+1450761;Aneurinibacillus;Aneurinibacillus sp. XH2;XH2;Aneurinibacillus sp. XH2;oil produced water
+1454006;Siansivirga;Siansivirga zeaxanthinifaciens;CC-SAMT-1;Siansivirga zeaxanthinifaciens CC-SAMT-1;marine water
+1458425;Comamonadaceae;Comamonadaceae bacterium;A1;Comamonadaceae bacterium A1;water
+1458426;Comamonadaceae;Comamonadaceae bacterium;B1;Comamonadaceae bacterium B1;water
+1469502;Burkholderiales;Burkholderiales bacterium;GJ-E10;Burkholderiales bacterium GJ-E10;sediment
+1470434;Zhongshania;Zhongshania aliphaticivorans;;Zhongshania aliphaticivorans;sea-tidal flat
+1484157;Pantoea;Pantoea sp. PSNIH2;PSNIH2;Pantoea sp. PSNIH2;hand rail
+1484693;Rhodoferax;Rhodoferax saidenbachensis;;Rhodoferax saidenbachensis;environment
+1492737;Flavobacterium;Flavobacterium gilvum;;Flavobacterium gilvum;stream water
+1494608;Arthrobacter;Arthrobacter sp. PAMC 25486;PAMC 25486;Arthrobacter sp. PAMC 25486;environmental
+1505907;Thermococcus;Thermococcus eurythermalis;;Thermococcus eurythermalis;oil-immersed sample
+1508404;Jeotgalibacillus;Jeotgalibacillus malaysiensis;;Jeotgalibacillus malaysiensis;water and sand
+1515612;Sphingopyxis;Sphingopyxis fribergensis;;Sphingopyxis fribergensis;soil sample
+1528098;Rickettsiales;Rickettsiales bacterium;Ac37b;Rickettsiales bacterium Ac37b;amblyomma tick
+1528099;Lawsonella;Lawsonella clevelandensis;;Lawsonella clevelandensis;peritoneal abscess
+1531429;Coriobacteriaceae;Coriobacteriaceae bacterium;68-1-3;Coriobacteriaceae bacterium 68-1-3;intestinal contents
+1532555;Brevundimonas;Brevundimonas sp. DS20;DS20;Brevundimonas sp. DS20;caulobacter fwc20 culture
+1538644;Sphingobacterium;Sphingobacterium sp. ML3W;ML3W;Sphingobacterium sp. ML3W;wing
+1543721;Sedimenticola;Sedimenticola thiotaurini;;Sedimenticola thiotaurini;salt marsh
+1545728;Mycobacterium;Mycobacterium sp. EPa45;EPa45;Mycobacterium sp. EPa45;pah contaminated soil
+1547445;Francisella;Francisella sp. FSC1006;FSC1006;Francisella sp. FSC1006;lab culture euplotes raikovi
+1549858;Sphingomonas;Sphingomonas taxi;;Sphingomonas taxi;plant
+1550241;Thermofilum;Thermofilum sp. 1807-2;1807-2;Thermofilum sp. 1807-2;sediment
+1562970;Fermentimonas;Fermentimonas caenicola;;Fermentimonas caenicola;soil
+1564681;Carnobacterium;Carnobacterium sp. CP1;CP1;Carnobacterium sp. CP1;seawater
+1566358;Paenibacillus;Paenibacillus sp. IHBB 10380;IHBB 10380;Paenibacillus sp. IHBB 10380;soil
+1577791;Candidatus;Candidatus Methanoplasma;termitum;Candidatus Methanoplasma termitum;termite gut
+1579316;Halocynthiibacter;Halocynthiibacter arcticus;;Halocynthiibacter arcticus;marine sediment
+1579979;Wenzhouxiangella;Wenzhouxiangella marina;;Wenzhouxiangella marina;envo:00002149
+1580092;Candidatus;Candidatus Nitrosopumilus;adriaticus;Candidatus Nitrosopumilus adriaticus;sea
+1581557;Candidatus;Candidatus Methylopumilus;planktonicus;Candidatus Methylopumilus planktonicus;water
+1581680;Candidatus;Candidatus Methylopumilus;turicensis;Candidatus Methylopumilus turicensis;water
+1586287;Lentzea;Lentzea guizhouensis;;Lentzea guizhouensis;karstic limestone
+1603555;Candidatus;Candidatus Nitrosotenuis;cloacae;Candidatus Nitrosotenuis cloacae;soil aquifer system
+1603606;Desulfuromonas;Desulfuromonas sp. WTL;WTL;Desulfuromonas sp. WTL;deep subsurface anoxic brine
+1604004;Halanaeroarchaeum;Halanaeroarchaeum sulfurireducens;;Halanaeroarchaeum sulfurireducens;brine
+1608628;Candidatus;Candidatus Filomicrobium;marinum;Candidatus Filomicrobium marinum;surface sewater
+1609966;Confluentimicrobium;Confluentimicrobium sp. EMB200-NS6;EMB200-NS6;Confluentimicrobium sp. EMB200-NS6;oil contaminated tidal flat
+1609977;Sphingomonas;Sphingomonas hengshuiensis;;Sphingomonas hengshuiensis;soil of hengshui lake
+1616788;Paenibacillus;Paenibacillus bovis;;Paenibacillus bovis;yak milk
+1618207;Arthrobacter;Arthrobacter sp. IHBB 11108;IHBB 11108;Arthrobacter sp. IHBB 11108;water from surface of lake
+1620392;Spongiibacter;Spongiibacter sp. IMCC21906;IMCC21906;Spongiibacter sp. IMCC21906;seawater
+1620421;Hoeflea;Hoeflea sp. IMCC20628;IMCC20628;Hoeflea sp. IMCC20628;coastal seawater
+1637999;Verrucomicrobia;Verrucomicrobia bacterium;IMCC26134;Verrucomicrobia bacterium IMCC26134;water
+1643450;Devosia;Devosia sp. H5989;H5989;Devosia sp. H5989;csf
+1648404;Erythrobacter;Erythrobacter atlanticus;;Erythrobacter atlanticus;deep sea sediment
+1650658;Actinobacteria;Actinobacteria bacterium;IMCC26256;Actinobacteria bacterium IMCC26256;freshwater
+1658671;Arsenicicoccus;Arsenicicoccus sp. oral taxon 190;oral taxon 190;Arsenicicoccus sp. oral taxon 190;curette
+1658672;Ottowia;Ottowia sp. oral taxon 894;oral taxon 894;Ottowia sp. oral taxon 894;curette
+1678028;Massilia;Massilia sp. NR 44200;NR 44200;Massilia sp. NR 44200;forest soil
+1678129;Limnohabitans;Limnohabitans sp. 103DPR2;103DPR2;Limnohabitans sp. 103DPR2;freshwater
+1690248;Arthrobacter;Arthrobacter sp. LS16;LS16;Arthrobacter sp. LS16;agricultural fields
+1697053;Oblitimonas;Oblitimonas alkaliphila;;Oblitimonas alkaliphila;deep liver
+1705394;Candidatus;Candidatus Thioglobus;autotrophicus;Candidatus Thioglobus autotrophicus;water
+1707785;Massilia;Massilia sp. WG5;WG5;Massilia sp. WG5;soil
+1714373;Microbacterium;Microbacterium sp. No. 7;No. 7;Microbacterium sp. No. 7;activated sludge
+1736674;Algibacter;Algibacter alginolytica;;Algibacter alginolytica;seawater
+1768108;Deinococcus;Deinococcus actinosclerus;;Deinococcus actinosclerus;soil
+1768242;Paucibacter;Paucibacter sp. KCTC 42545;KCTC 42545;Paucibacter sp. KCTC 42545;daechung reservoir
+1771959;Arthrobacter;Arthrobacter sp. ATCC 21022;ATCC 21022;Arthrobacter sp. ATCC 21022;soil
+1774273;Polaribacter;Polaribacter vadi;;Polaribacter vadi;thais luteostoma
+1783515;Streptomyces;Streptomyces sp. S10(2016);S10(2016);Streptomyces sp. S10(2016);soil
+1814128;Streptococcus;Streptococcus sp. HTS9;HTS9;Streptococcus sp. HTS9;respiratory tract tissue
+1835254;Polynucleobacter;Polynucleobacter duraquae;;Polynucleobacter duraquae;freshwater
+1842533;Acidovorax;Acidovorax sp. RAC01;RAC01;Acidovorax sp. RAC01;algal phycosphere
+1842535;Blastomonas;Blastomonas sp. RAC04;RAC04;Blastomonas sp. RAC04;chrysochromulina tobin phycosphere
+1842537;Hydrogenophaga;Hydrogenophaga sp. RAC07;RAC07;Hydrogenophaga sp. RAC07;chrysochromulina tobin phycosphere
+1843368;Sphingobium;Sphingobium sp. RAC03;RAC03;Sphingobium sp. RAC03;chrysochromulina tobin phycosphere

@@ -1,0 +1,38 @@
+﻿nielsen_genus;nielsen_species;nielsen_speciesStrain;nielsen_growthRate;nielsen_size;nielsen_type;nielsen_ref
+Anabaena;Anabaena affinis;Anabaena affinis;0.22;5;Colony;Ohkubo et al. 9
+Anabaena;Anabaena circinalis;Anabaena circinalis;0.132|0.284|0.295|0.35|0.65|0.76;6.6|6.6|6.6|4|10.9833333333333|6.6;Colony|Colony|Colony|Colony|Colony|Colony;Baker et al. 00|Wyman & Fay 86|Wyman & Fay 86|Ohkubo et al. 9|McCausland et a|Reynolds 84
+Anabaena;Anabaena cylindrica;Anabaena cylindrica;0.2317;2.94214876;Colony;RUC-00/01
+Anabaena;Anabaena flos-aquae;Anabaena flos-aquae;0.156|0.176|0.32|0.46|0.99|1.8|2|2.2|3.1;5|5|3|3|5|5|5|5|5;Colony|Colony|Colony|Colony|Colony|Colony|Colony|Colony|Colony;Wyman & Fay 86|Baker et al. 00|Ohkubo et al. 9|Ohkubo et al. 9|Lee & Rhee 99|Gupta et al. 02|Gupta et al. 02|Gupta et al. 02|Gupta et al. 02
+Anabaena;Anabaena oscillatoides;Anabaena oscillatoides;0.8;0;Colony;Robarts & Zohar
+Anabaena;Anabaena solitaria;Anabaena solitaria;0.263;17;Colony;Wyman & Fay 86
+Anabaena;Anabaena spiroides;Anabaena spiroides;0.26|0.33|0.9;4|4|11;Colony|Colony|Colony;Ohkubo et al. 9|Ohkubo et al. 9|Robarts & Zohar
+Anabaena;Anabaena variabilis;Anabaena variabilis;0.78|1.1;3.62|5;Unicell|Colony;Raven 86|Robarts & Zohar
+Aphanizomenon;Aphanizomenon flos-aquae;Aphanizomenon flos-aquae;0.42|0.624|0.76|0.81|1.01|1.2;4.1|4.1|4.1|4.1|4.1|4.1;Colony|Colony|Colony|Colony|Colony|Colony;Ward & Wetzel 8|De Nobel et al.|Ward & Wetzel 8|Ward & Wetzel 8|Reynolds 84|Robarts & Zohar
+Gloeobacter;Gloeobacter violacea;Gloeobacter violacea;0.16;1.88;Unicell;Raven 86
+Gloeotrica;Gloeotrica echinulata;Gloeotrica echinulata;0.219;9;Colony;Wyman & Fay 86
+Limnotrix;Limnotrix redekei;Limnotrix redekei;0.169|0.282|0.368|0.471|0.496|0.534|0.549|0.693|0.697|0.699|0.804|1.106;2|2|2|2|2|2|2|2|2|2|2|2;Colony|Colony|Colony|Colony|Colony|Colony|Colony|Colony|Colony|Colony|Colony|Colony;Nicklish 99|Nicklish 98|Nicklish 98|Nicklish 98|Nicklish 98|Nicklish 98|Nicklish 99|Nicklish 98|Nicklish 98|Nicklish 98|Nicklish 98|Nicklish 98
+Merismopedia;Merismopedia tenuissima;Merismopedia tenuissima;0.186|0.589|0.626|0.686;75|75|75|75;Colony|Colony|Colony|Colony;Coles & Jones 0|Coles & Jones 0|Coles & Jones 0|Coles & Jones 0
+Microcoleus;Microcoleus chtonoplastes;Microcoleus chtonoplastes;0.191882|0.194118|0.198965|0.20042;5|5|5|5;Colony|Colony|Colony|Colony;Gerasimenko et |Gerasimenko et |Gerasimenko et |Gerasimenko et 
+Microcystis;Microcystis aeruginosa;Microcystis aeruginosa;0.1|0.105|0.13|0.17|0.174|0.2|0.2|0.225|0.23|0.235|0.251|0.26|0.27|0.27|0.272|0.288|0.3|0.3|0.307|0.319|0.324|0.33|0.34|0.39|0.4|0.45|0.47|0.49|0.497|0.55|0.59|0.59|0.6|0.7|0.77|0.8|0.81|0.89|0.91|0.91|0.92|0.96|1.08|1.096|1.1|1.11|1.75|1.93;5.96|53|5.76|5|53|5.94|5|5|5.68|5.018|5|5|5|5.44|5|5|5|5|5|53|5|5|11.0407142857143|5|53|4.9|53|5.24|53|53|5.54|5|5.03272727272727|3.36|53|5|5|7.30285714285714|53|7.30285714285714|3.725|3.32|4.22|53|5.03272727272727|5|5.03272727272727|53;Unicell|Colony|Unicell|Colony|Colony|Unicell|Colony|Unicell|Unicell|Unicell|Unicell|Colony|Unicell|Unicell|Unicell|Unicell|Unicell|Colony|Unicell|Colony|Unicell|Unicell|Colony|Colony|Colony|Unicell|Colony|Unicell|Colony|Colony|Unicell|Unicell|Unicell|Unicell|Colony|Unicell|Unicell|Colony|Colony|Colony|Unicell|Unicell|Unicell|Colony|Unicell|Unicell|Unicell|Colony;Long et al. 01|Watanabe 87|Long et al. 01|Ohkubo et al. 9|Coles & Jones 0|Long et al. 01|Ohkubo et al. 9|Hesse & Kohl 01|Long et al. 01|Colman & Santha|Hesse & Kohl 01|Ohkubo et al. 9|Böttcher et al.|Long et al. 01|Hesse & Kohl 01|Hesse & Kohl 01|Genoni et al. 0|Ohkubo et al. 9|Hesse & Kohl 01|Wyman & Fay 86|Hesse & Kohl 01|Böttcher et al.|Rao et al. 96|Ohkubo et al. 9||Long et al. 01|Reynolds 84|Long et al. 01|Coles & Jones 0|Orr & Jones 98|Long et al. 01|Robarts & Zohar|Lukac & Aegerte|Long et al. 01|Zevenboom & Mur|Robarts & Zohar|Robarts & Zohar|Ward & Wetzel 8|Coles & Jones 0|Ward & Wetzel 8|Boumnich et al.|Long et al. 01|Long et al. 01|Coles & Jones 0|Guanzon & Nakah|Böttcher et al.|Lukac & Aegerte|Oh & Rhee 91
+Microcystis;Microcystis reinboldii;Microcystis reinboldii;1.7;30;Colony;Balode et al. 9
+Microcystis;Microcystis viridis;Microcystis viridis;0.23|0.25|0.26|0.35|0.39;15|15|15|15|15;Colony|Colony|Colony|Colony|Colony;Fujimoto et al.|Ohkubo et al. 9|Fujimoto et al.|Fujimoto et al.|Fujimoto et al.
+Microcystis;Microcystis wesenbergii;Microcystis wesenbergii;0.16;29;Colony;Ohkubo et al. 9
+Oscillatoria;Oscillatoria agardhii;Oscillatoria agardhii;0.231|0.528|0.59|0.8|0.864|0.88;3.6|3.6|3.6|3.6|3.6|3.6;Colony|Colony|Colony|Colony|Colony|Colony;Wyman & Fay 86|Post et al. 85|Robarts & Zohar|Faintuch et al.|Post et al. 85|Reynolds 84
+Oscillatoria;Oscillatoria bourrellyi;Oscillatoria bourrellyi;0.498|0.499|0.531|0.565;0|||;Colony|Colony|Colony|Colony;Ojala 93|Ojala 93|Ojala 93|Ojala 93
+Oscillatoria;Oscillatoria limnetica;Oscillatoria limnetica;0.7;1.5;Colony;Faintuch et al.
+Oscillatoria;Oscillatoria redekei;Oscillatoria redekei;0.56;3;Colony;Wyman & Fay 86
+Oscillatoria;Oscillatoria tenuis;Oscillatoria tenuis;0.31|0.4|0.48|0.58|0.62|0.8;5|7|7|7|7|7;Colony|Colony|Colony|Colony|Colony|Colony;Ohkubo et al. 9|Brown & Trick 9|Brown & Trick 9|Brown & Trick 9|Brown & Trick 9|Brown & Trick 9
+Phormidium;Phormidium autumnale;Phormidium autumnale;0.4364;5.9;Colony;Davey et al. 91
+Phormidium;Phormidium mucicola;Phormidium mucicola;2.72;2;Colony;Oh & Rhee 91
+Phormidium;Phormidium tenue;Phormidium tenue;0.3;0;Colony;Ohkubo et al. 9
+Pinnularia;Pinnularia borealis;Pinnularia borealis;0.6608;13.5;Colony;Davey et al. 91
+Planktosphaerella;Planktosphaerella terrestris;Planktosphaerella terrestris;1.1035;29.9;Colony;Davey et al. 91
+Planktothrix;Planktothrix agardhii;Planktothrix agardhii;0.517|0.711;5|5;Colony|Colony;Nicklish & Fiet|Davis & Walsby 
+Planktothrix;Planktothrix rubescens;Planktothrix rubescens;0.6603;7;Colony;Davis & Walsby 
+Planktotrix;Planktotrix agardhii;Planktotrix agardhii;0.295|0.335|0.381|0.418|0.421|0.46|0.513|0.555|0.576|0.616|0.62|0.656|0.66|0.74|0.86;5|5|5|5|5|5|5|5|5|5|5|5|5|5|5;Colony|Colony|Colony|Colony|Colony|Colony|Colony|Colony|Colony|Colony|Colony|Colony|Colony|Colony|Colony;Nicklish 98|Nicklish 98|Nicklish 98|Nicklish 98|Nicklish 98|Böttcher et al.|Nicklish 98|Nicklish 98|Nicklish 98|Nicklish 98|Böttcher et al.|Nicklish 98|Böttcher et al.|Böttcher et al.|Böttcher et al.
+Planktotrix;Planktotrix rubescens;Planktotrix rubescens;0.123|0.35;7|7;Colony|Colony;Bright & Walsby|Davis et al. 03
+Pseudoanabaena;Pseudoanabaena catenata;Pseudoanabaena catenata;0.6126;2.2;Colony;Davey et al. 91
+Schizothrix;Schizothrix calcicola;Schizothrix calcicola;0.28;0;Colony;Tang & Vincent 
+Spirulina;Spirulina maxima;Spirulina maxima;0.4;1.5;Colony;Faintuch et al.
+Synechococcus;Synechococcus leopolensis;Synechococcus leopolensis;0.86|1.21|2.07;1.78|1.24|1.78;Unicell|Unicell|Unicell;Raven 86|Raven 86|Raven 86
+Synechococcus;Synechococcus linearis;Synechococcus linearis;1.47;2.48;Unicell;Raven 86
