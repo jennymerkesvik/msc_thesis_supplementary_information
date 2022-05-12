@@ -1,5 +1,5 @@
 ### Thesis, Master in Science, Biotechnology
-# Provisional genotype--phenotype association: leveraging multiple-source microbial data for inferring phenotypic features
+# Towards genotype--phenotype association: leveraging multiple-source microbial data for inferring phenotypic features
 ### Jenny Merkesvik
 Norwegian University of Science and Technology (NTNU)
 
